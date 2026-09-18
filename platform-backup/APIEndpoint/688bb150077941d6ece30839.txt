@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"688bb14d077941d6ece30835",
+	"createdTime":1753985440302,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dssMRsIXETrISYt/automation",
+	"httpMethod":"POST",
+	"id":"688bb150077941d6ece30839",
+	"lastModifiedBy":162004,
+	"lcName":"changesetlocallpsum",
+	"modifiedTime":1753985674203,
+	"name":"changeSetLocalLPsUM",
+	"ownerUserId":168834,
+	"path":"automation",
+	"policyIds":[
+		"688bb14e077941d6ece30836"
+	],
+	"resourceIds":[
+		"688bb14ca318610916509390"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
