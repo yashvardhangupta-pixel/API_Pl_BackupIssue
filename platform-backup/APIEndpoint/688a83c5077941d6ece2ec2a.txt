@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68667789e979370315d5347b",
+	"createdTime":1753908216847,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/qpOXf/{name}?resourceId={{RESOURCE_ID}}",
+	"id":"688a83c5077941d6ece2ec2a",
+	"lastModifiedBy":162004,
+	"lcName":"changesetqa2lzfmaxadzuebyzwlrwgi",
+	"modifiedTime":1753908281950,
+	"name":"changeSetQA2LzfmaXaDZUEbYZwLrwGI",
+	"ownerUserId":162004,
+	"path":"qpOXf/{name}",
+	"resourceIds":[
+		"6888c3828ca03fb2e46d31e4"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

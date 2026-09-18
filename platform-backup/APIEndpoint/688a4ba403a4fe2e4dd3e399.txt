@@ -1,0 +1,39 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"688a4b9103a4fe2e4dd3e398",
+	"createdTime":1753893796472,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"export-api/export-endpoint",
+	"id":"688a4ba403a4fe2e4dd3e399",
+	"lastModifiedBy":162004,
+	"lcName":"export endpoint",
+	"modifiedTime":1753894083768,
+	"name":"export endpoint",
+	"ownerUserId":162004,
+	"path":"export-endpoint",
+	"resourceIds":[
+		"688999ca60ed44bc8e5c56d9"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}
