@@ -1,0 +1,43 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69085d0dca44ec7dad162261",
+	"createdTime":1762155999580,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateDvDTvXkTag/UpdateIjmldiDHnI",
+	"id":"69085d1a6930e64b4ad43501",
+	"lastModifiedBy":-1,
+	"lcName":"updatemsfnoylikm",
+	"modifiedTime":1762156353652,
+	"name":"UpdatemSFNOyLikm",
+	"ownerUserId":175325,
+	"path":"UpdateIjmldiDHnI",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884682497cc242e33044d02"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
