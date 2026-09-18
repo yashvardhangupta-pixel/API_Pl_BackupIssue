@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":true,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6a3503be96cb0043cbcfd9bb",
+	"createdTime":1782030731320,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"CLP-Twilio-Test/twilio-status-callback",
+	"id":"6a350426f9069a5e8ecd2021",
+	"lastModifiedBy":191175,
+	"lcName":"twilio callback handler",
+	"modifiedTime":1782030731320,
+	"name":"Twilio Callback Handler",
+	"ownerUserId":191175,
+	"path":"twilio-status-callback",
+	"resourceIds":[
+		"6a34f55ae9bd845aded6b530"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
