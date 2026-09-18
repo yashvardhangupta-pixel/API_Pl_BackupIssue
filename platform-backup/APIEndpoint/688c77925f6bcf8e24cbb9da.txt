@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"688c777f5f6bcf8e24cbb9d6",
+	"createdTime":1754036114220,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"changeSetLocalCSOBfSXdnQVMB/3QJ3ZvL",
+	"id":"688c77925f6bcf8e24cbb9da",
+	"lastModifiedBy":162004,
+	"lcName":"changesetlocal_externalapi_post_0332493204",
+	"modifiedTime":1754036227554,
+	"name":"changeSetLocal_ExternalAPI_Post_0332493204",
+	"ownerUserId":162004,
+	"path":"3QJ3ZvL",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://api.restful-api.dev/objects"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
