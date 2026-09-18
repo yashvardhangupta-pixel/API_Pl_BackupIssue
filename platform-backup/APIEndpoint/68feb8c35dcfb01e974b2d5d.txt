@@ -1,0 +1,43 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68feb8b85dcfb01e974b2d5c",
+	"createdTime":1761523907304,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSINazXMOtQxc/UpdatexlTpLYTEHH",
+	"id":"68feb8c35dcfb01e974b2d5d",
+	"lastModifiedBy":-1,
+	"lcName":"updateibxdubncml",
+	"modifiedTime":1761601397419,
+	"name":"UpdateibxDUBncML",
+	"ownerUserId":175325,
+	"path":"UpdatexlTpLYTEHH",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}

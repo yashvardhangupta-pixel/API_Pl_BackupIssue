@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68f22793dbf9a759370bf506",
+	"createdTime":1760700367955,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Forwardslash/forward-slash",
+	"id":"68f227cfdbf9a759370bf50d",
+	"lastModifiedBy":46218,
+	"lcName":"forward slash",
+	"modifiedTime":1761582992627,
+	"name":"forward slash",
+	"ownerUserId":46218,
+	"path":"forward-slash",
+	"resourceIds":[
+		"68ff7a6d76b031236dd2402c"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"southBoundAPI":{
+		"forwardAllPaths":true,
+		"httpVersion":"HTTP_2",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://test-slash.free.beeceptor.com"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":2
+}
