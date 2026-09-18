@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6867a11e7247f94ea938d042",
+	"createdTime":1751622080149,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test--/todos",
+	"id":"6867a1c07247f94ea938d046",
+	"lastModifiedBy":44567,
+	"lcName":"downapi",
+	"modifiedTime":1752086753342,
+	"name":"downapi",
+	"ownerUserId":44105,
+	"path":"todos",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://httpstat.us/500"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":11
+}

@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"686ec7f9f52a194f44a58d82",
+	"createdTime":1752090711660,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"callable-call-test/call",
+	"id":"686ec8577c527a3393c08444",
+	"lastModifiedBy":508,
+	"lcName":"call",
+	"modifiedTime":1752090715820,
+	"name":"call",
+	"ownerUserId":508,
+	"path":"call",
+	"resourceIds":[
+		"686ec6d07d36d6523041a6db"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PUT",
+		"PATCH"
+	],
+	"version":1
+}

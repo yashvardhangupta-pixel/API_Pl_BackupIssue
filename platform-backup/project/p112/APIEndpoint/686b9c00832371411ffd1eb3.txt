@@ -1,0 +1,38 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"686b79a596954876cb6c00ea",
+	"createdTime":1751882752607,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"testingbySumit/dfgh",
+	"id":"686b9c00832371411ffd1eb3",
+	"lastModifiedBy":39715,
+	"lcName":"scdvfxb",
+	"modifiedTime":1752040993995,
+	"name":"scdvfxb",
+	"ownerUserId":43498,
+	"path":"dfgh",
+	"projectId":112,
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://unifyapps.monday.com/boards/1408793790/views/12733612/pulses/2021620547"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
