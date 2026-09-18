@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"669a6801cbf2d815b680800f",
+	"createdTime":1755520003680,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"hello/well-known/agent-cardjson",
+	"httpMethod":"GET",
+	"id":"68a31c03a6c0a9153c722b64",
+	"lastModifiedBy":602,
+	"lcName":"test",
+	"modifiedTime":1755520003680,
+	"name":"test",
+	"ownerUserId":602,
+	"path":"well-known/agent-cardjson",
+	"resourceIds":[
+		"68a2adcb9d7d8d3f5047d2c1"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}

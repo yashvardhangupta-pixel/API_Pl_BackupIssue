@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a2cbfa8cf4f044082f37e1",
+	"createdTime":1755499705586,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdatevQlUlgddYn/CSsmD/{name}",
+	"id":"68a2cc218cf4f044082f3801",
+	"lastModifiedBy":175325,
+	"lcName":"changesetlocalcsopgnotguc",
+	"modifiedTime":1755499881596,
+	"name":"changeSetLocalCSOPGNotGUC",
+	"ownerUserId":175325,
+	"path":"CSsmD/{name}",
+	"policyIds":[
+		"68a2cbe98cf4f044082f37d1"
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
