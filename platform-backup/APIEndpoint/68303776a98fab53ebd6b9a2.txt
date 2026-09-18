@@ -1,0 +1,40 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683018dfefff0f78070fffd9",
+	"createdTime":1747990390513,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"CvWlkqaJozDLcPN/sales_force",
+	"id":"68303776a98fab53ebd6b9a2",
+	"lastModifiedBy":522,
+	"lcName":"sales force api",
+	"modifiedTime":1748043389779,
+	"name":"Sales Force API",
+	"ownerUserId":31268,
+	"path":"sales_force",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"http://internal-alb-salesforce-qas-1586422701.us-east-1.elb.amazonaws.com"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PUT",
+		"PATCH"
+	],
+	"version":1
+}

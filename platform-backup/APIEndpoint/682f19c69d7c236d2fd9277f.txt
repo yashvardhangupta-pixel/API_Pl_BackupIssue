@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682eed68b4872f0f2051b4cb",
+	"createdTime":1747917254454,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-filter/policy-testing",
+	"id":"682f19c69d7c236d2fd9277f",
+	"lastModifiedBy":44105,
+	"lcName":"policy testing",
+	"modifiedTime":1747936170510,
+	"name":"policy testing",
+	"ownerUserId":31268,
+	"path":"policy-testing",
+	"policyIds":[
+		"682f19869d7c236d2fd9277c"
+	],
+	"resourceIds":[
+		"682853a4df825e08a73ed022"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}
