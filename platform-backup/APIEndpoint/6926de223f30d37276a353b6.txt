@@ -1,0 +1,36 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6926dd933f30d37276a353b0",
+	"createdTime":1764154914623,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"checkingEvent/checkingEvent",
+	"id":"6926de223f30d37276a353b6",
+	"lastModifiedBy":308,
+	"lcName":"checkingevent",
+	"modifiedTime":1764161866534,
+	"name":"checkingEvent",
+	"ownerUserId":308,
+	"path":"checkingEvent",
+	"resourceIds":[
+		"e_6926ddfaf9bfdf464e866a4d"
+	],
+	"resourceType":"EVENT_STREAMS",
+	"standard":false,
+	"version":14
+}
