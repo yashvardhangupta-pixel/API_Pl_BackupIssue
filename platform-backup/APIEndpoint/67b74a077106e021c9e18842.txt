@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67b74a047106e021c9e1883c",
+	"createdTime":1740065330683,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"HuiiBVUKfNpGqUO/automation/endpoint2?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67b74a077106e021c9e18842",
+	"lastModifiedBy":522,
+	"lcName":"changesetlocalndbmi",
+	"modifiedTime":1740096224889,
+	"name":"changeSetLocalndBMI",
+	"ownerUserId":522,
+	"path":"automation/endpoint2",
+	"policyIds":[
+		"67b74a057106e021c9e1883e"
+	],
+	"resourceIds":[
+		"67b74a023c5b66509890ea50"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}
