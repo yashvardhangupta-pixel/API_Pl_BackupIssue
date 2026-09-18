@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68847009bed3af3df2257126",
+	"createdTime":1753510012241,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateFbgEfapJKN/QTwHg/{name}",
+	"id":"6884702fc0e63cd9f6b0b51b",
+	"lastModifiedBy":162004,
+	"lcName":"changesetqa2csoiqvcrvdu",
+	"modifiedTime":1753510174938,
+	"name":"changeSetQA2CSOIqVCRVDU",
+	"ownerUserId":162004,
+	"path":"QTwHg/{name}",
+	"policyIds":[
+		"68846ff5c0e63cd9f6b0b517"
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}

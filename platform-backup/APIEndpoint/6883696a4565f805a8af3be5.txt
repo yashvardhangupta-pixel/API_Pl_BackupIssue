@@ -1,0 +1,36 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"687f2fa27995e18ce5abf276",
+	"createdTime":1753442666566,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"samePath1/jbib",
+	"id":"6883696a4565f805a8af3be5",
+	"lastModifiedBy":46209,
+	"lcName":"jbib",
+	"modifiedTime":1753443156346,
+	"name":"jbib",
+	"ownerUserId":46209,
+	"path":"jbib",
+	"resourceIds":[
+		"687deba5751a16fc60318612"
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"standard":false,
+	"version":4
+}
