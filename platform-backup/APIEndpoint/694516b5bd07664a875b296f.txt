@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6945168bbd07664a875b2962",
+	"createdTime":1766135641372,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateBVJsrDbtoh/ViFUY/{name}",
+	"id":"694516b5bd07664a875b296f",
+	"lastModifiedBy":-1,
+	"lcName":"changesetuat2uppcwkzs",
+	"modifiedTime":1766717994252,
+	"name":"changeSetUAT2UppCwkZs",
+	"ownerUserId":175325,
+	"path":"ViFUY/{name}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":3
+}
