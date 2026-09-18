@@ -1,0 +1,47 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68ca2cf6e1484632741cbe63",
+	"createdTime":1758080278814,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"opopopop",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"loadtest/opopopop",
+	"id":"68ca2d16e1484632741cbe64",
+	"lastModifiedBy":33430,
+	"lcName":"opopopop",
+	"modifiedTime":1758080278814,
+	"name":"opopopop",
+	"ownerUserId":33430,
+	"path":"opopopop",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"opopopop.com"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}

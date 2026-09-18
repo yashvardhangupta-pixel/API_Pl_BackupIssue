@@ -1,0 +1,43 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68c9c27e253e164520cfef4c",
+	"createdTime":1758053001351,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSICoaXiLNgEf/UpdateHooBCcmkwz",
+	"id":"68c9c289253e164520cfef4f",
+	"lastModifiedBy":-1,
+	"lcName":"updatemollofiipo",
+	"modifiedTime":1758087420996,
+	"name":"UpdatemolLofIIPo",
+	"ownerUserId":175325,
+	"path":"UpdateHooBCcmkwz",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
