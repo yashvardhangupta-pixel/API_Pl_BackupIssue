@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6a104d4a6597e43c0c544d75",
+	"createdTime":1779453273327,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetLocalCSIiuBMetIyDn/UpdaterISCsglLtk",
+	"id":"6a104d595c35f55bb26b37b5",
+	"lastModifiedBy":-1,
+	"lcName":"updatecsyqmseafs",
+	"modifiedTime":1779455829516,
+	"name":"UpdatecSyQmSeAfS",
+	"ownerUserId":175325,
+	"path":"UpdaterISCsglLtk",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
