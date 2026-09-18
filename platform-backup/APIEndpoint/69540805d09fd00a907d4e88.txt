@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69540687d09fd00a907d4e6b",
+	"createdTime":1767114757861,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"workflows/Get-Id-vs-Name",
+	"id":"69540805d09fd00a907d4e88",
+	"lastModifiedBy":517,
+	"lcName":"get id vs name",
+	"modifiedTime":1767346172532,
+	"name":"Get Id vs Name",
+	"ownerUserId":517,
+	"path":"Get-Id-vs-Name",
+	"resourceIds":[
+		"695406af42969a4288cb770e"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

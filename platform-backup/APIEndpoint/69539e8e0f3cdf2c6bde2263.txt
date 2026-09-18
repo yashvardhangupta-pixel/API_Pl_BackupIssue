@@ -1,0 +1,39 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69539e3c96aa677d69dbd8a0",
+	"createdTime":1767332682868,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"cost-agent/fetch-infra-resources",
+	"id":"69539e8e0f3cdf2c6bde2263",
+	"lastModifiedBy":17,
+	"lcName":"fetch infra resources",
+	"modifiedTime":1767332682868,
+	"name":"fetch infra resources",
+	"ownerUserId":17,
+	"path":"fetch-infra-resources",
+	"resourceIds":[
+		"69539e7db3fa021061b212ea"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
