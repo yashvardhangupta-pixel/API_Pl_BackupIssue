@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68d7a63b37772f3015b55f6d",
+	"createdTime":1758963260069,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"SSE API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"hdfc-test/mcp/sse",
+	"httpMethod":"GET",
+	"id":"68d7a63c37772f3015b55f6e",
+	"lastModifiedBy":186893,
+	"lcName":"sse",
+	"modifiedTime":1758963260069,
+	"name":"SSE",
+	"ownerUserId":186893,
+	"path":"mcp/sse",
+	"resourceIds":[
+		"67dd3e1d24f9fb5bd409af36"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}
