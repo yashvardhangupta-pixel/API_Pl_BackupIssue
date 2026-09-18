@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6927ec91c8b8684907dbb712",
+	"createdTime":1764224167166,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Custom-token-test/custom-token-test",
+	"id":"6927eca7c8b8684907dbb713",
+	"lastModifiedBy":46218,
+	"lcName":"custom token test",
+	"modifiedTime":1764224171046,
+	"name":"custom token test",
+	"ownerUserId":46218,
+	"path":"custom-token-test",
+	"resourceIds":[
+		"6821efdeff494c0a5af4d887"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":1
+}
