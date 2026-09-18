@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"699dc067122acb11777e8bc0",
+	"createdTime":1773791855829,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dcce-practical-acknowledge/Practical-and-DCCE",
+	"id":"699dc109122acb11777e8bc5",
+	"lastModifiedBy":21056,
+	"lcName":"practical and dcce",
+	"modifiedTime":1773791855829,
+	"name":"Practical and DCCE",
+	"ownerUserId":21056,
+	"path":"Practical-and-DCCE",
+	"resourceIds":[
+		"699dbdedb474496e0379bc24"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}
