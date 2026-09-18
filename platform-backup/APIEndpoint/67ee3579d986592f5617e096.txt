@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67ee3579d986592f5617e095",
+	"createdTime":1743664505453,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"SSE API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-dls-23/mcp/sse",
+	"httpMethod":"GET",
+	"id":"67ee3579d986592f5617e096",
+	"lastModifiedBy":45512,
+	"lcName":"sse",
+	"modifiedTime":1744021894414,
+	"name":"SSE",
+	"ownerUserId":45512,
+	"path":"mcp/sse",
+	"resourceIds":[
+		"67dd3e1d24f9fb5bd409af36"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
