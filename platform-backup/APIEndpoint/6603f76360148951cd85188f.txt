@@ -1,0 +1,49 @@
+{
+	"active":true,
+	"cacheResponse":true,
+	"cacheSettings":{
+		"cacheKeys":[
+			
+		],
+		"ttl":{
+			"duration":600,
+			"unit":"MINUTE"
+		}
+	},
+	"collectionId":"6603e40760148951cd85188a",
+	"createdTime":1711535971836,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ap1-collection-test/endpoint-testing?resourceId={{RESOURCE_ID}}",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"6603f76360148951cd85188f",
+	"lcName":"endpoint testin",
+	"modifiedTime":1711886253135,
+	"name":"Endpoint testin",
+	"ownerUserId":174,
+	"path":"endpoint-testing",
+	"resourceIds":[
+		"66042003f043f135811706a0",
+		"660114a6fd4b3e087f3d81af"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":39
+}

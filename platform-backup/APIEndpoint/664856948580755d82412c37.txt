@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1716016788458,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/66485656bb6e0631b160a960",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"664856948580755d82412c37",
+	"lastModifiedBy":0,
+	"lcName":"salesforce_delete_record_connector (do not edit) (copy) automation web-hook",
+	"modifiedTime":1719470019019,
+	"name":"Salesforce_Delete_Record_Connector (DO NOT EDIT) (Copy) Automation Web-hook",
+	"ownerUserId":34,
+	"path":"66485656bb6e0631b160a960",
+	"resourceIds":[
+		"66485656bb6e0631b160a960"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":61
+}

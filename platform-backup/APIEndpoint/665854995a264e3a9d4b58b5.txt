@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1717064857222,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6654a8745515ee5791ccbc9e",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"665854995a264e3a9d4b58b5",
+	"lastModifiedBy":0,
+	"lcName":"test lovekesh oz dial outbound automation web-hook",
+	"modifiedTime":1719470062694,
+	"name":"Test Lovekesh Oz dial outbound Automation Web-hook",
+	"ownerUserId":311,
+	"path":"6654a8745515ee5791ccbc9e",
+	"resourceIds":[
+		"6654a8745515ee5791ccbc9e"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":61
+}

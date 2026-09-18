@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6614b1c79ce59855a65e361f",
+	"createdTime":1712632329271,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"demo/sflead",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"6614b2099ce59855a65e3620",
+	"lastModifiedBy":34,
+	"lcName":"linkedin to sf lead",
+	"modifiedTime":1712640765584,
+	"name":"LinkedIn to SF Lead",
+	"ownerUserId":34,
+	"path":"sflead",
+	"resourceIds":[
+		"6614af87792a2946d9f0d2d5"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

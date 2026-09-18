@@ -1,0 +1,40 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6614b1c79ce59855a65e361f",
+	"createdTime":1712634232179,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"demo/demo2",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"6614b9789ce59855a65e3628",
+	"lastModifiedBy":34,
+	"lcName":"linkedin to sf lead_02",
+	"modifiedTime":1712639822575,
+	"name":"LinkedIn to SF Lead_02",
+	"ownerUserId":34,
+	"path":"demo2",
+	"resourceIds":[
+		"6614af87792a2946d9f0d2d5"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

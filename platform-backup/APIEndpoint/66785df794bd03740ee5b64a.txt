@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66785d8894bd03740ee5b649",
+	"createdTime":1719164407642,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"pentest/bugtest?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"66785df794bd03740ee5b64a",
+	"lastModifiedBy":716,
+	"lcName":"pentest_check",
+	"modifiedTime":1719164407642,
+	"name":"pentest_check",
+	"ownerUserId":716,
+	"path":"bugtest",
+	"resourceIds":[
+		"667076c19f30076b83e51991"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}

@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1715945292278,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/66473d22e5feab32cd8b3644",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"66473f4c6e49ea4fb87fd78e",
+	"lastModifiedBy":0,
+	"lcName":"connector_testing_sf automation web-hook",
+	"modifiedTime":1719470039547,
+	"name":"Connector_testing_SF Automation Web-hook",
+	"ownerUserId":34,
+	"path":"66473d22e5feab32cd8b3644",
+	"resourceIds":[
+		"66473d22e5feab32cd8b3644"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":63
+}

@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6620e933f4d29224bbbf1b2f",
+	"createdTime":1715087738643,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ecom/cacheclear",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"663a297a72f7383e12d6347e",
+	"lastModifiedBy":206,
+	"lcName":"cache clear",
+	"modifiedTime":1715087876959,
+	"name":"cache clear",
+	"ownerUserId":206,
+	"path":"cacheclear",
+	"resourceIds":[
+		"663a28f1dc7c6e005821e495"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}

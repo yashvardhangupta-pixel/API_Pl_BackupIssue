@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1713690700606,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6624d7f9e986e842c32a11c3",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"6624d84c48cae03fabb61b82",
+	"lastModifiedBy":0,
+	"lcName":"monday_testing automation web-hook",
+	"modifiedTime":1719469943682,
+	"name":"monday_testing Automation Web-hook",
+	"ownerUserId":34,
+	"path":"6624d7f9e986e842c32a11c3",
+	"resourceIds":[
+		"6624d7f9e986e842c32a11c3"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":63
+}

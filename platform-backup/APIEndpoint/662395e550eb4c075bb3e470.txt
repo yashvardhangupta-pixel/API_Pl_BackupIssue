@@ -1,0 +1,48 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1713608165893,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6623930e8a57c13d1cf14c2b",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"662395e550eb4c075bb3e470",
+	"lastModifiedBy":0,
+	"lcName":"unify service hub automation web-hook",
+	"modifiedTime":1719470055225,
+	"name":"Unify Service Hub Automation Web-hook",
+	"ownerUserId":206,
+	"path":"6623930e8a57c13d1cf14c2b",
+	"resourceIds":[
+		"6623930e8a57c13d1cf14c2b"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":62
+}

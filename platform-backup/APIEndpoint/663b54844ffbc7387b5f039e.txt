@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1715164292809,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/663b5282f700fd6d79bc1cce",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"663b54844ffbc7387b5f039e",
+	"lastModifiedBy":0,
+	"lcName":"analytics counter automation web-hook",
+	"modifiedTime":1719470069206,
+	"name":"analytics counter Automation Web-hook",
+	"ownerUserId":21,
+	"path":"663b5282f700fd6d79bc1cce",
+	"resourceIds":[
+		"663b5282f700fd6d79bc1cce"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":65
+}

@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66548f5e479f2925ed46b600",
+	"createdTime":1716818683731,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"rr-test/first",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"665492fb479f2925ed46b605",
+	"lastModifiedBy":287,
+	"lcName":"send slack message",
+	"modifiedTime":1716876497198,
+	"name":"send slack message",
+	"ownerUserId":287,
+	"path":"first",
+	"resourceIds":[
+		"66548fd597d019228478d389"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

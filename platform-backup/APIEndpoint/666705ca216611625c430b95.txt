@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1718027722792,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/666705c6f13907399d57ff35",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"666705ca216611625c430b95",
+	"lastModifiedBy":525,
+	"lcName":"rbac_06 (copy) automation web-hook",
+	"modifiedTime":1718055301073,
+	"name":"rbac_06 (Copy) Automation Web-hook",
+	"ownerUserId":34,
+	"path":"666705c6f13907399d57ff35",
+	"resourceIds":[
+		"666705c6f13907399d57ff35"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":5
+}

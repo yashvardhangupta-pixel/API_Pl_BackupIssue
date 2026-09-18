@@ -1,0 +1,48 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"65f59203bceea34b9b534dee",
+	"createdTime":1710828667997,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"16-mar-collection1/grey-orange-demo--flow---1-",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"65f92c7bb4ad330ba14e2bdc",
+	"lastModifiedBy":0,
+	"lcName":"grey orange demo (flow - 1)",
+	"modifiedTime":1719469973646,
+	"name":"Grey Orange DEMO (FLOW - 1)",
+	"ownerUserId":7,
+	"path":"grey-orange-demo--flow---1-",
+	"resourceIds":[
+		"65f2d15088cb6e2ef7cd5ef9"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":61
+}

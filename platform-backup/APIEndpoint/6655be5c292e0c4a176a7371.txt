@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1716895324306,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6655be11d4c28b0f4d3fb8d6",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"6655be5c292e0c4a176a7371",
+	"lastModifiedBy":0,
+	"lcName":"sewf automation web-hook",
+	"modifiedTime":1719469947895,
+	"name":"sewf Automation Web-hook",
+	"ownerUserId":307,
+	"path":"6655be11d4c28b0f4d3fb8d6",
+	"resourceIds":[
+		"6655be11d4c28b0f4d3fb8d6"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":61
+}

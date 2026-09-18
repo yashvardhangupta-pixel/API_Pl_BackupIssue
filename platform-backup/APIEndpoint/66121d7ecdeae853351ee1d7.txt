@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66115df7d87315166739b0df",
+	"createdTime":1712463230073,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"dtapp/bookedoptionmarketing",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"66121d7ecdeae853351ee1d7",
+	"lastModifiedBy":174,
+	"lcName":"api booked option for marketing",
+	"modifiedTime":1712467623758,
+	"name":"API booked option for marketing",
+	"ownerUserId":174,
+	"path":"bookedoptionmarketing",
+	"resourceIds":[
+		"66120d7596cc7f268150c932"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

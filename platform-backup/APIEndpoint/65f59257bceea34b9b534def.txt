@@ -1,0 +1,47 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"cacheSettings":{
+		"cacheKeys":[
+			
+		],
+		"ttl":{
+			"duration":600
+		}
+	},
+	"collectionId":"65f59203bceea34b9b534dee",
+	"createdTime":1710592599709,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"16-mar-collection/endpoint-16-mar-1",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"65f59257bceea34b9b534def",
+	"lcName":"endpoint 16 mar 1",
+	"modifiedTime":1710592658296,
+	"name":"Endpoint 16 Mar 1",
+	"ownerUserId":32,
+	"path":"endpoint-16-mar-1",
+	"resourceIds":[
+		"65f57c57a25a911d14af1e98"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

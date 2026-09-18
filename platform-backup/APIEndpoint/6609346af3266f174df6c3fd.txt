@@ -1,0 +1,39 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6603e40760148951cd85188a",
+	"createdTime":1711879274024,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ap1-collection-test/endpoint-testingn",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"6609346af3266f174df6c3fd",
+	"lcName":"endpoint testingn",
+	"modifiedTime":1711879681643,
+	"name":"Endpoint testingn",
+	"ownerUserId":106,
+	"path":"endpoint-testingn",
+	"resourceIds":[
+		"6606fe4e3b11af260f96f5a0"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

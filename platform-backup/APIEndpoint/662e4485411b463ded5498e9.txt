@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1714308229962,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/662e01b645101d15f4c60ca4",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"662e4485411b463ded5498e9",
+	"lastModifiedBy":0,
+	"lcName":"microsoft dynamics testing  automation web-hook",
+	"modifiedTime":1719469945692,
+	"name":"Microsoft dynamics testing  Automation Web-hook",
+	"ownerUserId":12,
+	"path":"662e01b645101d15f4c60ca4",
+	"resourceIds":[
+		"662e01b645101d15f4c60ca4"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":61
+}
