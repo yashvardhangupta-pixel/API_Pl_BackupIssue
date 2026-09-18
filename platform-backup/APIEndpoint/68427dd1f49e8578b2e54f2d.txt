@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68427d86f49e8578b2e54f21",
+	"createdTime":1749188049442,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-auth/api1?resourceId={{RESOURCE_ID}}",
+	"id":"68427dd1f49e8578b2e54f2d",
+	"lastModifiedBy":44567,
+	"lcName":"api1",
+	"modifiedTime":1749188180482,
+	"name":"api1",
+	"ownerUserId":44567,
+	"path":"api1",
+	"resourceIds":[
+		"68427db27288db5c02facf1d"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":3
+}
