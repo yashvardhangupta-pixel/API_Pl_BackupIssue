@@ -1,0 +1,32 @@
+{
+	"apiVersion":"v1",
+	"createdTime":1739609308090,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"id":"66fbada7fb058e246bb35153",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"thinlayer apis for avia",
+	"modifiedTime":1751544692328,
+	"name":"ThinLayer APIs for AVIA",
+	"ownerUserId":34,
+	"path":"avia-tck-services",
+	"standard":false,
+	"telemetryConfig":{
+		"enableTelemetry":true,
+		"metricConfigs":[
+			{
+				"eventType":"ALWAYS",
+				"metricType":"API_EXECUTION_DURATION",
+				"name":"API execution metric",
+				"tags":[
+					
+				]
+			}
+		]
+	},
+	"version":57
+}
