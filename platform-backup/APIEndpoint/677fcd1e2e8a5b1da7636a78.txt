@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"677fcd1b2e8a5b1da7636a74",
+	"createdTime":1736428850799,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"customautomation/automation",
+	"httpMethod":"POST",
+	"id":"677fcd1e2e8a5b1da7636a78",
+	"lastModifiedBy":522,
+	"lcName":"destination_dnd_wamck",
+	"modifiedTime":1736428850799,
+	"name":"DESTINATION_DND_wAmck",
+	"ownerUserId":522,
+	"path":"automation",
+	"policyIds":[
+		"677fcd1c2e8a5b1da7636a75"
+	],
+	"resourceIds":[
+		"677fcd19aa71dc2d222f3f82"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
