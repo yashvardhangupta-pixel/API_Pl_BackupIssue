@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6868e864abc85907db4919ba",
+	"createdTime":1752930578439,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-forward-path/user",
+	"id":"687b991277a8821dde51d561",
+	"lastModifiedBy":46209,
+	"lcName":"test-api",
+	"modifiedTime":1752941135762,
+	"name":"test-api",
+	"ownerUserId":46209,
+	"path":"user",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://api.qa.unifyapps.com/api-endpoint/trigger-workflow/687b97a3f373029c24897105"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

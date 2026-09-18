@@ -1,0 +1,41 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6868e864abc85907db4919ba",
+	"createdTime":1751706237058,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-env-grp/external-api/test",
+	"id":"6868ea7d148dd65be1909517",
+	"lastModifiedBy":46209,
+	"lcName":"test-api",
+	"modifiedTime":1752929941620,
+	"name":"test-api",
+	"ownerUserId":46209,
+	"path":"external-api/test",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6867da57d467b02057c955b5"
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://reqres.in/api/users"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":25
+}

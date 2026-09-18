@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687b766ac86b339465508012",
+	"createdTime":1752921739048,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"JROsqOtWQUJrWdn/automation",
+	"httpMethod":"POST",
+	"id":"687b766cc86b339465508014",
+	"lastModifiedBy":162004,
+	"lcName":"changesetlocalzumos",
+	"modifiedTime":1752923526041,
+	"name":"changeSetLocalZumos",
+	"ownerUserId":162004,
+	"path":"automation",
+	"policyIds":[
+		"687b766bc86b339465508013"
+	],
+	"resourceIds":[
+		"687b7669d185fce7a8e15ce9"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
