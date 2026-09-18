@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67b2d51eafb2ef1a9c38f422",
+	"createdTime":1739773253324,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"OvZqgzfewFbwDwX/automation",
+	"httpMethod":"POST",
+	"id":"67b2d521afb2ef1a9c38f426",
+	"lastModifiedBy":522,
+	"lcName":"changesetlocalzyarm",
+	"modifiedTime":1739773850152,
+	"name":"changeSetLocalZyArm",
+	"ownerUserId":522,
+	"path":"automation",
+	"policyIds":[
+		"67b2d51fafb2ef1a9c38f423"
+	],
+	"resourceIds":[
+		"67b2d51c7f5a7a6d70ec60ac"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}
