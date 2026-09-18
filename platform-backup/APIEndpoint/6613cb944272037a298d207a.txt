@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66115df7d87315166739b0df",
+	"createdTime":1712573332615,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"dtapp/info",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"6613cb944272037a298d207a",
+	"lastModifiedBy":522,
+	"lcName":"api - information on bandwith",
+	"modifiedTime":1751544777881,
+	"name":"API - Information on Bandwith",
+	"ownerUserId":206,
+	"path":"info",
+	"resourceIds":[
+		"6613cad8b331e926977939d7"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":63
+}

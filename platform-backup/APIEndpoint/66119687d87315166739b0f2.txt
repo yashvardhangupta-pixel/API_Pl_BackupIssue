@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66115df7d87315166739b0df",
+	"createdTime":1712428679692,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"dtapp/devices",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"66119687d87315166739b0f2",
+	"lastModifiedBy":522,
+	"lcName":"api devices & network",
+	"modifiedTime":1751544777881,
+	"name":"API Devices & network",
+	"ownerUserId":32,
+	"path":"devices",
+	"resourceIds":[
+		"66119339a00fbb365497ff73"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":63
+}

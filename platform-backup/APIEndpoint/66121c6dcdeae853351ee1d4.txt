@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66115df7d87315166739b0df",
+	"createdTime":1712462957754,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"dtapp/simcard",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"66121c6dcdeae853351ee1d4",
+	"lastModifiedBy":522,
+	"lcName":"api main sim card",
+	"modifiedTime":1751544777881,
+	"name":"API Main SIM Card",
+	"ownerUserId":174,
+	"path":"simcard",
+	"resourceIds":[
+		"6611a9b1a00fbb365497ff9e"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":63
+}

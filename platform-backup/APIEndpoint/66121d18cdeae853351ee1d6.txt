@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66115df7d87315166739b0df",
+	"createdTime":1712463128836,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"dtapp/multisims",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"66121d18cdeae853351ee1d6",
+	"lastModifiedBy":522,
+	"lcName":"api multi sims",
+	"modifiedTime":1751544777881,
+	"name":"API Multi SIMS",
+	"ownerUserId":174,
+	"path":"multisims",
+	"resourceIds":[
+		"66121155cd3b93098fc37c7f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":64
+}

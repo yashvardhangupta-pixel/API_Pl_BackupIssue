@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66115df7d87315166739b0df",
+	"createdTime":1713279050447,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"dtapp/mobilepage2",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"661e904aa5c24f039404f765",
+	"lastModifiedBy":522,
+	"lcName":"new endpoint",
+	"modifiedTime":1751544777881,
+	"name":"New endpoint",
+	"ownerUserId":32,
+	"path":"mobilepage2",
+	"resourceIds":[
+		"65e3f5bd493d13341642e571"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":63
+}

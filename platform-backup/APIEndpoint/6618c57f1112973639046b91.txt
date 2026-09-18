@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66115df7d87315166739b0df",
+	"createdTime":1712899455732,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"dtapp/overviewpagenew",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"6618c57f1112973639046b91",
+	"lastModifiedBy":522,
+	"lcName":"api overview page (duplicate)",
+	"modifiedTime":1751544777881,
+	"name":"API Overview Page (Duplicate)",
+	"ownerUserId":34,
+	"path":"overviewpagenew",
+	"resourceIds":[
+		"6616a991c17f74393d9037df"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":63
+}
