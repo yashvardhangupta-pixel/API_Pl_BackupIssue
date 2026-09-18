@@ -1,0 +1,38 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"689b79348d262231e4b6c437",
+	"createdTime":1756815251918,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"sumit-apiGrp/testContentType",
+	"id":"68b6df93adb3732522f20147",
+	"lastModifiedBy":39715,
+	"lcName":"testcontenttype",
+	"modifiedTime":1758785723828,
+	"name":"testContentType",
+	"ownerUserId":39715,
+	"path":"testContentType",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://ecgy-dev2.fa.ap2.oraclecloud.com/fscmRestApi/resources/latest/financialProjectPlans/action/baselineFinancialProjectPlan"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":3
+}
