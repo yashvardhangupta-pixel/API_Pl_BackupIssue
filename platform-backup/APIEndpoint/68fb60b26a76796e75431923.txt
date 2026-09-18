@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68eaa2ee6f6b3055cd1d880f",
+	"createdTime":1761304754428,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"DT-APIs/noquestion",
+	"id":"68fb60b26a76796e75431923",
+	"lastModifiedBy":186893,
+	"lcName":"number of question",
+	"modifiedTime":1761304897720,
+	"name":"Number Of Question",
+	"ownerUserId":186893,
+	"path":"noquestion",
+	"resourceIds":[
+		"68f9135d2573eb22e792e83e"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

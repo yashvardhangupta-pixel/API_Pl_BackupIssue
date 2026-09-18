@@ -1,0 +1,43 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68eaa2ee6f6b3055cd1d880f",
+	"createdTime":1761304511158,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"For sorting Agents",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"DT-APIs/sortfilter",
+	"id":"68fb5fbf6a76796e75431889",
+	"lastModifiedBy":186893,
+	"lcName":"filter sort agent list",
+	"modifiedTime":1761304935403,
+	"name":"Filter Sort Agent List",
+	"ownerUserId":186893,
+	"path":"sortfilter",
+	"resourceIds":[
+		"68f9189c93948966f0cc80fd"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
