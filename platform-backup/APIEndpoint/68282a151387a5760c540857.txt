@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682829c71387a5760c540839",
+	"createdTime":1747462677272,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"testub-ag/testub-api",
+	"httpMethod":"GET",
+	"id":"68282a151387a5760c540857",
+	"lastModifiedBy":44567,
+	"lcName":"testub_api",
+	"modifiedTime":1747638328333,
+	"name":"testub_api",
+	"ownerUserId":44567,
+	"path":"testub-api",
+	"policyIds":[
+		"682ad708cf03c5088bae1cad"
+	],
+	"resourceIds":[
+		"6828279836516f034a84dfa9"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":8
+}

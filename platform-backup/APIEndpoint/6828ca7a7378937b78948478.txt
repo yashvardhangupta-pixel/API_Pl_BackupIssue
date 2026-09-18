@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6828ca4d7378937b78948477",
+	"createdTime":1747503738109,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"request-trans-policy-test/test-rt-api",
+	"httpMethod":"GET",
+	"id":"6828ca7a7378937b78948478",
+	"lastModifiedBy":46209,
+	"lcName":"test-rt-api",
+	"modifiedTime":1747538703925,
+	"name":"test-rt-api",
+	"ownerUserId":46209,
+	"path":"test-rt-api",
+	"policyIds":[
+		"6828ab602c7d501852b4230c"
+	],
+	"resourceIds":[
+		"682893f4cd325002b222729c"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
