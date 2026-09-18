@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"691ff22e54276f0fc8e8ba98",
+	"createdTime":1766400256116,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"CredentialAPI---Molecules/master/{moleculeName}",
+	"id":"694921001abeb34ddeed1c38",
+	"lastModifiedBy":44105,
+	"lcName":"molecules | master",
+	"modifiedTime":1766400476151,
+	"name":"Molecules | Master",
+	"ownerUserId":44105,
+	"path":"master/{moleculeName}",
+	"resourceIds":[
+		"69491ae1176d3769cce7e05d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}
