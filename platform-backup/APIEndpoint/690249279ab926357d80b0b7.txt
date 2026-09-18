@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68eaa2ee6f6b3055cd1d880f",
+	"createdTime":1761757479459,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"DT-APIs/userAgent",
+	"id":"690249279ab926357d80b0b7",
+	"lastModifiedBy":44109,
+	"lcName":"user agent",
+	"modifiedTime":1761757484110,
+	"name":"User agent",
+	"ownerUserId":44109,
+	"path":"userAgent",
+	"resourceIds":[
+		"69005ce4a309a82f9f72efe1"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
