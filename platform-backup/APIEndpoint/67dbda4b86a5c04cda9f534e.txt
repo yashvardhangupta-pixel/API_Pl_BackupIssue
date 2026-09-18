@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dbda4a86a5c04cda9f5349",
+	"createdTime":1742461515366,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ansdcasdc/resources/read",
+	"httpMethod":"GET",
+	"id":"67dbda4b86a5c04cda9f534e",
+	"lastModifiedBy":522,
+	"lcName":"read resource",
+	"modifiedTime":1751544678123,
+	"name":"Read Resource",
+	"ownerUserId":1246,
+	"path":"resources/read",
+	"resourceIds":[
+		"11"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

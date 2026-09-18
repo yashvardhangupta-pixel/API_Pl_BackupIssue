@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dbda4a86a5c04cda9f5349",
+	"createdTime":1742461515045,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ansdcasdc/tools/list",
+	"httpMethod":"POST",
+	"id":"67dbda4b86a5c04cda9f534a",
+	"lastModifiedBy":522,
+	"lcName":"list tools",
+	"modifiedTime":1751544678123,
+	"name":"List Tools",
+	"ownerUserId":1246,
+	"path":"tools/list",
+	"resourceIds":[
+		"67cff80d670bcd5e09b8c7fb"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

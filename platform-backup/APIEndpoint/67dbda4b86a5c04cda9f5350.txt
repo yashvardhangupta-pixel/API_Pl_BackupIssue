@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dbda4a86a5c04cda9f5349",
+	"createdTime":1742461515608,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ansdcasdc/prompts/list",
+	"httpMethod":"POST",
+	"id":"67dbda4b86a5c04cda9f5350",
+	"lastModifiedBy":522,
+	"lcName":"list prompts",
+	"modifiedTime":1751544678123,
+	"name":"List Prompts",
+	"ownerUserId":1246,
+	"path":"prompts/list",
+	"resourceIds":[
+		"67cff823670bcd5e09b8c8d1"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

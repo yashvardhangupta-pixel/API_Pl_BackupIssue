@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67dc0459216d8c5c8f791d73",
+	"createdTime":1742491617709,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"testMCP/sxd?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67dc4fe162bce673549e5ab0",
+	"lastModifiedBy":522,
+	"lcName":"sxd",
+	"modifiedTime":1751544677479,
+	"name":"sxd",
+	"ownerUserId":20249,
+	"path":"sxd",
+	"resourceIds":[
+		"67dbbce1bd7836118da0fa1d"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dbdb0286a5c04cda9f5352",
+	"createdTime":1742461699096,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"a--n334---/tools/list",
+	"httpMethod":"POST",
+	"id":"67dbdb0386a5c04cda9f5353",
+	"lastModifiedBy":522,
+	"lcName":"list tools",
+	"modifiedTime":1751544677935,
+	"name":"List Tools",
+	"ownerUserId":1246,
+	"path":"tools/list",
+	"resourceIds":[
+		"67cff80d670bcd5e09b8c7fb"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

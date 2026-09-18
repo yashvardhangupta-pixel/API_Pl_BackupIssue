@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dd52f862bce673549e6cfd",
+	"createdTime":1742557945127,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"SSE API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"lovekesh-sse/mcp-server",
+	"httpMethod":"POST",
+	"id":"67dd52f962bce673549e6cfe",
+	"lastModifiedBy":522,
+	"lcName":"sse",
+	"modifiedTime":1751544676901,
+	"name":"SSE",
+	"ownerUserId":311,
+	"path":"mcp-server",
+	"resourceIds":[
+		"67dd3e1d24f9fb5bd409af36"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

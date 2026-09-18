@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67ebb4689fcd10206077c459",
+	"createdTime":1743686934915,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"traceTelemetry/parth?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67ee8d16046f4208f1c29996",
+	"lastModifiedBy":522,
+	"lcName":"parth",
+	"modifiedTime":1751544667226,
+	"name":"parth",
+	"ownerUserId":426,
+	"path":"parth",
+	"resourceIds":[
+		"67ee3e3d7f8bf32b24e91290"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e555bd3dee184a30897362",
+	"createdTime":1743083389887,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ChangesetMigration/changesetNewBehaviourImpact",
+	"httpMethod":"POST",
+	"id":"67e5577d3dee184a308973db",
+	"lastModifiedBy":522,
+	"lcName":"changesetnewbehaviourimpact",
+	"modifiedTime":1751544670280,
+	"name":"changesetNewBehaviourImpact",
+	"ownerUserId":4130,
+	"path":"changesetNewBehaviourImpact",
+	"resourceIds":[
+		"67e554b79fe1333768f2f3cb"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
