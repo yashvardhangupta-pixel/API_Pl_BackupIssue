@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69ac9bdf7fed0b44cb584a9e",
+	"createdTime":1772919790881,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSILufLcxGEap/UpdatefrAsquwsUI",
+	"id":"69ac9beef828e25cf46a90d9",
+	"lastModifiedBy":-1,
+	"lcName":"updatemqbbeajrrc",
+	"modifiedTime":1772923915914,
+	"name":"UpdateMQbBeaJrRC",
+	"ownerUserId":175325,
+	"path":"UpdatefrAsquwsUI",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
