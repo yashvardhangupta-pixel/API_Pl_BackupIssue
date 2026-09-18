@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"689c276ebdff4247774b832f",
+	"createdTime":1755064349853,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSOogIXiVYloL/Cuapx/{name}",
+	"id":"689c27c1bdff4247774b8340",
+	"lastModifiedBy":162004,
+	"lcName":"rlxbzdpzaxzfbvwiustj",
+	"modifiedTime":1755116708436,
+	"name":"rlxBZDpZAXzfBVwiuStj",
+	"ownerUserId":162004,
+	"path":"Cuapx/{name}",
+	"policyIds":[
+		"689c275bbdff4247774b8326"
+	],
+	"resourceIds":[
+		"688de7eba5f2e0fbfddec658"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PATCH",
+		"PUT"
+	],
+	"version":2
+}

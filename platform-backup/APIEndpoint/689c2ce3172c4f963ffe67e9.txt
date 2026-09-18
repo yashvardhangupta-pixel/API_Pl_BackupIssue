@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"689c2cc6172c4f963ffe67e8",
+	"createdTime":1755065571156,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"taj-mahal/taj-mahal",
+	"id":"689c2ce3172c4f963ffe67e9",
+	"lastModifiedBy":46218,
+	"lcName":"taj_mahal",
+	"modifiedTime":1755065575263,
+	"name":"taj_mahal",
+	"ownerUserId":46218,
+	"path":"taj-mahal",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://en.wikipedia.org/wiki/Taj_Mahal"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
