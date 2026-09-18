@@ -1,0 +1,45 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69f7f7c1f63b354c55f23716",
+	"createdTime":1777858745864,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdaterAGtaiRapC/changeSetQA2LghEosPBF",
+	"id":"69f7f809f63b354c55f23726",
+	"lastModifiedBy":-1,
+	"lcName":"changesetqa2etdavcejpblxiysprmat",
+	"modifiedTime":1777863480354,
+	"name":"changeSetQA2etDAvcEjpBlXIYSpRMAT",
+	"ownerUserId":175325,
+	"path":"changeSetQA2LghEosPBF",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884672397cc242e33044a91"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":3
+}

@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69f7f55ff12a6a40f71a0fbc",
+	"createdTime":1777857899549,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIhhRBsQeplv/UpdateSCjgLsDmWl",
+	"id":"69f7f56bd8f3e8454e85ad02",
+	"lastModifiedBy":-1,
+	"lcName":"updatecrqecvjwbl",
+	"modifiedTime":1777863480616,
+	"name":"UpdatecrQeCVJWBL",
+	"ownerUserId":175325,
+	"path":"UpdateSCjgLsDmWl",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
