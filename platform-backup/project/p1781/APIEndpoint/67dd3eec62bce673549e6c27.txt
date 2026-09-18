@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dd386a62bce673549e6bbf",
+	"createdTime":1742552812868,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"SA/CallableSA",
+	"httpMethod":"POST",
+	"id":"67dd3eec62bce673549e6c27",
+	"lastModifiedBy":76193,
+	"lcName":"callablesa",
+	"modifiedTime":1742554426971,
+	"name":"CallableSA",
+	"ownerUserId":76193,
+	"path":"CallableSA",
+	"projectId":1781,
+	"resourceIds":[
+		"67dbc5a2bd7836118da130dc"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
