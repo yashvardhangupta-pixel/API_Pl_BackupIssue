@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"668d38ecf147e15e792d9817",
+	"createdTime":1720531208814,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"PB-APIs/Record-Events",
+	"httpMethod":"POST",
+	"id":"668d3908f147e15e792d9818",
+	"lastModifiedBy":520,
+	"lcName":"record events",
+	"modifiedTime":1720600227720,
+	"name":"Record Events",
+	"ownerUserId":520,
+	"path":"Record-Events",
+	"resourceIds":[
+		"668d3873d276aa1be350e065"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

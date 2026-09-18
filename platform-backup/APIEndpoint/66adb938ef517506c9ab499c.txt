@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66a2a141a6e9332e000da1bf",
+	"createdTime":1722661176830,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"gomotive_add_data",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ai/gomotive/index-data",
+	"httpMethod":"POST",
+	"id":"66adb938ef517506c9ab499c",
+	"lastModifiedBy":295,
+	"lcName":"gomotive_add_data",
+	"modifiedTime":1722661178957,
+	"name":"gomotive_add_data",
+	"ownerUserId":295,
+	"path":"gomotive/index-data",
+	"resourceIds":[
+		"66acf780663a6211bbc4007d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

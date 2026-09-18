@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"669905328e712d0206d66d63",
+	"createdTime":1721374320933,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"New-API-Number-update-collections/numeric/{x}/{z}",
+	"httpMethod":"GET",
+	"id":"669905738e712d0206d66d64",
+	"lastModifiedBy":0,
+	"lcName":"new_api_number_update_endpoint",
+	"modifiedTime":1721374320933,
+	"name":"New_API_Number_update_endpoint",
+	"ownerUserId":1,
+	"path":"numeric/{x}/{z}",
+	"resourceIds":[
+		"6699020e1dc1442a5453416a"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":11
+}

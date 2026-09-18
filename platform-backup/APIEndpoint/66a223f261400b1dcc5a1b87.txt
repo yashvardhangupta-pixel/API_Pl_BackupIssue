@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"669f7dd261400b1dcc5a0e02",
+	"createdTime":1721902066319,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"rbi-llm/rbi-llm/chat",
+	"httpMethod":"POST",
+	"id":"66a223f261400b1dcc5a1b87",
+	"lastModifiedBy":295,
+	"lcName":"rbi_trigger_rephraser",
+	"modifiedTime":1721908181663,
+	"name":"rbi_trigger_rephraser",
+	"ownerUserId":295,
+	"path":"rbi-llm/chat",
+	"resourceIds":[
+		"66a211eb197d7063abf719d2"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

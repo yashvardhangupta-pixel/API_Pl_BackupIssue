@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66a0d51a61400b1dcc5a1479",
+	"createdTime":1722065244327,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"New-Callable-API-Automation-collection/numbers/{num}",
+	"httpMethod":"GET",
+	"id":"66a0d53b61400b1dcc5a147a",
+	"lastModifiedBy":520,
+	"lcName":"new_callable_api_automation_endpoint",
+	"modifiedTime":1722065244327,
+	"name":"New_Callable_API_Automation_endpoint",
+	"ownerUserId":520,
+	"path":"numbers/{num}",
+	"resourceIds":[
+		"66a0d4140d68db0b4c80f468"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

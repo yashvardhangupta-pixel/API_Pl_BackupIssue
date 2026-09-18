@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":200,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"66a2a141a6e9332e000da1bf",
+	"createdTime":1722754997643,
+	"customizeTimeout":true,
+	"deleted":false,
+	"description":"retrieve_kb_articles",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ai/kb-articles/fetch",
+	"httpMethod":"POST",
+	"id":"66af27b5f0f1e762fe7abd15",
+	"lastModifiedBy":295,
+	"lcName":"retrieve_kb_articles",
+	"modifiedTime":1722755002976,
+	"name":"retrieve_kb_articles",
+	"ownerUserId":295,
+	"path":"kb-articles/fetch",
+	"resourceIds":[
+		"66af25c541ff84604aa8cefc"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

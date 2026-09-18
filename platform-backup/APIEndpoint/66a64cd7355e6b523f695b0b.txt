@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":120,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"66a2a141a6e9332e000da1bf",
+	"createdTime":1722174679351,
+	"customizeTimeout":true,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ai/automate-test-scenarios/generate",
+	"httpMethod":"POST",
+	"id":"66a64cd7355e6b523f695b0b",
+	"lastModifiedBy":295,
+	"lcName":"generate_test_scenaiora",
+	"modifiedTime":1722174683810,
+	"name":"generate_test_scenaiora",
+	"ownerUserId":295,
+	"path":"automate-test-scenarios/generate",
+	"resourceIds":[
+		"66a62b585d64b87fc328e46b"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

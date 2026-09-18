@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":130,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"66a2a141a6e9332e000da1bf",
+	"createdTime":1721934197232,
+	"customizeTimeout":true,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ai/llm/evaluation",
+	"httpMethod":"POST",
+	"id":"66a2a175a6e9332e000da1c0",
+	"lastModifiedBy":295,
+	"lcName":"llm evaluation (rag, qna)",
+	"modifiedTime":1721934200745,
+	"name":"LLM EVALUATION (RAG, QNA)",
+	"ownerUserId":295,
+	"path":"llm/evaluation",
+	"resourceIds":[
+		"66a28ef1dcf2355200d68a4c"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":120,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"66a2a141a6e9332e000da1bf",
+	"createdTime":1722698061530,
+	"customizeTimeout":true,
+	"deleted":false,
+	"description":"gomotive_result",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ai/gomotive/chat",
+	"httpMethod":"POST",
+	"id":"66ae494def517506c9ab4ba7",
+	"lastModifiedBy":295,
+	"lcName":"gomotive_result",
+	"modifiedTime":1722698299203,
+	"name":"gomotive_result",
+	"ownerUserId":295,
+	"path":"gomotive/chat",
+	"resourceIds":[
+		"66ad0cb1663a6211bbc406d3"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

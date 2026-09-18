@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"668e4dea03631d6795fdba58",
+	"createdTime":1720602126545,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"PBGAEvents/record-event",
+	"httpMethod":"POST",
+	"id":"668e4e0e03631d6795fdba5a",
+	"lastModifiedBy":520,
+	"lcName":"record event",
+	"modifiedTime":1720602205428,
+	"name":"record event",
+	"ownerUserId":520,
+	"path":"record-event",
+	"resourceIds":[
+		"668d3873d276aa1be350e065"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

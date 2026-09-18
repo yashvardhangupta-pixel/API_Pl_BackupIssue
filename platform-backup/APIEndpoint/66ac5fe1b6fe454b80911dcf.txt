@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":300,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"66a2a141a6e9332e000da1bf",
+	"createdTime":1722572769164,
+	"customizeTimeout":true,
+	"deleted":false,
+	"description":"hdfc_sms",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ai/hdfc/index-data",
+	"httpMethod":"POST",
+	"id":"66ac5fe1b6fe454b80911dcf",
+	"lastModifiedBy":295,
+	"lcName":"hdfc_sms",
+	"modifiedTime":1722572771038,
+	"name":"hdfc_sms",
+	"ownerUserId":295,
+	"path":"hdfc/index-data",
+	"resourceIds":[
+		"66ab94b6a1c8b020e8374d3f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

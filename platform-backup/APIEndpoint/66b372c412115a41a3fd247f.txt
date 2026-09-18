@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66a2a141a6e9332e000da1bf",
+	"createdTime":1723036356762,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ai/knowlegde-rag/qna",
+	"httpMethod":"POST",
+	"id":"66b372c412115a41a3fd247f",
+	"lastModifiedBy":295,
+	"lcName":"qna_indexing_knowledge_rag",
+	"modifiedTime":1723036358548,
+	"name":"qna_indexing_knowledge_rag",
+	"ownerUserId":295,
+	"path":"knowlegde-rag/qna",
+	"resourceIds":[
+		"66b371c61c329f50b4b0d268"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
