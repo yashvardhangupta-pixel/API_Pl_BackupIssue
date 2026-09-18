@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"677cde456ab90c4c5d6df607",
+	"createdTime":1736236763166,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"newGroup/user/23?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"677cdedb6ab90c4c5d6df609",
+	"lastModifiedBy":522,
+	"lcName":"api1",
+	"modifiedTime":1751544713638,
+	"name":"Api1",
+	"ownerUserId":520,
+	"path":"user/23",
+	"resourceIds":[
+		"677cde73e757796effb891e1"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67632811fcb886147af472d0",
+	"createdTime":1735559482978,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"soapCall/cdsccs?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6772893a00884c289a28819b",
+	"lastModifiedBy":522,
+	"lcName":"cdsccs",
+	"modifiedTime":1751544718041,
+	"name":"cdsccs",
+	"ownerUserId":520,
+	"path":"cdsccs",
+	"resourceIds":[
+		"669f377a9383b64e18306046"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

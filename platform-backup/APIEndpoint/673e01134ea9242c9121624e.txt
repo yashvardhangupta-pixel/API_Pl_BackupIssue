@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"673ca9117d05572ca65b0f3b",
+	"createdTime":1732116755685,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"customhttp-testing/apinode",
+	"httpMethod":"POST",
+	"id":"673e01134ea9242c9121624e",
+	"lastModifiedBy":522,
+	"lcName":"new custom http node api",
+	"modifiedTime":1751544725196,
+	"name":"new custom http node api",
+	"ownerUserId":520,
+	"path":"apinode",
+	"resourceIds":[
+		"673db1b8399bcc4e695719f5"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

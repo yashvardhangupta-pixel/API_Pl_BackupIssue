@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"675fd5078f31b36f9c2f041f",
+	"createdTime":1734338826193,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"vksample/slacknew04?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"675fe90af326a744f0bbea1f",
+	"lastModifiedBy":522,
+	"lcName":"apiendpoint_slack | post message_8",
+	"modifiedTime":1751544719260,
+	"name":"APIEndpoint_Slack | Post Message_8",
+	"ownerUserId":0,
+	"path":"slacknew04",
+	"resourceIds":[
+		"6746e1808c7aa779d3068331"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"resourceVersions":[
+		8
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

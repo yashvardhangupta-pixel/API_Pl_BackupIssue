@@ -1,0 +1,29 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67444c27c2beaa0869c1a6d9",
+	"createdTime":1732529250265,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"sanity/test/api/user",
+	"id":"67444c62c2beaa0869c1a6da",
+	"lastModifiedBy":522,
+	"lcName":"test",
+	"llmRequestType":"CHAT",
+	"modifiedTime":1751544724843,
+	"name":"test",
+	"ownerUserId":520,
+	"path":"test/api/user",
+	"resourceIds":[
+		"e_ai_agent_bedrock_default_model",
+		"e_66b281ee45f17a17c0e7c28a"
+	],
+	"resourceType":"LLM_MODEL",
+	"standard":false,
+	"version":1
+}

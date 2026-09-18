@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6757c004b36e361da1e33a5b",
+	"createdTime":1733804484991,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"SoapAPI-Do-Not-Delete-IMP/Soap-Api-DND",
+	"httpMethod":"POST",
+	"id":"6757c1c4b36e361da1e33a5c",
+	"lastModifiedBy":522,
+	"lcName":"soap_api_dnd",
+	"modifiedTime":1751544720544,
+	"name":"Soap_Api_DND",
+	"ownerUserId":520,
+	"path":"Soap-Api-DND",
+	"resourceIds":[
+		"6757c0583e4fc6735936c5bd"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

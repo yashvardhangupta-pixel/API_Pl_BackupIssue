@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"676162e648908c29327429dd",
+	"createdTime":1734506458163,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"TestSDK/user/{id}/something/{id2}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"676277dacf345c34fc334e28",
+	"lastModifiedBy":522,
+	"lcName":"pathapi",
+	"modifiedTime":1751544718526,
+	"name":"PathAPI",
+	"ownerUserId":520,
+	"path":"user/{id}/something/{id2}",
+	"resourceIds":[
+		"67372894d7ca772733a8fc0d"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

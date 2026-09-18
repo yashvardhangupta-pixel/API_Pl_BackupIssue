@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6757c004b36e361da1e33a5b",
+	"createdTime":1734606932878,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"SoapAPI-Do-Not-Delete-IMP/custom/{name}",
+	"httpMethod":"POST",
+	"id":"6764005405605d0c38a40572",
+	"lastModifiedBy":522,
+	"lcName":"restapi_dnd",
+	"modifiedTime":1751544720544,
+	"name":"restAPi_DND",
+	"ownerUserId":520,
+	"path":"custom/{name}",
+	"resourceIds":[
+		"6763fe77cd2e060a188e32c7"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

@@ -1,0 +1,36 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"674db038e81b311481ad9cbc",
+	"createdTime":1733144921221,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"News-API/newsapi",
+	"httpMethod":"GET",
+	"id":"674db159e81b311481ad9cbe",
+	"lastModifiedBy":522,
+	"lcName":"newsapi",
+	"modifiedTime":1751544723585,
+	"name":"newsAPI",
+	"ownerUserId":520,
+	"path":"newsapi",
+	"resourceIds":[
+		null
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

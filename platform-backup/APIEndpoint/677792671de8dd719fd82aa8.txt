@@ -1,0 +1,32 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"677791561de8dd719fd82aa7",
+	"createdTime":1735889511481,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"api2",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"newTest78/id?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"677792671de8dd719fd82aa8",
+	"lastModifiedBy":522,
+	"lcName":"api2",
+	"modifiedTime":1751544716118,
+	"name":"api2",
+	"ownerUserId":520,
+	"path":"id",
+	"resourceIds":[
+		"66cec6e1bd8ae21171995919",
+		"67372894d7ca772733a8fc0d"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

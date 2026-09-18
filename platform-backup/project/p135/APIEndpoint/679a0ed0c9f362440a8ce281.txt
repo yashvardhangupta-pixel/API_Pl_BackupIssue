@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6777a1111de8dd719fd82abf",
+	"createdTime":1738149584735,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ai-qa-test/graphrag/index",
+	"httpMethod":"POST",
+	"id":"679a0ed0c9f362440a8ce281",
+	"lastModifiedBy":522,
+	"lcName":"graphrag-index",
+	"modifiedTime":1751544715959,
+	"name":"graphrag-index",
+	"ownerUserId":2620,
+	"path":"graphrag/index",
+	"projectId":135,
+	"resourceIds":[
+		"679a0d295c17597e24298400"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

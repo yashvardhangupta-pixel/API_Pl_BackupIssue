@@ -1,0 +1,41 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67726b860a122c082bc6fe33",
+	"createdTime":1735551906440,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"NSDL-API/NSDL-525",
+	"fallbackResponse":{
+		"headers":{
+			"failed":"true"
+		},
+		"message":"Bad Request",
+		"response":{},
+		"soapResponse":"",
+		"statusCode":400
+	},
+	"httpMethod":"POST",
+	"id":"67726ba20a122c082bc6fe34",
+	"lastModifiedBy":522,
+	"lcName":"nsdl 525",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1751544717039,
+	"name":"NSDL 525",
+	"ownerUserId":520,
+	"path":"NSDL-525",
+	"resourceIds":[
+		"67726a8814e1311caa48efe4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

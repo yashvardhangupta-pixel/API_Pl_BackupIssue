@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6777a1111de8dd719fd82abf",
+	"createdTime":1735893357995,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ai-qa-test/jfl-uniform-v1",
+	"httpMethod":"POST",
+	"id":"6777a16d1de8dd719fd82aca",
+	"lastModifiedBy":522,
+	"lcName":"jfl uniform detection v1",
+	"modifiedTime":1751544715959,
+	"name":"JFL uniform detection v1",
+	"ownerUserId":2620,
+	"path":"jfl-uniform-v1",
+	"policyIds":[
+		"6777a53d1de8dd719fd82af2"
+	],
+	"resourceIds":[
+		"6776c425d5fb370ec62a0c7d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}

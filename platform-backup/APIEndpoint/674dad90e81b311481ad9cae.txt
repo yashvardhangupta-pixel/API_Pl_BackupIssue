@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"674dabefe81b311481ad9caa",
+	"createdTime":1733143952571,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"trigger/triggerAPI",
+	"httpMethod":"POST",
+	"id":"674dad90e81b311481ad9cae",
+	"lastModifiedBy":522,
+	"lcName":"triggerapi",
+	"modifiedTime":1751544723821,
+	"name":"triggerAPI",
+	"ownerUserId":520,
+	"path":"triggerAPI",
+	"resourceIds":[
+		"674dad21b7029e2a61225d65"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

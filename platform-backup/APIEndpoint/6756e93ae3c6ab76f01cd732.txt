@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6756e91ee3c6ab76f01cd731",
+	"createdTime":1733749050919,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"OAuthSupport/OAuthSupport",
+	"httpMethod":"POST",
+	"id":"6756e93ae3c6ab76f01cd732",
+	"lastModifiedBy":522,
+	"lcName":"oauthsupport",
+	"modifiedTime":1751544720719,
+	"name":"OAuthSupport",
+	"ownerUserId":520,
+	"path":"OAuthSupport",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6756e7e8dfd90b35950a90d1"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

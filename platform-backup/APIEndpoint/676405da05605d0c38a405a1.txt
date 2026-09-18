@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6757c004b36e361da1e33a5b",
+	"createdTime":1734608346957,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"SoapAPI-Do-Not-Delete-IMP/soapCall",
+	"httpMethod":"POST",
+	"id":"676405da05605d0c38a405a1",
+	"lastModifiedBy":522,
+	"lcName":"soapcall",
+	"modifiedTime":1751544720544,
+	"name":"soapCall",
+	"ownerUserId":520,
+	"path":"soapCall",
+	"resourceIds":[
+		"67640591a86e3b7ad54ef6c1"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

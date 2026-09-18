@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6746e27ff778eb0fc70690be",
+	"createdTime":1732724736097,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"chat/post",
+	"httpMethod":"POST",
+	"id":"6746e29bf778eb0fc70690bf",
+	"lastModifiedBy":522,
+	"lcName":"post messages",
+	"modifiedTime":1751544724515,
+	"name":"Post messages",
+	"ownerUserId":504,
+	"path":"post",
+	"resourceIds":[
+		"6746e1808c7aa779d3068331"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
