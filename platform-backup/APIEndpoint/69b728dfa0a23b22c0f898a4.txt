@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69b728d2bc42f42293f73473",
+	"createdTime":1773611231913,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIGCTprInqDj/UpdateMSLWeTHnlQ",
+	"id":"69b728dfa0a23b22c0f898a4",
+	"lastModifiedBy":-1,
+	"lcName":"updatelggtspvvll",
+	"modifiedTime":1773662163172,
+	"name":"UpdateLggTSPvVLL",
+	"ownerUserId":175325,
+	"path":"UpdateMSLWeTHnlQ",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
