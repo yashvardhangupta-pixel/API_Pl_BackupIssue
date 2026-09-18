@@ -1,0 +1,39 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69ef506051cb522f510ad5ce",
+	"createdTime":1777292139225,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dta_test/chat_streaming/sse",
+	"id":"69ef536bf5d74e70bfc87794",
+	"lastModifiedBy":195431,
+	"lcName":"chat streaming test api",
+	"modifiedTime":1777292218064,
+	"name":"chat streaming test api",
+	"ownerUserId":195431,
+	"path":"chat_streaming/sse",
+	"resourceIds":[
+		"69eb4f49ba399306ae2b4b69"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

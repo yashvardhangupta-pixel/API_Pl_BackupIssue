@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69f00c604e0e1f3e211744ff",
+	"createdTime":1777339501881,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIQkznrhkXdE/UpdateBjAastamoB",
+	"id":"69f00c6dfbe1ef10bc0be385",
+	"lastModifiedBy":-1,
+	"lcName":"updatevibnlvkbdx",
+	"modifiedTime":1777345049868,
+	"name":"UpdateViBNlVkBDx",
+	"ownerUserId":175325,
+	"path":"UpdateBjAastamoB",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
