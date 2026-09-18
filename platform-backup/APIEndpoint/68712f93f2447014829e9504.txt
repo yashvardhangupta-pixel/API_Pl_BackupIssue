@@ -1,0 +1,44 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68712f7976ad5d2ba2a13422",
+	"createdTime":1752248211382,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"custom-error-msg-1/1",
+	"errorCodeVsMessage":{
+		"500":"aryam 500",
+		"403":"aryam 403",
+		"404":"aryam 404"
+	},
+	"id":"68712f93f2447014829e9504",
+	"lastModifiedBy":39713,
+	"lcName":"test",
+	"modifiedTime":1752249155435,
+	"name":"test",
+	"ownerUserId":39713,
+	"path":"1",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://graphqlzero.almansi.me/api"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET",
+		"PUT"
+	],
+	"version":7
+}

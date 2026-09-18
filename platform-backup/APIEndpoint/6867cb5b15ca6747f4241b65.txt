@@ -1,0 +1,32 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66d70f0684ea5326788be5f8",
+	"createdTime":1751632731546,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"vihar/temp?resourceId={{RESOURCE_ID}}",
+	"id":"6867cb5b15ca6747f4241b65",
+	"lastModifiedBy":4446,
+	"lcName":"temp",
+	"modifiedTime":1752142720493,
+	"name":"temp",
+	"ownerUserId":4446,
+	"path":"temp",
+	"resourceIds":[
+		"6867c24cfebcaa0a997de6da",
+		"6867aa4c7d50d83980ef5c75",
+		"6867aeac7d50d83980f009ce",
+		"6867bf8e6e1186444f4e7bcd"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
