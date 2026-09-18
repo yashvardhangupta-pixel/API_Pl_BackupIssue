@@ -1,0 +1,38 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6889b431780ec9161e0d32b9",
+	"createdTime":1753855039316,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"webhook-api-/webhook-api-?resourceId={{RESOURCE_ID}}",
+	"id":"6889b43f780ec9161e0d32ba",
+	"lastModifiedBy":162004,
+	"lcName":"webhook api ",
+	"modifiedTime":1753855044180,
+	"name":"webhook api ",
+	"ownerUserId":162004,
+	"path":"webhook-api-",
+	"resourceIds":[
+		"68899b3e4050486b59b45a49"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

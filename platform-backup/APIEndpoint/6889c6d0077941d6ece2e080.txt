@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6889c6bc077941d6ece2e07c",
+	"createdTime":1753859918024,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"changeSetLocalCSOooZYOyXhst/PIpULQL",
+	"id":"6889c6d0077941d6ece2e080",
+	"lastModifiedBy":162004,
+	"lcName":"changesetlocal_externalapi_post_2432943972",
+	"modifiedTime":1753860178666,
+	"name":"changeSetLocal_ExternalAPI_Post_2432943972",
+	"ownerUserId":162004,
+	"path":"PIpULQL",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://httpbin.org/anything"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

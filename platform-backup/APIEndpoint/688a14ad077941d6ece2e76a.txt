@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"688a1480077941d6ece2e764",
+	"createdTime":1753879809333,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"changeSetLocalCSOFhjydDkKpt/iWidIQ4",
+	"id":"688a14ad077941d6ece2e76a",
+	"lastModifiedBy":162004,
+	"lcName":"changesetlocal_externalapi_patch_3761354767",
+	"modifiedTime":1753880196749,
+	"name":"changeSetLocal_ExternalAPI_Patch_3761354767",
+	"ownerUserId":162004,
+	"path":"iWidIQ4",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"PATCH",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://httpbin.org/anything"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
