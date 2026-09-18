@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d0427bd9df8268dc29b6a8",
+	"createdTime":1757391661665,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"unifycms/cms/v2/collectionpoint",
+	"httpMethod":"POST",
+	"id":"67d042a1d9df8268dc29b6a9",
+	"lastModifiedBy":15430,
+	"lcName":"cms-v2, prod",
+	"modifiedTime":1757391661665,
+	"name":"CMS-v2, PROD",
+	"ownerUserId":15430,
+	"path":"cms/v2/collectionpoint",
+	"resourceIds":[
+		"67d52731ee6d871e641c96a4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}

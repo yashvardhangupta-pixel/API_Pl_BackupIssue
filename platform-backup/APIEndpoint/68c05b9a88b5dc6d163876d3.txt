@@ -1,0 +1,38 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68bfc83447bea6229df99762",
+	"createdTime":1757436826368,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"forward-all-path-testing/wdef",
+	"id":"68c05b9a88b5dc6d163876d3",
+	"lastModifiedBy":67744,
+	"lcName":"wdef",
+	"modifiedTime":1757437667869,
+	"name":"wdef",
+	"ownerUserId":67744,
+	"path":"wdef",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"LLM_MODEL",
+	"standard":false,
+	"version":3
+}

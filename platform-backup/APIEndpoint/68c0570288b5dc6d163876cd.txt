@@ -1,0 +1,36 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":true,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68bfc83447bea6229df99762",
+	"createdTime":1757435650637,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"forward-all-path-testing/ftgyhj",
+	"id":"68c0570288b5dc6d163876cd",
+	"lastModifiedBy":67744,
+	"lcName":"ftgyhj",
+	"modifiedTime":1757436401349,
+	"name":"ftgyhj",
+	"ownerUserId":67744,
+	"path":"ftgyhj",
+	"resourceIds":[
+		
+	],
+	"resourceType":"LLM_MODEL",
+	"standard":false,
+	"version":1
+}

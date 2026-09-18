@@ -1,0 +1,38 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68bfc83447bea6229df99762",
+	"createdTime":1757437683155,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"forward-all-path-testing/sad",
+	"id":"68c05ef388b5dc6d16387711",
+	"lastModifiedBy":67744,
+	"lcName":"sad",
+	"modifiedTime":1757437743929,
+	"name":"sad",
+	"ownerUserId":67744,
+	"path":"sad",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"LLM_MODEL",
+	"standard":false,
+	"version":2
+}

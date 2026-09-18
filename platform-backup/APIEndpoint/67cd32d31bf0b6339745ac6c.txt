@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67b4bbb0a9f01e1fbe1af6e4",
+	"createdTime":1757391661683,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dpdpTest/cmsv2/collectionpoint",
+	"httpMethod":"POST",
+	"id":"67cd32d31bf0b6339745ac6c",
+	"lastModifiedBy":15430,
+	"lcName":"dpdpuat",
+	"modifiedTime":1757391661683,
+	"name":"dpdpUAT",
+	"ownerUserId":15430,
+	"path":"cmsv2/collectionpoint",
+	"resourceIds":[
+		"67d52731ee6d871e641c96a4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

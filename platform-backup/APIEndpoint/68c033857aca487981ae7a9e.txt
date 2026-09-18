@@ -1,0 +1,37 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68b9a9422418745b016ad451",
+	"createdTime":1757426565340,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"hetNew/testr",
+	"id":"68c033857aca487981ae7a9e",
+	"lastModifiedBy":44567,
+	"lcName":"testr",
+	"modifiedTime":1757427142594,
+	"name":"testr",
+	"ownerUserId":44567,
+	"path":"testr",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://jsonplaceholder.typicode.com/todos"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":5
+}

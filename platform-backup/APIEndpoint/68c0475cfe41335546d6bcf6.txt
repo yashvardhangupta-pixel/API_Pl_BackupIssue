@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68bfc83447bea6229df99762",
+	"createdTime":1757431644819,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"forward-all-path-testing/checking",
+	"id":"68c0475cfe41335546d6bcf6",
+	"lastModifiedBy":67744,
+	"lcName":"checking",
+	"modifiedTime":1757431673581,
+	"name":"checking",
+	"ownerUserId":67744,
+	"path":"checking",
+	"resourceIds":[
+		"68bfeb24b77280391fca4ddc"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET",
+		"PUT"
+	],
+	"version":2
+}

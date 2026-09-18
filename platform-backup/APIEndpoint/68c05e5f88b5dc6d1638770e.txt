@@ -1,0 +1,38 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":true,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68bfc83447bea6229df99762",
+	"createdTime":1757437535461,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"forward-all-path-testing/sdfsd",
+	"id":"68c05e5f88b5dc6d1638770e",
+	"lastModifiedBy":67744,
+	"lcName":"sdfsd",
+	"modifiedTime":1757437664726,
+	"name":"sdfsd",
+	"ownerUserId":67744,
+	"path":"sdfsd",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"LLM_MODEL",
+	"standard":false,
+	"version":1
+}
