@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"661fafb1387ba159af40e211",
+	"createdTime":1733237020565,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"backendautomation/CUSTOM-HTTP-DND",
+	"httpMethod":"GET",
+	"id":"67050f9a2010b81c4d60e00e",
+	"lastModifiedBy":522,
+	"lcName":"custom_http_dnd",
+	"modifiedTime":1751544757552,
+	"name":"CUSTOM_HTTP_DND",
+	"ownerUserId":520,
+	"path":"CUSTOM-HTTP-DND",
+	"resourceIds":[
+		"67050ead2002395a59c143e8"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

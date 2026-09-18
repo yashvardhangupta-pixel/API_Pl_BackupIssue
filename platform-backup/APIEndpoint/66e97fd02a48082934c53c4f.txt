@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":3000,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"667bfc84bc4d0157803c1607",
+	"createdTime":1726578640225,
+	"customizeTimeout":true,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Mphasis-RAG/belcorp/add-data",
+	"httpMethod":"POST",
+	"id":"66e97fd02a48082934c53c4f",
+	"lastModifiedBy":522,
+	"lcName":"belcorp object ",
+	"modifiedTime":1751544760403,
+	"name":"belcorp object ",
+	"ownerUserId":295,
+	"path":"belcorp/add-data",
+	"resourceIds":[
+		"66e9797fc782050e3f1530a3"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

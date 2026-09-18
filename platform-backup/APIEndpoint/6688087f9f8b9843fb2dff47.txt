@@ -1,0 +1,42 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"668808539f8b9843fb2dff46",
+	"createdTime":1720191103498,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"first endpoint in the collection",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"tcr/hello",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Success",
+		"response":{
+			"api-level":"primary",
+			"message":"Hello !",
+			"version":1
+		},
+		"statusCode":200
+	},
+	"httpMethod":"GET",
+	"id":"6688087f9f8b9843fb2dff47",
+	"lastModifiedBy":522,
+	"lcName":"primary endpoint",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1751544755902,
+	"name":"primary endpoint",
+	"ownerUserId":1689,
+	"path":"hello",
+	"resourceIds":[
+		"660042a7fa09d15b376d502d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}

@@ -1,0 +1,41 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"668808539f8b9843fb2dff46",
+	"createdTime":1720193950737,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"second endpoint",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"tcr/active",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Success",
+		"response":{
+			"cause":"who knows",
+			"category":"fallback response"
+		},
+		"statusCode":200
+	},
+	"httpMethod":"GET",
+	"id":"6688139ec21faa140cb53fae",
+	"lastModifiedBy":522,
+	"lcName":"secondary endpoint",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1751544755902,
+	"name":"secondary endpoint",
+	"ownerUserId":1689,
+	"path":"active",
+	"resourceIds":[
+		"660042a7fa09d15b376d502d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

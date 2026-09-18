@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6682b5ff7089c026be8f8f3c",
+	"createdTime":1719842660514,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"testPath/test3?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6682b7647089c026be8f8f3e",
+	"lastModifiedBy":522,
+	"lcName":"test6",
+	"modifiedTime":1751544757898,
+	"name":"test6",
+	"ownerUserId":602,
+	"path":"test3",
+	"resourceIds":[
+		"660a5fb55891233f12aec903"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}

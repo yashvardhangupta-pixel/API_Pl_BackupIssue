@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"667d9d1fbc4d0157803c1d9c",
+	"createdTime":1719508276614,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"api/runfailure",
+	"httpMethod":"POST",
+	"id":"667d9d34bc4d0157803c1da0",
+	"lastModifiedBy":522,
+	"lcName":"zendesk_test",
+	"modifiedTime":1751544759902,
+	"name":"zendesk_test",
+	"ownerUserId":34,
+	"path":"runfailure",
+	"resourceIds":[
+		"667d9cb0bc98052f502ba4c5"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

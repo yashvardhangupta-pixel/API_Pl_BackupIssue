@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"667c2967bc4d0157803c1681",
+	"createdTime":1719413331895,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"j-s-test-collection/postmessage?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"667c2a53bc4d0157803c16c4",
+	"lastModifiedBy":522,
+	"lcName":"slack message api",
+	"modifiedTime":1751544760253,
+	"name":"Slack Message API",
+	"ownerUserId":520,
+	"path":"postmessage",
+	"resourceIds":[
+		"667c29ebeffe5c5de97ec9a3"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":8
+}

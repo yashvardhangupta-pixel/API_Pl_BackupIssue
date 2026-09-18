@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":3000,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"667bfc84bc4d0157803c1607",
+	"createdTime":1726754689407,
+	"customizeTimeout":true,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Mphasis-RAG/belcorp/create-grapj",
+	"httpMethod":"POST",
+	"id":"66ec2f81446a1a6506b7b29b",
+	"lastModifiedBy":522,
+	"lcName":"belcorp graph",
+	"modifiedTime":1751544760403,
+	"name":"belcorp Graph",
+	"ownerUserId":295,
+	"path":"belcorp/create-grapj",
+	"resourceIds":[
+		"66ec2b87d30bbf1560f16f7a"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

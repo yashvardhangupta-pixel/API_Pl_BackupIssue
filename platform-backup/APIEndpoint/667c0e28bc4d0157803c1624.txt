@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"667bfc84bc4d0157803c1607",
+	"createdTime":1719406120625,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"Mphasis-RAG/embeddings/search",
+	"httpMethod":"POST",
+	"id":"667c0e28bc4d0157803c1624",
+	"lastModifiedBy":522,
+	"lcName":"mphasis search vectors",
+	"modifiedTime":1751544760403,
+	"name":"Mphasis Search Vectors",
+	"ownerUserId":465,
+	"path":"embeddings/search",
+	"resourceIds":[
+		"66a91a32025aef5c685886f0"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

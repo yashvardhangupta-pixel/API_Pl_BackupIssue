@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"667bfc84bc4d0157803c1607",
+	"createdTime":1726485228473,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Mphasis-RAG/hit",
+	"httpMethod":"POST",
+	"id":"66e812ec29cbf62cdba51491",
+	"lastModifiedBy":522,
+	"lcName":"hit webhook",
+	"modifiedTime":1751544760403,
+	"name":"HIT Webhook",
+	"ownerUserId":465,
+	"path":"hit",
+	"resourceIds":[
+		"6703ee866198273b9d779244"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		null
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":7
+}

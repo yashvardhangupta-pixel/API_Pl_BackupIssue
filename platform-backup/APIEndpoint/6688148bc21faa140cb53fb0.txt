@@ -1,0 +1,40 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"668808539f8b9843fb2dff46",
+	"createdTime":1720194187225,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"just one more",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"tcr/delete",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Success",
+		"response":{
+			"question":"why do you wanna delete hmm ?"
+		},
+		"statusCode":200
+	},
+	"httpMethod":"DELETE",
+	"id":"6688148bc21faa140cb53fb0",
+	"lastModifiedBy":522,
+	"lcName":"delete endpoint",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1751544755902,
+	"name":"delete endpoint",
+	"ownerUserId":1689,
+	"path":"delete",
+	"resourceIds":[
+		"660042a7fa09d15b376d502d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":2
+}

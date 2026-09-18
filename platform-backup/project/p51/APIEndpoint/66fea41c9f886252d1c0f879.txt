@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"667bfc84bc4d0157803c1607",
+	"createdTime":1727964188761,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Mphasis-RAG/multimodal/index",
+	"httpMethod":"POST",
+	"id":"66fea41c9f886252d1c0f879",
+	"lastModifiedBy":522,
+	"lcName":"multimodal",
+	"modifiedTime":1751544760403,
+	"name":"multimodal",
+	"ownerUserId":295,
+	"path":"multimodal/index",
+	"policyIds":[
+		"6697d6c91687303fa908b82a"
+	],
+	"projectId":51,
+	"resourceIds":[
+		"66fe9790f1f22f1a4ad22812"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"667bfc84bc4d0157803c1607",
+	"createdTime":1727692769935,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Mphasis-RAG/graphrag/api",
+	"httpMethod":"POST",
+	"id":"66fa7fe1d9089e5b15e0c1f7",
+	"lastModifiedBy":522,
+	"lcName":"chart-gemma",
+	"modifiedTime":1751544760403,
+	"name":"chart-gemma",
+	"ownerUserId":295,
+	"path":"graphrag/api",
+	"policyIds":[
+		"6697d6c91687303fa908b82a"
+	],
+	"projectId":135,
+	"resourceIds":[
+		"66dbff96f75f17032f3a2a23"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

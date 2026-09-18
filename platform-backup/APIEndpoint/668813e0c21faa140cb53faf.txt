@@ -1,0 +1,41 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"668808539f8b9843fb2dff46",
+	"createdTime":1720194016107,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"first post endpoint because why not ?",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"tcr/add",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Success",
+		"response":{
+			"message":"you hit me !",
+			"status":"beaten"
+		},
+		"statusCode":200
+	},
+	"httpMethod":"POST",
+	"id":"668813e0c21faa140cb53faf",
+	"lastModifiedBy":522,
+	"lcName":"post endpoint",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1751544755902,
+	"name":"post endpoint",
+	"ownerUserId":1689,
+	"path":"add",
+	"resourceIds":[
+		"660042a7fa09d15b376d502d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"667bfc84bc4d0157803c1607",
+	"createdTime":1726329684467,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Mphasis-RAG/api/v1/chat/completion",
+	"httpMethod":"POST",
+	"id":"66e5b3542e7c7552bb1de2e0",
+	"lastModifiedBy":522,
+	"lcName":"call llm - http api",
+	"modifiedTime":1751544760403,
+	"name":"Call LLM - HTTP API",
+	"ownerUserId":465,
+	"path":"api/v1/chat/completion",
+	"resourceIds":[
+		"66e5ab68bebe264839a738dd"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
