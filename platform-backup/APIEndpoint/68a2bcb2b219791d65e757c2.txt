@@ -1,0 +1,38 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a2adacdb07414ca6a92c88",
+	"createdTime":1755495602453,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"tst-grp/tst-api/{name}",
+	"id":"68a2bcb2b219791d65e757c2",
+	"lastModifiedBy":46209,
+	"lcName":"tst-api",
+	"modifiedTime":1755857299635,
+	"name":"tst-api",
+	"ownerUserId":46209,
+	"path":"tst-api/{name}",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://api.qa.unifyapps.com/api-endpoint/tst-grp/apiiiiii2/{name}"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":4
+}

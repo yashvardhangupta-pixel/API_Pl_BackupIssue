@@ -1,0 +1,37 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68a8789e038c666837558c8d",
+	"createdTime":1755871419524,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"openapi/1/post",
+	"id":"68a878bb038c666837558c8e",
+	"lastModifiedBy":2,
+	"lcName":"post",
+	"modifiedTime":1755871586851,
+	"name":"post",
+	"ownerUserId":2,
+	"path":"post",
+	"resourceIds":[
+		"68a877d5fcb21f61c9241dc6"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PUT",
+		"PATCH"
+	],
+	"version":2
+}
