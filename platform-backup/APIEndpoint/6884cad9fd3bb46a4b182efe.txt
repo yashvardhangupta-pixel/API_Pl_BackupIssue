@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6884cab2fd3bb46a4b182efb",
+	"createdTime":1753533222625,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateQDwXtIMRAd/hqAwf/{name}",
+	"id":"6884cad9fd3bb46a4b182efe",
+	"lastModifiedBy":162004,
+	"lcName":"changesetqa2csofrtwlwgw",
+	"modifiedTime":1753533363585,
+	"name":"changeSetQA2CSOfrtwlwGw",
+	"ownerUserId":162004,
+	"path":"hqAwf/{name}",
+	"policyIds":[
+		"6884ca9ffd3bb46a4b182ef9"
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
