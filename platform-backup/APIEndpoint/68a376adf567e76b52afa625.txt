@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a376adf567e76b52afa623",
+	"createdTime":1755543213866,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"JSON-RPC API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"livekit-mcp/mcp/messages",
+	"httpMethod":"POST",
+	"id":"68a376adf567e76b52afa625",
+	"lastModifiedBy":311,
+	"lcName":"livekit mcp json-rpc",
+	"modifiedTime":1755543213866,
+	"name":"Livekit MCP JSON-RPC",
+	"ownerUserId":311,
+	"path":"mcp/messages",
+	"resourceIds":[
+		"67dbf54e6b0a2f279887d047"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}

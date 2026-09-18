@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6876188dc64435d8af454779",
+	"createdTime":1754885803054,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-local/delay",
+	"id":"68996eabcb32b47fb1646db2",
+	"lastModifiedBy":508,
+	"lcName":"delay",
+	"modifiedTime":1755593260881,
+	"name":"delay",
+	"ownerUserId":508,
+	"path":"delay",
+	"resourceIds":[
+		"68300f7917c70a6521b7222d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

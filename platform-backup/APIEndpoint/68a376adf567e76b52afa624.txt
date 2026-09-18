@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a376adf567e76b52afa623",
+	"createdTime":1755543213845,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"SSE API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"livekit-mcp/mcp/sse",
+	"httpMethod":"GET",
+	"id":"68a376adf567e76b52afa624",
+	"lastModifiedBy":311,
+	"lcName":"livekit mcp sse",
+	"modifiedTime":1755543213845,
+	"name":"Livekit MCP SSE",
+	"ownerUserId":311,
+	"path":"mcp/sse",
+	"resourceIds":[
+		"67dd3e1d24f9fb5bd409af36"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}
