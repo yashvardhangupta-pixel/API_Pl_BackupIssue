@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6880ac3facbdcb22919332ff",
+	"createdTime":1753263284370,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateGfGPvcfLAv/SmDwQ/{name}",
+	"id":"6880ac671618f68cad93641e",
+	"lastModifiedBy":162004,
+	"lcName":"changesetqa2csoqconfcmn",
+	"modifiedTime":1753263434034,
+	"name":"changeSetQA2CSOQCOnFCMn",
+	"ownerUserId":162004,
+	"path":"SmDwQ/{name}",
+	"policyIds":[
+		"6880ac30acbdcb22919332fa"
+	],
+	"resourceIds":[
+		"68763d9432b9d5e483e164e4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
