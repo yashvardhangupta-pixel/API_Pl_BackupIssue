@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68af08e8862eb172272cf7c7",
+	"createdTime":1756310005207,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"daksbeer/dv-custom-http-endpoint",
+	"id":"68af29f5dcde002a9358b203",
+	"lastModifiedBy":517,
+	"lcName":"dv custom http endpoint",
+	"modifiedTime":1765860731903,
+	"name":"dv custom http endpoint",
+	"ownerUserId":517,
+	"path":"dv-custom-http-endpoint",
+	"resourceIds":[
+		"68af2899e31947311e6890fd"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}
