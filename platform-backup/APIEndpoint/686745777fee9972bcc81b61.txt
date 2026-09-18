@@ -1,0 +1,38 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6867456e6bfd5c20858d7c69",
+	"createdTime":1751598455455,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"Endpoint for obtaining CDL data from Planit Tactics",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"planit-tactics-cdl/api/Tactica/ObtenerCDL",
+	"httpMethod":"GET",
+	"id":"686745777fee9972bcc81b61",
+	"lastModifiedBy":31268,
+	"lcName":"obtener cdl",
+	"modifiedTime":1755450358371,
+	"name":"Obtener CDL",
+	"ownerUserId":31268,
+	"path":"api/Tactica/ObtenerCDL",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"http://internal-prd-alb-planit-157192820.us-east-1.elb.amazonaws.com/api/Tactica/ObtenerCDL"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
