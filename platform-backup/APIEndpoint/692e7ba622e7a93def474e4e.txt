@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"692e7b6922e7a93def474e34",
+	"createdTime":1764653990925,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"status-code/random1",
+	"id":"692e7ba622e7a93def474e4e",
+	"lastModifiedBy":191801,
+	"lcName":"first automation integration",
+	"modifiedTime":1764657150339,
+	"name":"First automation Integration",
+	"ownerUserId":191801,
+	"path":"random1",
+	"resourceIds":[
+		"692e74ef663db0074b229c8a"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
