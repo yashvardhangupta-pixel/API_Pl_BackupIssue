@@ -1,0 +1,34 @@
+{
+	"createdTime":1743500392835,
+	"customTraceHeaders":[
+		"customheader"
+	],
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"id":"67ebb4689fcd10206077c459",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"tracetelemetry",
+	"modifiedTime":1751544667220,
+	"name":"traceTelemetry",
+	"ownerUserId":4130,
+	"path":"traceTelemetry",
+	"standard":false,
+	"telemetryConfig":{
+		"enableTelemetry":true,
+		"metricConfigs":[
+			{
+				"eventType":"ALWAYS",
+				"metricType":"API_EXECUTION",
+				"name":"newOne",
+				"tags":[
+					
+				]
+			}
+		]
+	},
+	"version":6
+}

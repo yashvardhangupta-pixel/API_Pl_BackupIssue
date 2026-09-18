@@ -1,0 +1,31 @@
+{
+	"createdTime":1744270133201,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"id":"67ee65803baf884cee245a32",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"test-local",
+	"modifiedTime":1751544663831,
+	"name":"test-local",
+	"ownerUserId":508,
+	"path":"test-local",
+	"standard":false,
+	"telemetryConfig":{
+		"enableTelemetry":true,
+		"metricConfigs":[
+			{
+				"eventType":"ALWAYS",
+				"metricType":"API_EXECUTION_DURATION",
+				"name":"test",
+				"tags":[
+					
+				]
+			}
+		]
+	},
+	"version":3
+}
