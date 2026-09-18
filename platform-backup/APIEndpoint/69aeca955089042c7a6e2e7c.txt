@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69aeca8737412e5cbd65395d",
+	"createdTime":1773062805666,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIrGLNYDDEqt/UpdateZKxKZBODPg",
+	"id":"69aeca955089042c7a6e2e7c",
+	"lastModifiedBy":-1,
+	"lcName":"updatehpafgupmfc",
+	"modifiedTime":1773066933850,
+	"name":"UpdatehPafGUPmFc",
+	"ownerUserId":175325,
+	"path":"UpdateZKxKZBODPg",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
