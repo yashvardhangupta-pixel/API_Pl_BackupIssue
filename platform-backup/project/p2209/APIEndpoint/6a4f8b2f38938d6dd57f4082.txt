@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6a4f8aa138938d6dd57f4081",
+	"createdTime":1783597871136,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"ingest error api",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"error-tracking/errors/ingest",
+	"id":"6a4f8b2f38938d6dd57f4082",
+	"lastModifiedBy":199950,
+	"lastPlatformUpdateBy":199950,
+	"lastPlatformUpdateOn":1783597878635,
+	"lcName":"ingest-error",
+	"modifiedTime":1783597878635,
+	"name":"ingest-error",
+	"ownerUserId":199950,
+	"path":"errors/ingest",
+	"projectId":2209,
+	"resourceIds":[
+		"6a4f7e98271c6220431ba68d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
