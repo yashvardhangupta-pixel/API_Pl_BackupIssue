@@ -1,0 +1,38 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6868e864abc85907db4919ba",
+	"createdTime":1753100065770,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-forward-path/test-fppp23",
+	"id":"687e2f21eaab73fa44c03974",
+	"lastModifiedBy":46209,
+	"lcName":"ug98gy8rtyh89r",
+	"modifiedTime":1753109345066,
+	"name":"ug98gy8rtyh89r",
+	"ownerUserId":46209,
+	"path":"test-fppp23",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":true,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://catfact.ninja"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":5
+}

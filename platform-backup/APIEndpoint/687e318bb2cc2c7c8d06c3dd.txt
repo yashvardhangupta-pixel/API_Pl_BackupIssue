@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687e317bb2cc2c7c8d06c3da",
+	"createdTime":1753100683248,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Ai-group-with-policy/api-endpoint-policy",
+	"id":"687e318bb2cc2c7c8d06c3dd",
+	"lastModifiedBy":67744,
+	"lcName":"api endpoint policy",
+	"modifiedTime":1753164588345,
+	"name":"api endpoint policy",
+	"ownerUserId":162004,
+	"path":"api-endpoint-policy",
+	"policyIds":[
+		"66b61acf46f52016f084921a"
+	],
+	"resourceIds":[
+		"68762ea7dc9c1ab501195432"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":11
+}

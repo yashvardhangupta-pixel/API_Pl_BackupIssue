@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687e76b6bcc7f88ed6b7310d",
+	"createdTime":1753118503198,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateAYvyTHcsPe/aEMIa/{name}",
+	"id":"687e76dbf177c5f53e2fd45f",
+	"lastModifiedBy":162004,
+	"lcName":"changesetlocalcsoyohaclyd",
+	"modifiedTime":1753118632771,
+	"name":"changeSetLocalCSOYOHaCLYD",
+	"ownerUserId":162004,
+	"path":"aEMIa/{name}",
+	"policyIds":[
+		"687e76aabcc7f88ed6b7310c"
+	],
+	"resourceIds":[
+		"68763d9432b9d5e483e164e4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
