@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6a2986028b7d6349fcd404d1",
+	"createdTime":1781106202519,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Agent/OPA-Agent",
+	"id":"6a29861a2c18240a40457ee6",
+	"lastModifiedBy":46218,
+	"lcName":"opa agent",
+	"modifiedTime":1781106204359,
+	"name":"OPA Agent",
+	"ownerUserId":46218,
+	"path":"OPA-Agent",
+	"resourceIds":[
+		"6a29848d58901103b7d924d0"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":1
+}
