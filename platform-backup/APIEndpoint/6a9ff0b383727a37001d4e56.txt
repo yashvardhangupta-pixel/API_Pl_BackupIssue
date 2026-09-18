@@ -1,0 +1,47 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6a9ff0addb320b719d8366ea",
+	"createdTime":1788866739174,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ao0uu5/aftetrk",
+	"id":"6a9ff0b383727a37001d4e56",
+	"lastModifiedBy":238035,
+	"lastPlatformUpdateBy":238035,
+	"lastPlatformUpdateOn":1788866775778,
+	"lcName":"endpoint_ratelimitcheck - 21788865758130",
+	"modifiedTime":1788866775778,
+	"name":"endpoint_rateLimitCheck - 21788865758130",
+	"ownerUserId":238035,
+	"path":"aftetrk",
+	"resourceIds":[
+		"6a9ff091be902514258d526e"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"tags":[
+		"dnt_tag"
+	],
+	"version":2
+}
