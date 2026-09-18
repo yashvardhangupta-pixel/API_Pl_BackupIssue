@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687a560ab7aa9af6033b186a",
+	"createdTime":1755191456802,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"hpGroup/webhook?resourceId={{RESOURCE_ID}}",
+	"id":"689e18a0baa97fd48750f7e0",
+	"lastModifiedBy":44105,
+	"lcName":"webhook",
+	"modifiedTime":1756128159786,
+	"name":"webhook",
+	"ownerUserId":44105,
+	"path":"webhook",
+	"resourceIds":[
+		"68a44acf992f870d36541ac4"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":9
+}
