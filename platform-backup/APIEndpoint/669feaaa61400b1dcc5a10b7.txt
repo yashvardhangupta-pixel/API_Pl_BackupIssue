@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"669f7dd261400b1dcc5a0e02",
+	"createdTime":1721756330436,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"rbi-llm/rbi-llm/add",
+	"httpMethod":"POST",
+	"id":"669feaaa61400b1dcc5a10b7",
+	"lastModifiedBy":522,
+	"lcName":"rbi_llm_add_data_to_vector",
+	"modifiedTime":1751544752402,
+	"name":"rbi_llm_add_data_to_vector",
+	"ownerUserId":295,
+	"path":"rbi-llm/add",
+	"resourceIds":[
+		"669f7c65f466d6084711ef91"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		2
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

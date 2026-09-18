@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6692161e440ab075cf18e28c",
+	"createdTime":1720849973520,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"policyvalidation/revops01?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"66921635440ab075cf18e28d",
+	"lastModifiedBy":522,
+	"lcName":"webhook",
+	"modifiedTime":1751544753946,
+	"name":"webhook",
+	"ownerUserId":34,
+	"path":"revops01",
+	"resourceIds":[
+		"668c00ed12d2054043ed5bd6"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

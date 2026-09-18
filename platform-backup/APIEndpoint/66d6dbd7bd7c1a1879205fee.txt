@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66d6db68bd7c1a1879205fed",
+	"createdTime":1725357015780,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"apiGraphRag/graphrag/indexing",
+	"httpMethod":"POST",
+	"id":"66d6dbd7bd7c1a1879205fee",
+	"lastModifiedBy":522,
+	"lcName":"graphrag",
+	"modifiedTime":1751544737422,
+	"name":"graphRag",
+	"ownerUserId":295,
+	"path":"graphrag/indexing",
+	"resourceIds":[
+		"66d6cf4baa393225cfa4d923"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

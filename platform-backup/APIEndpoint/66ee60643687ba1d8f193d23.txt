@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66d37ffe40b4377fe5e469a5",
+	"createdTime":1726898276793,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"remote/api/v1/spr/send-otp",
+	"httpMethod":"GET",
+	"id":"66ee60643687ba1d8f193d23",
+	"lastModifiedBy":522,
+	"lcName":"otp api sprinklr",
+	"modifiedTime":1751544737592,
+	"name":"otp api sprinklr",
+	"ownerUserId":7,
+	"path":"api/v1/spr/send-otp",
+	"policyIds":[
+		"6697d6c91687303fa908b82a"
+	],
+	"resourceIds":[
+		"66ee5ed13eb77405967d757d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

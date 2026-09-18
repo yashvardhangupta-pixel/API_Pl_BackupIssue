@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66a3b17583364a68c0418018",
+	"createdTime":1722003853209,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"Load-varr/Load-varr?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"66a3b18d83364a68c0418019",
+	"lastModifiedBy":522,
+	"lcName":"load_varr",
+	"modifiedTime":1751544751930,
+	"name":"Load_varr",
+	"ownerUserId":520,
+	"path":"Load-varr",
+	"resourceIds":[
+		"66a3abe95800d97296883065"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

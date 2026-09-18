@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66a4869bb1bf85609d63c808",
+	"createdTime":1722058425255,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"check-var/check-var?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"66a486b9b1bf85609d63c809",
+	"lastModifiedBy":522,
+	"lcName":"check_var",
+	"modifiedTime":1751544751498,
+	"name":"check_var",
+	"ownerUserId":520,
+	"path":"check-var",
+	"resourceIds":[
+		"66a485d3e9ba8d4faabaa992"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

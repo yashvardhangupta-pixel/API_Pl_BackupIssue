@@ -1,0 +1,39 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66c85a3b15832554765f7252",
+	"createdTime":1724406356132,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"fail/fail",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Success",
+		"response":{
+			"asdasd":"asdasdasdasd"
+		},
+		"statusCode":200
+	},
+	"httpMethod":"GET",
+	"id":"66c85a5415832554765f7253",
+	"lastModifiedBy":522,
+	"lcName":"fail endpoint",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1751544738309,
+	"name":"fail endpoint",
+	"ownerUserId":6,
+	"path":"fail",
+	"resourceIds":[
+		"66c8594ba455303ac02e7615"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

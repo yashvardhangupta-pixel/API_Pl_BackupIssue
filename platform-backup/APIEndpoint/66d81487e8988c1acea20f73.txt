@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66d37ffe40b4377fe5e469a5",
+	"createdTime":1725437063516,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"remote/rundetails",
+	"httpMethod":"POST",
+	"id":"66d81487e8988c1acea20f73",
+	"lastModifiedBy":522,
+	"lcName":"remote_runs_list",
+	"modifiedTime":1751544737592,
+	"name":"remote_runs_list",
+	"ownerUserId":34,
+	"path":"rundetails",
+	"resourceIds":[
+		"66d80c79d943a224bf7242c6"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

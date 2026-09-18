@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66ab319d2c966b3e24c891a0",
+	"createdTime":1722512225941,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"employee/offboarding/{id}",
+	"httpMethod":"POST",
+	"id":"66ab339f2c966b3e24c891a2",
+	"lastModifiedBy":522,
+	"lcName":"offboarding",
+	"modifiedTime":1751544750583,
+	"name":"Offboarding",
+	"ownerUserId":520,
+	"path":"offboarding/{id}",
+	"resourceIds":[
+		"66aa44dabb34292e01ec8063"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

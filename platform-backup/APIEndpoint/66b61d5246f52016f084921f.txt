@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66b61b4946f52016f084921b",
+	"createdTime":1723211090086,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"testNotif/entity/exportEntities",
+	"httpMethod":"POST",
+	"id":"66b61d5246f52016f084921f",
+	"lastModifiedBy":522,
+	"lcName":"export and send notification",
+	"modifiedTime":1751544749928,
+	"name":"export and send notification",
+	"ownerUserId":520,
+	"path":"entity/exportEntities",
+	"resourceIds":[
+		"66b5ed6e10bbb330fd247b6a"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}

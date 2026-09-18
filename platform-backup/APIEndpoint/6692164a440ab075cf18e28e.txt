@@ -1,0 +1,54 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6692161e440ab075cf18e28c",
+	"createdTime":1720849994762,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"policyvalidation/revops2?resourceId={{RESOURCE_ID}}",
+	"fallbackResponse":{
+		"headers":{
+			"rt":"efg",
+			"er":"df"
+		},
+		"message":"Bad Request",
+		"response":{
+			"wer":"wert"
+		},
+		"statusCode":400
+	},
+	"httpMethod":"GET",
+	"id":"6692164a440ab075cf18e28e",
+	"lastModifiedBy":522,
+	"lcName":"slack webhook 02",
+	"localeBasedFallbackResponse":{
+		"ko":{
+			"headers":{
+				"rt":"efg",
+				"er":"df"
+			},
+			"message":"Bad Request",
+			"response":{
+				"werg":"wert"
+			},
+			"statusCode":400
+		}
+	},
+	"modifiedTime":1751544753946,
+	"name":"slack webhook 02",
+	"ownerUserId":34,
+	"path":"revops2",
+	"resourceIds":[
+		"669215faff0da875ca052e8b"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}

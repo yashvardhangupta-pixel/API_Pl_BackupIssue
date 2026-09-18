@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66cd6f47cfc38c1cef2003e4",
+	"createdTime":1724739448877,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"smsTemplate/smsTemplate?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"66cd6f78cfc38c1cef2003e5",
+	"lastModifiedBy":522,
+	"lcName":"smstemplate",
+	"modifiedTime":1751544738170,
+	"name":"smsTemplate",
+	"ownerUserId":569,
+	"path":"smsTemplate",
+	"resourceIds":[
+		"66bc8fdffca60242babce663"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":5
+}

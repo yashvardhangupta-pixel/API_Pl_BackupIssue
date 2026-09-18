@@ -1,0 +1,39 @@
+{
+	"active":true,
+	"cacheResponse":true,
+	"cacheSettings":{
+		"cacheKeys":[
+			
+		],
+		"ttl":{
+			"duration":600,
+			"unit":"SECONDS"
+		}
+	},
+	"collectionId":"66c6d7b883f1780d6fcd6619",
+	"createdTime":1724307387160,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"newCollection117243073647070/ai2ssl",
+	"httpMethod":"GET",
+	"id":"66c6d7bb83f1780d6fcd661a",
+	"lastModifiedBy":522,
+	"lcName":"endpoint117243073647070",
+	"modifiedTime":1751544741343,
+	"name":"endpoint117243073647070",
+	"ownerUserId":520,
+	"path":"ai2ssl",
+	"resourceIds":[
+		"66c6d7a9ca0d5c20f14b0fc8"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

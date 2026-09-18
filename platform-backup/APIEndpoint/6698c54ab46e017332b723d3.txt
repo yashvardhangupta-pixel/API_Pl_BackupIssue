@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6698bb05b46e017332b723c3",
+	"createdTime":1721288010306,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"New-Collection-API/add/{number}",
+	"httpMethod":"GET",
+	"id":"6698c54ab46e017332b723d3",
+	"lastModifiedBy":522,
+	"lcName":"new_collection_api_endpoint",
+	"modifiedTime":1751544752659,
+	"name":"New_Collection_API_Endpoint",
+	"ownerUserId":520,
+	"path":"add/{number}",
+	"resourceIds":[
+		"6698bba436b506197f90f679"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}

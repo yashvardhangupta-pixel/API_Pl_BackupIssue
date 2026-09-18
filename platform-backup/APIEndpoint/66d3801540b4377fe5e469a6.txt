@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66d37ffe40b4377fe5e469a5",
+	"createdTime":1725136917171,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"remote/fetchRuns",
+	"httpMethod":"POST",
+	"id":"66d3801540b4377fe5e469a6",
+	"lastModifiedBy":522,
+	"lcName":"remote_fetch_count",
+	"modifiedTime":1751544737592,
+	"name":"remote_fetch_count",
+	"ownerUserId":34,
+	"path":"fetchRuns",
+	"resourceIds":[
+		"66d37ed50d24e37c64417130"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

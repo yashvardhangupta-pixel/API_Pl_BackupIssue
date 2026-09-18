@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":3,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"66c42d6b28b3455a18913391",
+	"createdTime":1724132732705,
+	"customizeTimeout":true,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"new-Api-test-timeout-collection/new-Api-test-timeout-endpoint",
+	"httpMethod":"GET",
+	"id":"66c42d7c28b3455a18913392",
+	"lastModifiedBy":522,
+	"lcName":"new_api_test_timeout_endpoint",
+	"modifiedTime":1751544749114,
+	"name":"new_Api_test_timeout_endpoint",
+	"ownerUserId":520,
+	"path":"new-Api-test-timeout-endpoint",
+	"resourceIds":[
+		"66c42d02a07b7a4090e82aca"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

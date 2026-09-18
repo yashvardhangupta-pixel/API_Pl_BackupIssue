@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66b6159046f52016f08491fe",
+	"createdTime":1723209189873,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"check-coll/check-endpoint?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"66b615e546f52016f0849200",
+	"lastModifiedBy":522,
+	"lcName":"check_endpoint",
+	"modifiedTime":1751544750083,
+	"name":"check_endpoint",
+	"ownerUserId":520,
+	"path":"check-endpoint",
+	"resourceIds":[
+		"66b5d0befee60c71fbe0dfef"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

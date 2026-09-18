@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66b4b363c349cd485c9f5d36",
+	"createdTime":1723121000018,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"customauthtest/custom/auth-test",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Internal Server Error",
+		"response":{
+			"message":"default fallback response"
+		},
+		"statusCode":500
+	},
+	"httpMethod":"POST",
+	"id":"66b4bd68c349cd485c9f5d38",
+	"lastModifiedBy":522,
+	"lcName":"testauthheader",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1751544750222,
+	"name":"testAuthHeader",
+	"ownerUserId":4446,
+	"path":"custom/auth-test",
+	"resourceIds":[
+		"66b4ae8d6c12006528732e6e"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

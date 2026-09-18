@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66b9e435c55ca12fa9686482",
+	"createdTime":1723458830746,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"aug12-Remote-Env/aug12-Remote-Env?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"66b9e50ec55ca12fa9686484",
+	"lastModifiedBy":522,
+	"lcName":"aug12_remote_env",
+	"modifiedTime":1751544749717,
+	"name":"aug12_Remote_Env",
+	"ownerUserId":520,
+	"path":"aug12-Remote-Env",
+	"resourceIds":[
+		"66b9e3b1d4868955c4cd5465"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
