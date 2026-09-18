@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6a985086e0a5b350e9a21eaf",
+	"createdTime":1788366982589,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"SSE API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"untixpcvdwpud/mcp/sse",
+	"httpMethod":"GET",
+	"id":"6a985086de6a47375a43bc9a",
+	"lastModifiedBy":238035,
+	"lastPlatformUpdateBy":238035,
+	"lastPlatformUpdateOn":1788366982589,
+	"lcName":"sse",
+	"modifiedTime":1788366982589,
+	"name":"SSE",
+	"ownerUserId":238035,
+	"path":"mcp/sse",
+	"resourceIds":[
+		"67dd3e1d24f9fb5bd409af36"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}
