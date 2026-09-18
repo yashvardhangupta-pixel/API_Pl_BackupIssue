@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69540687d09fd00a907d4e6b",
+	"createdTime":1767364698809,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"workflows/Get-App-Id",
+	"id":"6957d85abd10be63c8df0ee2",
+	"lastModifiedBy":44108,
+	"lcName":"get applications",
+	"modifiedTime":1767364703012,
+	"name":"Get Applications",
+	"ownerUserId":44108,
+	"path":"Get-App-Id",
+	"resourceIds":[
+		"6957d7a4554ea716b33adf71"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

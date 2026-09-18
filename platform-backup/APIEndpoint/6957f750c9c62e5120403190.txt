@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69540687d09fd00a907d4e6b",
+	"createdTime":1767372624586,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"workflows/Get-Connection-Names",
+	"id":"6957f750c9c62e5120403190",
+	"lastModifiedBy":517,
+	"lcName":"get connection names",
+	"modifiedTime":1767372626673,
+	"name":"Get Connection Names",
+	"ownerUserId":517,
+	"path":"Get-Connection-Names",
+	"resourceIds":[
+		"6957f66e6941fd6eab930741"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

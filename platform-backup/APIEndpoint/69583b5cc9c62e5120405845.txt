@@ -1,0 +1,43 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69583b51c9c62e5120405841",
+	"createdTime":1767390044388,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIXaTUwfRbwn/UpdatemUyGstyOQT",
+	"id":"69583b5cc9c62e5120405845",
+	"lastModifiedBy":-1,
+	"lcName":"updateibloomuabp",
+	"modifiedTime":1767394316401,
+	"name":"UpdateiBLOOMUaBp",
+	"ownerUserId":175325,
+	"path":"UpdatemUyGstyOQT",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
