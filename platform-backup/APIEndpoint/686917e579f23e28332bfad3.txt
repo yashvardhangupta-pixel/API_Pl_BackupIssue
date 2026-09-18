@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"686917982e731a1836dc73bd",
+	"createdTime":1751717861221,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Training/sid",
+	"id":"686917e579f23e28332bfad3",
+	"lastModifiedBy":21056,
+	"lcName":"test",
+	"modifiedTime":1751718290157,
+	"name":"Test",
+	"ownerUserId":21056,
+	"path":"sid",
+	"policyIds":[
+		"6869195b79f23e28332bfad6"
+	],
+	"resourceIds":[
+		"6868c4a86461a26d9417f76e"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

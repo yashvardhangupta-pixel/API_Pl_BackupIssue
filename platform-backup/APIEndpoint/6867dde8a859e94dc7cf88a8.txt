@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6867a11e7247f94ea938d042",
+	"createdTime":1751637480804,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"test--/ecr?resourceId={{RESOURCE_ID}}",
+	"id":"6867dde8a859e94dc7cf88a8",
+	"lastModifiedBy":44567,
+	"lcName":"ecr",
+	"modifiedTime":1751638243529,
+	"name":"ecr",
+	"ownerUserId":44567,
+	"path":"ecr",
+	"resourceIds":[
+		"6867da57d467b02057c955b5"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
