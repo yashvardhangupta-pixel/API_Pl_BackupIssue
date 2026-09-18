@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"69ab319676ec265be0243c1e",
+	"createdTime":1772827031988,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"JSON-RPC API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"sned-email/mcp/messages",
+	"httpMethod":"POST",
+	"id":"69ab3197cd8b29311df8d4ba",
+	"lastModifiedBy":43523,
+	"lcName":"json-rpc",
+	"modifiedTime":1772827031988,
+	"name":"JSON-RPC",
+	"ownerUserId":43523,
+	"path":"mcp/messages",
+	"resourceIds":[
+		"67dbf54e6b0a2f279887d047"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}

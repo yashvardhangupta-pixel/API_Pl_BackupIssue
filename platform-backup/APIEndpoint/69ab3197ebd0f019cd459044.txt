@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"69ab319676ec265be0243c1e",
+	"createdTime":1772827031384,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"SSE API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"sned-email/mcp/sse",
+	"httpMethod":"GET",
+	"id":"69ab3197ebd0f019cd459044",
+	"lastModifiedBy":43523,
+	"lcName":"sse",
+	"modifiedTime":1772827031384,
+	"name":"SSE",
+	"ownerUserId":43523,
+	"path":"mcp/sse",
+	"resourceIds":[
+		"67dd3e1d24f9fb5bd409af36"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}
