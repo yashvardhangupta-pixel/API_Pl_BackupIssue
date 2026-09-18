@@ -1,0 +1,47 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68eb56166f6b3055cd1d8e4d",
+	"createdTime":1762857822799,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"test obo flow",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-with-aditya/obo/flow",
+	"id":"6913135eeb63ab23f869572f",
+	"lastModifiedBy":186875,
+	"lcName":"test obo flow",
+	"modifiedTime":1762874237777,
+	"name":"test obo flow",
+	"ownerUserId":35286,
+	"path":"obo/flow",
+	"policyIds":[
+		"68285351c7eacf1253afb7fc"
+	],
+	"resourceIds":[
+		"6822df62c62e9037c19be64b"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":4
+}
