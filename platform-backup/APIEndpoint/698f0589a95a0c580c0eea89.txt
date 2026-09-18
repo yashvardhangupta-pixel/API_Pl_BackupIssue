@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68eb56166f6b3055cd1d8e4d",
+	"createdTime":1770980745947,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-with-aditya/test-token-flow-lows",
+	"id":"698f0589a95a0c580c0eea89",
+	"lastModifiedBy":33,
+	"lcName":"test token auth lows",
+	"modifiedTime":1770980749832,
+	"name":"test token auth lows",
+	"ownerUserId":33,
+	"path":"test-token-flow-lows",
+	"resourceIds":[
+		"6822df62c62e9037c19be64b"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
