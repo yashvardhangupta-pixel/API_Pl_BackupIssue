@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69526be41f622d52944097cc",
+	"createdTime":1768674120597,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test12123/env-filter",
+	"id":"696bd3489d13fa02c687ed8a",
+	"lastModifiedBy":124029,
+	"lcName":"env filter",
+	"modifiedTime":1768674129877,
+	"name":"env filter",
+	"ownerUserId":124029,
+	"path":"env-filter",
+	"resourceIds":[
+		"696bd1eca669e657537d1716"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":1
+}

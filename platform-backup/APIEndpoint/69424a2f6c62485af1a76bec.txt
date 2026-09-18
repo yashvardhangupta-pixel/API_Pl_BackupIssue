@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69424a1e6c62485af1a76beb",
+	"createdTime":1768829313344,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Deliver-Thank-You-Message/Thank-You-Tool",
+	"id":"69424a2f6c62485af1a76bec",
+	"lastModifiedBy":3952,
+	"lcName":"thank you tool",
+	"modifiedTime":1768829313344,
+	"name":"Thank You Tool",
+	"ownerUserId":3952,
+	"path":"Thank-You-Tool",
+	"resourceIds":[
+		"6941a811d76bdb2ce2993688"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
