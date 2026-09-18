@@ -1,0 +1,42 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68314f9ac9a363233bc9f3cc",
+	"createdTime":1748093322008,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"ascasc",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"saccascas/ascasc",
+	"id":"6831c98a34d85b4e60472b79",
+	"lastModifiedBy":39713,
+	"lcName":"ascas",
+	"modifiedTime":1748251674249,
+	"name":"ascas",
+	"ownerUserId":39713,
+	"path":"ascasc",
+	"policyIds":[
+		"6697d6c91687303fa908b82a",
+		"66b61acf46f52016f084921a"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"ascasc"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"PATCH"
+	],
+	"version":1
+}

@@ -1,0 +1,38 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68314f9ac9a363233bc9f3cc",
+	"createdTime":1748073373286,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"ascac",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"saccascas/dvsvs",
+	"id":"68317b9d43bf06596e3b89b3",
+	"lastModifiedBy":39713,
+	"lcName":"scacas",
+	"modifiedTime":1748251676823,
+	"name":"scacas",
+	"ownerUserId":39713,
+	"path":"dvsvs",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"dvsvd"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":1
+}
