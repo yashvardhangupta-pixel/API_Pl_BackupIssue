@@ -1,0 +1,47 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6aa5265c336b993b3daeb46d",
+	"createdTime":1789208161528,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"arzzpg/a2aa6rq",
+	"id":"6aa5266102e89e568c334b5e",
+	"lastModifiedBy":238035,
+	"lastPlatformUpdateBy":238035,
+	"lastPlatformUpdateOn":1789406904351,
+	"lcName":"endpoint_ratelimitcheck - 21789207317934",
+	"modifiedTime":1789406904351,
+	"name":"endpoint_rateLimitCheck - 21789207317934",
+	"ownerUserId":238035,
+	"path":"a2aa6rq",
+	"resourceIds":[
+		"6aa526494964d50aade24de6"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"tags":[
+		"dnt_tag"
+	],
+	"version":2
+}
