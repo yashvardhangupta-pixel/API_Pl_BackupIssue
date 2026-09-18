@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68adfa005c037718f7368844",
+	"createdTime":1756232227803,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"changeSetQA2CSOppLPkOWMjR/Rb4PLOC",
+	"id":"68adfa235c037718f7368849",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2_externalapi_put_7290295588",
+	"modifiedTime":1756232366279,
+	"name":"changeSetQA2_ExternalAPI_Put_7290295588",
+	"ownerUserId":175325,
+	"path":"Rb4PLOC",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"PUT",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://httpbin.org/anything"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":2
+}
