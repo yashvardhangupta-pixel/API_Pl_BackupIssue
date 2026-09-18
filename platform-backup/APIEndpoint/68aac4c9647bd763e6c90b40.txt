@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68aac4b9647bd763e6c90b33",
+	"createdTime":1756021961504,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"streaming/sse",
+	"id":"68aac4c9647bd763e6c90b40",
+	"lastModifiedBy":602,
+	"lcName":"sse",
+	"modifiedTime":1756021963392,
+	"name":"sse",
+	"ownerUserId":602,
+	"path":"sse",
+	"resourceIds":[
+		"68aa38d51ef073304b75dfa5"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PUT",
+		"PATCH"
+	],
+	"version":1
+}

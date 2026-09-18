@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68aa36ad3101df0a9e77de7f",
+	"createdTime":1755985668707,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"changeSetQA2CSOMGHaUUgBpq/PAZt8oP",
+	"id":"68aa37043101df0a9e77de88",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2_externalapi_graphql_0933268552",
+	"modifiedTime":1755985741280,
+	"name":"changeSetQA2_ExternalAPI_GraphQl_0933268552",
+	"ownerUserId":175325,
+	"path":"PAZt8oP",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"GraphQL",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://countries.trevorblades.com/"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
