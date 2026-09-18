@@ -1,0 +1,34 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"686cd90a1fcaac2baf2e7464",
+	"createdTime":1753079905362,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"het-group/testOath",
+	"id":"687de0611344f03d684854cc",
+	"lastModifiedBy":44105,
+	"lcName":"testoath",
+	"modifiedTime":1757754405512,
+	"name":"testOath",
+	"ownerUserId":43498,
+	"path":"testOath",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://www.wikipedia.org"
+	},
+	"standard":false,
+	"version":2
+}
