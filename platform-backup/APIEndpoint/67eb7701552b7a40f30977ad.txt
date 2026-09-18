@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d938e543bba36f8664aaff",
+	"createdTime":1743484673888,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"aman/RBAC_STORAGE_WRITE_RECORD",
+	"httpMethod":"POST",
+	"id":"67eb7701552b7a40f30977ad",
+	"lastModifiedBy":522,
+	"lcName":"rbac_storage_write_record",
+	"modifiedTime":1751544679560,
+	"name":"RBAC_STORAGE_WRITE_RECORD",
+	"ownerUserId":47174,
+	"path":"RBAC_STORAGE_WRITE_RECORD",
+	"resourceIds":[
+		"67eb769b5e31aa43fbff6581"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

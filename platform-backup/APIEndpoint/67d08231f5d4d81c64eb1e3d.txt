@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d08231f5d4d81c64eb1e39",
+	"createdTime":1741718065375,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"SQL-MCP-Server/prompts/get",
+	"httpMethod":"GET",
+	"id":"67d08231f5d4d81c64eb1e3d",
+	"lastModifiedBy":522,
+	"lcName":"get prompt",
+	"modifiedTime":1751544685094,
+	"name":"Get Prompt",
+	"ownerUserId":30181,
+	"path":"prompts/get",
+	"resourceIds":[
+		"67cffaeaf980863de37613ae"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

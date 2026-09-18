@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67d9038743bba36f8664a707",
+	"createdTime":1742275463329,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"PrakharServer/tools/call",
+	"httpMethod":"POST",
+	"id":"67d9038743bba36f8664a709",
+	"lastModifiedBy":522,
+	"lcName":"call tool",
+	"modifiedTime":1751544681214,
+	"name":"Call Tool",
+	"ownerUserId":33417,
+	"path":"tools/call",
+	"resourceIds":[
+		"67cffad3f980863de376135d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

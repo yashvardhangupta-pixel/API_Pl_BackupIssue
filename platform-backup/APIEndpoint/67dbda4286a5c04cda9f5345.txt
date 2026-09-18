@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dbda4186a5c04cda9f5340",
+	"createdTime":1742461506056,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dummy/resources/read",
+	"httpMethod":"GET",
+	"id":"67dbda4286a5c04cda9f5345",
+	"lastModifiedBy":522,
+	"lcName":"read resource",
+	"modifiedTime":1751544678302,
+	"name":"Read Resource",
+	"ownerUserId":1246,
+	"path":"resources/read",
+	"resourceIds":[
+		"11"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

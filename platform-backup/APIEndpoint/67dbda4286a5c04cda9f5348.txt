@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dbda4186a5c04cda9f5340",
+	"createdTime":1742461506385,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dummy/prompts/get",
+	"httpMethod":"GET",
+	"id":"67dbda4286a5c04cda9f5348",
+	"lastModifiedBy":522,
+	"lcName":"get prompt",
+	"modifiedTime":1751544678302,
+	"name":"Get Prompt",
+	"ownerUserId":1246,
+	"path":"prompts/get",
+	"resourceIds":[
+		"67cffaeaf980863de37613ae"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

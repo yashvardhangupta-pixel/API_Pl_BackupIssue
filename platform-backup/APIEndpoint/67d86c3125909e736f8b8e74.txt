@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67d86c3125909e736f8b8e70",
+	"createdTime":1742236721188,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Toggle-Test/resources/subscribe",
+	"httpMethod":"POST",
+	"id":"67d86c3125909e736f8b8e74",
+	"lastModifiedBy":522,
+	"lcName":"subscribe resource",
+	"modifiedTime":1751544681405,
+	"name":"Subscribe Resource",
+	"ownerUserId":30181,
+	"path":"resources/subscribe",
+	"resourceIds":[
+		"11"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

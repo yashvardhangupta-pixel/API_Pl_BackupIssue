@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67d9038743bba36f8664a707",
+	"createdTime":1742275463261,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"PrakharServer/tools/list",
+	"httpMethod":"POST",
+	"id":"67d9038743bba36f8664a708",
+	"lastModifiedBy":522,
+	"lcName":"list tools",
+	"modifiedTime":1751544681214,
+	"name":"List Tools",
+	"ownerUserId":33417,
+	"path":"tools/list",
+	"resourceIds":[
+		"67cff80d670bcd5e09b8c7fb"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

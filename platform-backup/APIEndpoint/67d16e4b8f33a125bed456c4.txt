@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d16e4a8f33a125bed456be",
+	"createdTime":1741778507032,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Lovekesh-anot-MCP/resources/list",
+	"httpMethod":"POST",
+	"id":"67d16e4b8f33a125bed456c4",
+	"lastModifiedBy":522,
+	"lcName":"list resources",
+	"modifiedTime":1751544684164,
+	"name":"List Resources",
+	"ownerUserId":311,
+	"path":"resources/list",
+	"resourceIds":[
+		"123"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

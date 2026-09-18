@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d16c4f8f33a125bed4569d",
+	"createdTime":1741777999857,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"lovekesh-test-mcp/resources/read",
+	"httpMethod":"GET",
+	"id":"67d16c4f8f33a125bed456a2",
+	"lastModifiedBy":522,
+	"lcName":"read resource",
+	"modifiedTime":1751544684543,
+	"name":"Read Resource",
+	"ownerUserId":311,
+	"path":"resources/read",
+	"resourceIds":[
+		"11"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

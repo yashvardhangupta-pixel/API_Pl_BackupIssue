@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67d9038743bba36f8664a707",
+	"createdTime":1742275463398,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"PrakharServer/resources/read",
+	"httpMethod":"GET",
+	"id":"67d9038743bba36f8664a70c",
+	"lastModifiedBy":522,
+	"lcName":"read resource",
+	"modifiedTime":1751544681214,
+	"name":"Read Resource",
+	"ownerUserId":33417,
+	"path":"resources/read",
+	"resourceIds":[
+		"11"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

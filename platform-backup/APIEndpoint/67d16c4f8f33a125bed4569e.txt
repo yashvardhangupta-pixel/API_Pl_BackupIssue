@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d16c4f8f33a125bed4569d",
+	"createdTime":1741777999541,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"lovekesh-test-mcp/tools/list",
+	"httpMethod":"GET",
+	"id":"67d16c4f8f33a125bed4569e",
+	"lastModifiedBy":522,
+	"lcName":"list tools",
+	"modifiedTime":1751544684543,
+	"name":"List Tools",
+	"ownerUserId":311,
+	"path":"tools/list",
+	"resourceIds":[
+		"67cff80d670bcd5e09b8c7fb"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

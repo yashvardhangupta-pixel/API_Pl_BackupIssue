@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dbda4186a5c04cda9f5340",
+	"createdTime":1742461506133,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dummy/resources/list",
+	"httpMethod":"POST",
+	"id":"67dbda4286a5c04cda9f5346",
+	"lastModifiedBy":522,
+	"lcName":"list resources",
+	"modifiedTime":1751544678302,
+	"name":"List Resources",
+	"ownerUserId":1246,
+	"path":"resources/list",
+	"resourceIds":[
+		"123"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

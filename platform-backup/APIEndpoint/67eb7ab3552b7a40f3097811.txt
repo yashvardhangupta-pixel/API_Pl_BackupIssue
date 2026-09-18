@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d938e543bba36f8664aaff",
+	"createdTime":1743485619558,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"aman/RBAC_STORAGE_DELETE_RECORD",
+	"httpMethod":"POST",
+	"id":"67eb7ab3552b7a40f3097811",
+	"lastModifiedBy":522,
+	"lcName":"rbac_storage_delete_record",
+	"modifiedTime":1751544679560,
+	"name":"RBAC_STORAGE_DELETE_RECORD",
+	"ownerUserId":47174,
+	"path":"RBAC_STORAGE_DELETE_RECORD",
+	"resourceIds":[
+		"67eb7a670b965e37c7b8d203"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

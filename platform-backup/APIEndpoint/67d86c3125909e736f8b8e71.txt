@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67d86c3125909e736f8b8e70",
+	"createdTime":1742236721135,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Toggle-Test/tools/list",
+	"httpMethod":"POST",
+	"id":"67d86c3125909e736f8b8e71",
+	"lastModifiedBy":522,
+	"lcName":"list tools",
+	"modifiedTime":1751544681405,
+	"name":"List Tools",
+	"ownerUserId":30181,
+	"path":"tools/list",
+	"resourceIds":[
+		"67cff80d670bcd5e09b8c7fb"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

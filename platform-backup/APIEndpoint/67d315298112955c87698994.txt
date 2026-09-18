@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d315298112955c87698992",
+	"createdTime":1741886761858,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"tools-test/tools/call",
+	"httpMethod":"POST",
+	"id":"67d315298112955c87698994",
+	"lastModifiedBy":522,
+	"lcName":"call tool",
+	"modifiedTime":1751544683032,
+	"name":"Call Tool",
+	"ownerUserId":11492,
+	"path":"tools/call",
+	"resourceIds":[
+		"67cffad3f980863de376135d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

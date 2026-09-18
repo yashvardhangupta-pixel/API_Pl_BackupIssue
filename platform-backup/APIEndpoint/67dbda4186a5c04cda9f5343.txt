@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dbda4186a5c04cda9f5340",
+	"createdTime":1742461505753,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dummy/resources/templates/list",
+	"httpMethod":"GET",
+	"id":"67dbda4186a5c04cda9f5343",
+	"lastModifiedBy":522,
+	"lcName":"list resource templates",
+	"modifiedTime":1751544678302,
+	"name":"List Resource Templates",
+	"ownerUserId":1246,
+	"path":"resources/templates/list",
+	"resourceIds":[
+		"1"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

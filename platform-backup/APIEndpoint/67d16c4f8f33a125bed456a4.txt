@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d16c4f8f33a125bed4569d",
+	"createdTime":1741777999950,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"lovekesh-test-mcp/prompts/list",
+	"httpMethod":"GET",
+	"id":"67d16c4f8f33a125bed456a4",
+	"lastModifiedBy":522,
+	"lcName":"list prompts",
+	"modifiedTime":1751544684543,
+	"name":"List Prompts",
+	"ownerUserId":311,
+	"path":"prompts/list",
+	"resourceIds":[
+		"67cff823670bcd5e09b8c8d1"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

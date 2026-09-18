@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dbda4186a5c04cda9f5340",
+	"createdTime":1742461505873,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dummy/resources/subscribe",
+	"httpMethod":"POST",
+	"id":"67dbda4186a5c04cda9f5344",
+	"lastModifiedBy":522,
+	"lcName":"subscribe resource",
+	"modifiedTime":1751544678302,
+	"name":"Subscribe Resource",
+	"ownerUserId":1246,
+	"path":"resources/subscribe",
+	"resourceIds":[
+		"11"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

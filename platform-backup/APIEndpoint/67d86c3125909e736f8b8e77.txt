@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67d86c3125909e736f8b8e70",
+	"createdTime":1742236721246,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Toggle-Test/prompts/list",
+	"httpMethod":"POST",
+	"id":"67d86c3125909e736f8b8e77",
+	"lastModifiedBy":522,
+	"lcName":"list prompts",
+	"modifiedTime":1751544681405,
+	"name":"List Prompts",
+	"ownerUserId":30181,
+	"path":"prompts/list",
+	"resourceIds":[
+		"67cff823670bcd5e09b8c8d1"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

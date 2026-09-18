@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d16c4f8f33a125bed4569d",
+	"createdTime":1741777999657,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"lovekesh-test-mcp/tools/call",
+	"httpMethod":"POST",
+	"id":"67d16c4f8f33a125bed4569f",
+	"lastModifiedBy":522,
+	"lcName":"call tool",
+	"modifiedTime":1751544684543,
+	"name":"Call Tool",
+	"ownerUserId":311,
+	"path":"tools/call",
+	"resourceIds":[
+		"67cffad3f980863de376135d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

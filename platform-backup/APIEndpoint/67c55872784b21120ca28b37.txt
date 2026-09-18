@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67c557bc784b21120ca28b36",
+	"createdTime":1740986482772,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Novigo----Unify/GET-Leave-requests",
+	"httpMethod":"GET",
+	"id":"67c55872784b21120ca28b37",
+	"lastModifiedBy":522,
+	"lcName":"get leave requests",
+	"modifiedTime":1751544687092,
+	"name":"GET Leave requests",
+	"ownerUserId":3952,
+	"path":"GET-Leave-requests",
+	"policyIds":[
+		"67c55d0f784b21120ca28c9a"
+	],
+	"resourceIds":[
+		"67c558101fbe213b54ccfcd2"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

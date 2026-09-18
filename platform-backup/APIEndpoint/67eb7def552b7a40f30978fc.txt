@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d938e543bba36f8664aaff",
+	"createdTime":1743486447817,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"aman/RBAC_STORAGE_FETCH_RECORD",
+	"httpMethod":"POST",
+	"id":"67eb7def552b7a40f30978fc",
+	"lastModifiedBy":522,
+	"lcName":"rbac_storage_fetch_record",
+	"modifiedTime":1751544679560,
+	"name":"RBAC_STORAGE_FETCH_RECORD",
+	"ownerUserId":47174,
+	"path":"RBAC_STORAGE_FETCH_RECORD",
+	"resourceIds":[
+		"67eb7ba3616c5d7511c9aa94"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
