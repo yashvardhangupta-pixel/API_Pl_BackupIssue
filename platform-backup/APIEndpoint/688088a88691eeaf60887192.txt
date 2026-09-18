@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"688088848691eeaf60886fee",
+	"createdTime":1753254056325,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ref-rt-grp/rt-api",
+	"id":"688088a88691eeaf60887192",
+	"lastModifiedBy":46209,
+	"lcName":"rt-api",
+	"modifiedTime":1753256612175,
+	"name":"rt-api",
+	"ownerUserId":46209,
+	"path":"rt-api",
+	"policyIds":[
+		"68808a0e55bb303a9d31944e"
+	],
+	"resourceIds":[
+		"68808851550bfa7a9c2db252"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":4
+}
