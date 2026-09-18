@@ -1,0 +1,43 @@
+{
+	"createdTime":1729345063320,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"V"
+				],
+				"principalIds":[
+					"11641"
+				],
+				"principalType":"USER"
+			},
+			{
+				"permissions":[
+					"V"
+				],
+				"principalIds":[
+					"11495"
+				],
+				"principalType":"USER"
+			}
+		]
+	},
+	"id":"6713b627890402155d8d3967",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"test-cookie",
+	"modifiedTime":1751544729027,
+	"name":"test-cookie",
+	"ownerUserId":6,
+	"path":"cookie",
+	"policyIds":[
+		
+	],
+	"standard":false,
+	"version":5
+}
