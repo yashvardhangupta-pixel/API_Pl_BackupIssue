@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6886000d89f9df96ce7fae65",
+	"createdTime":1757005360989,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"open-telemetry/opik/save-traces",
+	"id":"68b9c630f4cacd351fbcd347",
+	"lastModifiedBy":49915,
+	"lcName":"opik save trace",
+	"modifiedTime":1757005434359,
+	"name":"opik save trace",
+	"ownerUserId":49915,
+	"path":"opik/save-traces",
+	"resourceIds":[
+		"68b9c37d8ed2a43dc85146af"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}
