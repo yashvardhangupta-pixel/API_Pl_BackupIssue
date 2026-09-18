@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67b8259e95f5ba09fa05fc28",
+	"createdTime":1740122097567,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"store1/GetAllStoreDetails",
+	"httpMethod":"POST",
+	"id":"67b827f1569bfc12f77e3aae",
+	"lastModifiedBy":522,
+	"lcName":"test api",
+	"modifiedTime":1751544688055,
+	"name":"Test API",
+	"ownerUserId":33420,
+	"path":"GetAllStoreDetails",
+	"resourceIds":[
+		"67b81afd5a4d960e563a8073"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66fbada7fb058e246bb35153",
+	"createdTime":1739610607269,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"avia-tck-services/sucheProduktUeberAngebot",
+	"httpMethod":"POST",
+	"id":"66fbae43fb058e246bb35154",
+	"lastModifiedBy":522,
+	"lcName":"sucheproduktueberangebot",
+	"modifiedTime":1751544692335,
+	"name":"sucheProduktUeberAngebot",
+	"ownerUserId":4130,
+	"path":"sucheProduktUeberAngebot",
+	"resourceIds":[
+		"666bdd883ff55643dda6e3c0"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":25
+}

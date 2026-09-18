@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67b1894374f0e475e1827fb5",
+	"createdTime":1739697934612,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"check1",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"newtest/check-",
+	"httpMethod":"GET",
+	"id":"67b1af0eb8927a382baeb178",
+	"lastModifiedBy":522,
+	"lcName":"check ",
+	"modifiedTime":1751544690820,
+	"name":"check ",
+	"ownerUserId":13,
+	"path":"check-",
+	"resourceIds":[
+		null
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

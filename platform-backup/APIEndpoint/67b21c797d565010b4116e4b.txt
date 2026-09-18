@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67b1894374f0e475e1827fb5",
+	"createdTime":1739725945868,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"newtest/w12",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Success",
+		"response":{
+			"op":1
+		},
+		"soapResponse":"",
+		"statusCode":200
+	},
+	"httpMethod":"GET",
+	"id":"67b21c797d565010b4116e4b",
+	"lastModifiedBy":522,
+	"lcName":"w12",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1751544690820,
+	"name":"w12",
+	"ownerUserId":13,
+	"path":"w12",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

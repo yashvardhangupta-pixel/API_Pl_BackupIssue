@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67b2d2e6afb2ef1a9c38f412",
+	"createdTime":1739772701945,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UC-2/EC261",
+	"httpMethod":"POST",
+	"id":"67b2d31dafb2ef1a9c38f415",
+	"lastModifiedBy":522,
+	"lcName":"load reservation",
+	"modifiedTime":1751544690449,
+	"name":"Load Reservation",
+	"ownerUserId":3952,
+	"path":"EC261",
+	"resourceIds":[
+		"67b2d2887f5a7a6d70ec5a69"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}
