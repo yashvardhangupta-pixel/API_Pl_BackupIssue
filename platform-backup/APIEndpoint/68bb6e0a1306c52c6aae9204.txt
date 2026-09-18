@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68bb6dbe1306c52c6aae91fe",
+	"createdTime":1757113866912,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"changeSetQA2CSOwHHiLvNcHO/{{ systemInputs.__ENV__.alert_channel }}?resourceId={{RESOURCE_ID}}",
+	"id":"68bb6e0a1306c52c6aae9204",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2tpgegbeqqnykwnhksfbd",
+	"modifiedTime":1757138474196,
+	"name":"changeSetQA2tpGegbeQQnYkwNHKsfbd",
+	"ownerUserId":175325,
+	"path":"{{ systemInputs.__ENV__.alert_channel }}",
+	"resourceIds":[
+		"6888c3f39432e5cdafbb36ae"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}
