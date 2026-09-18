@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"694f00c7016162642b583c15",
+	"createdTime":1766785259736,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIzjhlyBmDNU/PyctI/{name}",
+	"id":"694f00eb016162642b583c18",
+	"lastModifiedBy":-1,
+	"lcName":"changesetqa2csiqninyuzj",
+	"modifiedTime":1766788991782,
+	"name":"changeSetQA2CSIQNiNYuZj",
+	"ownerUserId":175325,
+	"path":"PyctI/{name}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884698397cc242e330451e6"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
