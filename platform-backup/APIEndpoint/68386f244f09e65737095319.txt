@@ -1,0 +1,42 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68386eed4f09e65737095316",
+	"createdTime":1748528932479,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"GraphQL API for Sales Force integration",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"salesforce-api/graphql",
+	"httpMethod":"POST",
+	"id":"68386f244f09e65737095319",
+	"lastModifiedBy":45768,
+	"lcName":"sales force api",
+	"modifiedTime":1748529065194,
+	"name":"Sales Force API",
+	"ownerUserId":45768,
+	"path":"graphql",
+	"policyIds":[
+		"68386efd4f09e65737095317",
+		"68386f174f09e65737095318"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"GraphQL",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"internal-alb-salesforce-qas-1586422701.us-east-1.elb.amazonaws.com/graphql"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

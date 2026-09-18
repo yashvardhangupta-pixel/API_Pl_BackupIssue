@@ -1,0 +1,38 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68385f144f09e65737094fef",
+	"createdTime":1748524852082,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"GraphQL API for Sales Force with custom authorization and CORS plugin",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"sales_force/sales_force",
+	"httpMethod":"GET,POST,PUT,PATCH,DELETE,OPTIONS",
+	"id":"68385f344f09e65737094ff0",
+	"lastModifiedBy":45768,
+	"lcName":"sales force api",
+	"modifiedTime":1748525073203,
+	"name":"Sales Force API",
+	"ownerUserId":45768,
+	"path":"sales_force",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"GraphQL",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"http://internal-alb-salesforce-qas-1586422701.us-east-1.elb.amazonaws.com/graphql"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET,POST,PUT,PATCH,DELETE,OPTIONS"
+	],
+	"version":1
+}

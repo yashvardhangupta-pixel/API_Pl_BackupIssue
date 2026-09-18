@@ -1,0 +1,41 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68389135246dd56949e3a5f8",
+	"createdTime":1748537695591,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"GraphQL API for Sales Force with custom auth access policy and CORS plugin",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"salesforce-graphql-api/salesforce",
+	"httpMethod":"POST",
+	"id":"6838915f246dd56949e3a62e",
+	"lastModifiedBy":31268,
+	"lcName":"sales force api",
+	"modifiedTime":1748603856476,
+	"name":"Sales Force API",
+	"ownerUserId":46218,
+	"path":"salesforce",
+	"policyIds":[
+		"68389149246dd56949e3a611"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"GraphQL",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://api.salesforce.com/graphql"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

@@ -1,0 +1,38 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68384e452c164c129f442cf9",
+	"createdTime":1748520527557,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"GraphQL endpoint for querying ConsultantsSales data from Salesforce.",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"salesforce/consultants-sales",
+	"httpMethod":"POST",
+	"id":"68384e4f2c164c129f442cfc",
+	"lastModifiedBy":45768,
+	"lcName":"consultantssales",
+	"modifiedTime":1748524319942,
+	"name":"ConsultantsSales",
+	"ownerUserId":31268,
+	"path":"consultants-sales",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"GraphQL",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://api.salesforce.com/services/data/v53.0/graphql"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
