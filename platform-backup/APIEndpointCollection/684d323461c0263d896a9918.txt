@@ -1,0 +1,34 @@
+{
+	"createdTime":1749889588156,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"id":"684d323461c0263d896a9918",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"resultschema",
+	"modifiedTime":1751544608464,
+	"name":"resultSchema",
+	"ownerUserId":20249,
+	"path":"resultSchema",
+	"standard":false,
+	"telemetryConfig":{
+		"enableTelemetry":true,
+		"metricConfigs":[
+			{
+				"eventType":"ALWAYS",
+				"metricType":"API_EXECUTION",
+				"name":"QA Metrics Counter",
+				"tags":[
+					{
+						"key":"Test",
+						"value":"saleem"
+					}
+				]
+			}
+		]
+	},
+	"version":4
+}
