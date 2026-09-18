@@ -1,0 +1,37 @@
+{
+	"createdTime":1712472454933,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"66124186978fa82e29bf82b0",
+	"includeVersionInPath":false,
+	"lastModifiedBy":520,
+	"lcName":"delete",
+	"modifiedTime":1727682245147,
+	"name":"delete",
+	"ownerUserId":206,
+	"path":"delete",
+	"standard":false,
+	"version":114
+}
