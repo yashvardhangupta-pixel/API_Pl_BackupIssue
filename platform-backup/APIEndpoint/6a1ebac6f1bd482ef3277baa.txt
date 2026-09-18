@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6a1ebaba3f12684233411011",
+	"createdTime":1780398790367,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetLocalCSIlATbwCuuxP/UpdateCzxxoIMznb",
+	"id":"6a1ebac6f1bd482ef3277baa",
+	"lastModifiedBy":-1,
+	"lcName":"updateigqllroadg",
+	"modifiedTime":1780419166685,
+	"name":"UpdateIgQLLROAdG",
+	"ownerUserId":175325,
+	"path":"UpdateCzxxoIMznb",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
