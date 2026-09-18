@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66eab2151aa0be1d7dbd6ab6",
+	"createdTime":1726745170386,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"soap-test/test/check",
+	"httpMethod":"POST",
+	"id":"66ec0a5259ac1a1140c052e5",
+	"lastModifiedBy":520,
+	"lcName":"dasvf",
+	"modifiedTime":1726745243145,
+	"name":"dasvf",
+	"ownerUserId":520,
+	"path":"test/check",
+	"resourceIds":[
+		"e_66b2818245f17a17c0e7c283"
+	],
+	"resourceType":"LLM_MODEL",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

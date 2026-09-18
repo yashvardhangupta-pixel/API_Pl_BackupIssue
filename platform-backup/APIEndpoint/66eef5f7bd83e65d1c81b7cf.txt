@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66eef52cbd83e65d1c81b7ce",
+	"createdTime":1726936567057,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"computational-assignment/compute-integer",
+	"httpMethod":"POST",
+	"id":"66eef5f7bd83e65d1c81b7cf",
+	"lastModifiedBy":520,
+	"lcName":"compute integer",
+	"modifiedTime":1726936572110,
+	"name":"compute integer",
+	"ownerUserId":520,
+	"path":"compute-integer",
+	"resourceIds":[
+		"66a0ddbf0d68db0b4c80fbd1"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

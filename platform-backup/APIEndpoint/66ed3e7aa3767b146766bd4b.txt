@@ -1,0 +1,38 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66ed17dbdb9bd578810133f1",
+	"createdTime":1726824058817,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"external api",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"scadsdad/adasda/externalapi/1",
+	"httpMethod":"POST",
+	"id":"66ed3e7aa3767b146766bd4b",
+	"lastModifiedBy":520,
+	"lcName":"external api",
+	"modifiedTime":1726824058817,
+	"name":"external api",
+	"ownerUserId":520,
+	"path":"externalapi/1",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"external api"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}

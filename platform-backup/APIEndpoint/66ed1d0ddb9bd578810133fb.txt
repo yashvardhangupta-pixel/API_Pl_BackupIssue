@@ -1,0 +1,41 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66ed154fdb9bd578810133e3",
+	"createdTime":1726815501538,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"external",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"newpathtest/sample-external-api",
+	"httpMethod":"POST",
+	"id":"66ed1d0ddb9bd578810133fb",
+	"lastModifiedBy":520,
+	"lcName":"sample external api",
+	"modifiedTime":1726815501538,
+	"name":"sample external api",
+	"ownerUserId":520,
+	"path":"sample-external-api",
+	"policyIds":[
+		"664ced5a61d91150c2217b26"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://qa.remote.unifyapps.com/api-endpoint/remote/postMessage"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}

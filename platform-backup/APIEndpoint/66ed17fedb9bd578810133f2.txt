@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66ed154fdb9bd578810133e3",
+	"createdTime":1726814206168,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"sample_callable",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"newpathtest/slack",
+	"httpMethod":"POST",
+	"id":"66ed17fedb9bd578810133f2",
+	"lastModifiedBy":520,
+	"lcName":"sample_callable",
+	"modifiedTime":1726814221295,
+	"name":"sample_callable",
+	"ownerUserId":520,
+	"path":"slack",
+	"policyIds":[
+		"664ced5a61d91150c2217b26"
+	],
+	"resourceIds":[
+		"66d37f960d24e37c6441714f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

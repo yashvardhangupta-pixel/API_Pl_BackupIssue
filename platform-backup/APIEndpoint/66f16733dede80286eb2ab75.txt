@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66f16665dede80286eb2ab72",
+	"createdTime":1727096627455,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"testpoint/path/get?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"66f16733dede80286eb2ab75",
+	"lastModifiedBy":520,
+	"lcName":"api3",
+	"modifiedTime":1727257130908,
+	"name":"API3",
+	"ownerUserId":520,
+	"path":"path/get",
+	"resourceIds":[
+		"66d37ed50d24e37c64417130"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

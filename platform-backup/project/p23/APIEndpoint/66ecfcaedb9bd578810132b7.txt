@@ -1,0 +1,36 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66ecfc7ddb9bd578810132b4",
+	"createdTime":1726807214316,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"user endpoint",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"new/design/group/user/endpoint",
+	"httpMethod":"GET",
+	"id":"66ecfcaedb9bd578810132b7",
+	"lastModifiedBy":520,
+	"lcName":"user endpoint",
+	"modifiedTime":1726807214316,
+	"name":"user endpoint",
+	"ownerUserId":520,
+	"path":"user/endpoint",
+	"policyIds":[
+		"66b9e580c55ca12fa9686485"
+	],
+	"projectId":23,
+	"resourceIds":[
+		"66e172e878dcf6780b1e1f32"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}

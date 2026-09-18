@@ -1,0 +1,35 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66ed049ddb9bd578810133d5",
+	"createdTime":1726825232236,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"llm/test/ai-req",
+	"httpMethod":"POST",
+	"id":"66ed4310a3767b146766bd4d",
+	"lastModifiedBy":520,
+	"lcName":"test-ai-req",
+	"llmRequestType":"CHAT",
+	"modifiedTime":1726825322084,
+	"name":"test-ai-req",
+	"ownerUserId":520,
+	"path":"test/ai-req",
+	"policyIds":[
+		"66ed428ba3767b146766bd4c"
+	],
+	"resourceIds":[
+		"66ec115a986c0378854e25cd"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

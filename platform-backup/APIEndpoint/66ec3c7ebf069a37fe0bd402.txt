@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":3000,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"66ec3c61bf069a37fe0bd401",
+	"createdTime":1726758014217,
+	"customizeTimeout":true,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"karam/belcorpGraph",
+	"httpMethod":"POST",
+	"id":"66ec3c7ebf069a37fe0bd402",
+	"lastModifiedBy":295,
+	"lcName":"belcorpgraph",
+	"modifiedTime":1726758016169,
+	"name":"belcorpGraph",
+	"ownerUserId":295,
+	"path":"belcorpGraph",
+	"resourceIds":[
+		"66ec2b87d30bbf1560f16f7a"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":3000,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"66ec30d4446a1a6506b7b29d",
+	"createdTime":1726755074514,
+	"customizeTimeout":true,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"graphRAAG/belcorp/add",
+	"httpMethod":"POST",
+	"id":"66ec3102446a1a6506b7b29e",
+	"lastModifiedBy":295,
+	"lcName":"belcorp",
+	"modifiedTime":1726755077067,
+	"name":"belcorp",
+	"ownerUserId":295,
+	"path":"belcorp/add",
+	"resourceIds":[
+		"66ec2b87d30bbf1560f16f7a"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

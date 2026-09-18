@@ -1,0 +1,32 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66ec4162bf069a37fe0bd406",
+	"createdTime":1726762637796,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"llm_endpoint",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"proxy-v22/llm_endpoint/vl2",
+	"httpMethod":"GET",
+	"id":"66ec4e8dbf069a37fe0bd411",
+	"lastModifiedBy":520,
+	"lcName":"llm_endpoint",
+	"modifiedTime":1726762637796,
+	"name":"llm_endpoint",
+	"ownerUserId":520,
+	"path":"llm_endpoint/vl2",
+	"resourceIds":[
+		"e_66b2822745f17a17c0e7c28d"
+	],
+	"resourceType":"LLM_MODEL",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}

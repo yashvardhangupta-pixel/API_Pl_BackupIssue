@@ -1,0 +1,35 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66ed049ddb9bd578810133d5",
+	"createdTime":1726827854858,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"llm/test/ai-req2",
+	"httpMethod":"POST",
+	"id":"66ed4d4ea3767b146766bd58",
+	"lastModifiedBy":520,
+	"lcName":"test-ai-req2",
+	"llmRequestType":"CHAT",
+	"modifiedTime":1726827854858,
+	"name":"test-ai-req2",
+	"ownerUserId":520,
+	"path":"test/ai-req2",
+	"policyIds":[
+		"66ed428ba3767b146766bd4c"
+	],
+	"resourceIds":[
+		"e_66b2822745f17a17c0e7c28d"
+	],
+	"resourceType":"LLM_MODEL",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}

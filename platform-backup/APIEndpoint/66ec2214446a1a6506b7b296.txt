@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66eaec368ecc9741f7d42b12",
+	"createdTime":1726751252071,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"nsdl-oracle/test/llm",
+	"httpMethod":"POST",
+	"id":"66ec2214446a1a6506b7b296",
+	"lastModifiedBy":520,
+	"lcName":"llmtest",
+	"modifiedTime":1726927012804,
+	"name":"llmtest",
+	"ownerUserId":520,
+	"path":"test/llm",
+	"resourceIds":[
+		"e_66b07801aaadbf3b5de6307b"
+	],
+	"resourceType":"LLM_MODEL",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

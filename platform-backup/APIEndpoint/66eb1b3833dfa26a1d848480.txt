@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66eb195733dfa26a1d848479",
+	"createdTime":1726683960435,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"new-test-check/check/one",
+	"httpMethod":"POST",
+	"id":"66eb1b3833dfa26a1d848480",
+	"lastModifiedBy":520,
+	"lcName":"newtestcheckprofile",
+	"modifiedTime":1726683963306,
+	"name":"newtestcheckprofile",
+	"ownerUserId":520,
+	"path":"check/one",
+	"resourceIds":[
+		"660042a7fa09d15b376d502d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

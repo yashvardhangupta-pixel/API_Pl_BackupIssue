@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66f1284549718a7fc27e77e7",
+	"createdTime":1727080552700,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"header/get",
+	"httpMethod":"GET",
+	"id":"66f1286849718a7fc27e77e9",
+	"lastModifiedBy":4446,
+	"lcName":"responseheaderapi",
+	"modifiedTime":1727080677490,
+	"name":"responseHeaderAPI",
+	"ownerUserId":4446,
+	"path":"get",
+	"resourceIds":[
+		"66f1261465e3737e86ff57d5"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}
