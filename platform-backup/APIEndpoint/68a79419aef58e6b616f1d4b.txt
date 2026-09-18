@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a793dfaef58e6b616f1d3d",
+	"createdTime":1755813029886,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateQAOUWbTzLo/ObDkT/{name}",
+	"id":"68a79419aef58e6b616f1d4b",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2csoqbvmcsto",
+	"modifiedTime":1755813195643,
+	"name":"changeSetQA2CSOqBvMcsTo",
+	"ownerUserId":175325,
+	"path":"ObDkT/{name}",
+	"policyIds":[
+		"68a793caaef58e6b616f1d33"
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}

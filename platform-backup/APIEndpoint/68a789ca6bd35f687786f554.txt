@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a788f56bd35f687786f551",
+	"createdTime":1755810250004,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"DJFileTesting/fileUpload",
+	"id":"68a789ca6bd35f687786f554",
+	"lastModifiedBy":45775,
+	"lcName":"fileupload",
+	"modifiedTime":1755810254557,
+	"name":"fileUpload",
+	"ownerUserId":45775,
+	"path":"fileUpload",
+	"resourceIds":[
+		"68a70d1ba291422abfcc945b"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

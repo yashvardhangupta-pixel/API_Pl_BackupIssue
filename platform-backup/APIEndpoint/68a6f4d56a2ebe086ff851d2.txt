@@ -1,0 +1,41 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68a6f4b46a2ebe086ff851d1",
+	"createdTime":1755772117235,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-audit-log-pattern/1",
+	"id":"68a6f4d56a2ebe086ff851d2",
+	"lastModifiedBy":39713,
+	"lcName":"test",
+	"modifiedTime":1755772404566,
+	"name":"test",
+	"ownerUserId":39713,
+	"path":"1",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"1"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PUT",
+		"PATCH"
+	],
+	"version":3
+}

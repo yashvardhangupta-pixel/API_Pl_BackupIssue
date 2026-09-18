@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66d70f0684ea5326788be5f8",
+	"createdTime":1749218900822,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"vihar/echo/*/v2",
+	"id":"6842f654639f382464f38592",
+	"lastModifiedBy":4446,
+	"lcName":"echo api (* in-between)",
+	"modifiedTime":1755790788800,
+	"name":"Echo API (* in-between)",
+	"ownerUserId":4446,
+	"path":"echo/*/v2",
+	"resourceIds":[
+		"683abf0d96880141bf68b745"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"PUT",
+		"PATCH"
+	],
+	"version":5
+}
