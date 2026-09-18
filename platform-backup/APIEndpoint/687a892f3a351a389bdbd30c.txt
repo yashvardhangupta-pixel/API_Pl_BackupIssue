@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687a891eb7d00d389f4ccfaf",
+	"createdTime":1752860975851,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"apiwebhook/webhookendpoint?resourceId={{RESOURCE_ID}}",
+	"id":"687a892f3a351a389bdbd30c",
+	"lastModifiedBy":162004,
+	"lcName":"webhookendpoint",
+	"modifiedTime":1752861036571,
+	"name":"webhookendpoint",
+	"ownerUserId":162004,
+	"path":"webhookendpoint",
+	"resourceIds":[
+		"687a5f43b5d8f50816bfd553"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

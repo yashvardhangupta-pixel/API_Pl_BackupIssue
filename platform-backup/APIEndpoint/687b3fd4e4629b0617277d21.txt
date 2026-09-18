@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687b3fb4e4629b0617277d20",
+	"createdTime":1752907732873,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"API-group-check/webhook-check?resourceId={{RESOURCE_ID}}",
+	"id":"687b3fd4e4629b0617277d21",
+	"lastModifiedBy":162004,
+	"lcName":"webhook check",
+	"modifiedTime":1752907737984,
+	"name":"webhook check",
+	"ownerUserId":162004,
+	"path":"webhook-check",
+	"resourceIds":[
+		"687b1d54fb19aaba292d94d2"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
