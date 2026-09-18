@@ -1,0 +1,39 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69e33a05f6157741c94f6dac",
+	"createdTime":1776499216822,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"activityzmBdCBmZcd/naFyPs",
+	"id":"69e33a10336420583b859cfb",
+	"lastModifiedBy":175325,
+	"lcName":"rbacqadelete client endpoint1340730987",
+	"modifiedTime":1776759205626,
+	"name":"rbacQAdelete client endpoint1340730987",
+	"ownerUserId":175325,
+	"path":"naFyPs",
+	"resourceIds":[
+		"69e339d1b155987cbcecf778"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
