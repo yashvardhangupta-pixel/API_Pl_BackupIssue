@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1715404283031,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/663efde23ca8252042b957db",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"663efdfb8a298140f9915494",
+	"lastModifiedBy":0,
+	"lcName":"version testing automation web-hook",
+	"modifiedTime":1719470280871,
+	"name":"version testing Automation Web-hook",
+	"ownerUserId":206,
+	"path":"663efde23ca8252042b957db",
+	"resourceIds":[
+		"663efde23ca8252042b957db"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":61
+}

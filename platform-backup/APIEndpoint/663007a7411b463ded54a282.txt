@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1714423719959,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/662fe81241dd05490f1e4cda",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"663007a7411b463ded54a282",
+	"lastModifiedBy":0,
+	"lcName":"dt_kafka automation web-hook",
+	"modifiedTime":1719470344943,
+	"name":"DT_Kafka Automation Web-hook",
+	"ownerUserId":5,
+	"path":"662fe81241dd05490f1e4cda",
+	"resourceIds":[
+		"662fe81241dd05490f1e4cda"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":61
+}

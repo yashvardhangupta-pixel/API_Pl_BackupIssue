@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1714432629425,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/662fe7fc41dd05490f1e4cd3",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"66302a75411b463ded54a28a",
+	"lastModifiedBy":0,
+	"lcName":"dt_mongo automation web-hook",
+	"modifiedTime":1719470292785,
+	"name":"DT_Mongo Automation Web-hook",
+	"ownerUserId":5,
+	"path":"662fe7fc41dd05490f1e4cd3",
+	"resourceIds":[
+		"662fe7fc41dd05490f1e4cd3"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":61
+}

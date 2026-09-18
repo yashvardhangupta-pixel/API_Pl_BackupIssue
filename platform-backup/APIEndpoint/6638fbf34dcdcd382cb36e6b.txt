@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1715010547810,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6638fb3ddd4bc11046ec2688",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"6638fbf34dcdcd382cb36e6b",
+	"lastModifiedBy":0,
+	"lcName":"sprinklr_case automation web-hook",
+	"modifiedTime":1719470217205,
+	"name":"sprinklr_case Automation Web-hook",
+	"ownerUserId":34,
+	"path":"6638fb3ddd4bc11046ec2688",
+	"resourceIds":[
+		"6638fb3ddd4bc11046ec2688"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":61
+}

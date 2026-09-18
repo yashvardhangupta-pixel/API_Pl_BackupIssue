@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"65f91432b4ad330ba14e2bd7",
+	"createdTime":1710913733106,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test4/new-endpoint",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"65fa78c5e1f11b434e186f07",
+	"lastModifiedBy":0,
+	"lcName":"new endpoint",
+	"modifiedTime":1719470152258,
+	"name":"New Endpoint",
+	"ownerUserId":19,
+	"path":"new-endpoint",
+	"resourceIds":[
+		"65f4557e81a76e20f56e0335"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":62
+}

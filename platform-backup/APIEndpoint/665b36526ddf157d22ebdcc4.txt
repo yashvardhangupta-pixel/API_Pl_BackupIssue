@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1717253714536,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/665b35d78858ba6f25926478",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"665b36526ddf157d22ebdcc4",
+	"lastModifiedBy":0,
+	"lcName":"lovekesh call ended automation web-hook",
+	"modifiedTime":1719470326989,
+	"name":"Lovekesh Call Ended Automation Web-hook",
+	"ownerUserId":311,
+	"path":"665b35d78858ba6f25926478",
+	"resourceIds":[
+		"665b35d78858ba6f25926478"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":61
+}

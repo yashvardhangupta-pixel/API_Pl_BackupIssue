@@ -1,0 +1,48 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1714482578531,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6630eacbd1aebe22be55f331",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"6630ed92411b463ded54aacc",
+	"lastModifiedBy":0,
+	"lcName":"vaibhav automation web-hook",
+	"modifiedTime":1719470302057,
+	"name":"vaibhav Automation Web-hook",
+	"ownerUserId":206,
+	"path":"6630eacbd1aebe22be55f331",
+	"resourceIds":[
+		"6630eacbd1aebe22be55f331"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":62
+}

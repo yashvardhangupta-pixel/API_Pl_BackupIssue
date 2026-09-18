@@ -1,0 +1,48 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66124186978fa82e29bf82b0",
+	"createdTime":1712925602386,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"delete/delete-endpoint",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"66192ba2bb8d854c3994abd1",
+	"lastModifiedBy":0,
+	"lcName":"delete endpoint",
+	"modifiedTime":1719470075972,
+	"name":"delete endpoint",
+	"ownerUserId":187,
+	"path":"delete-endpoint",
+	"resourceIds":[
+		"6616f004c17f74393d904e93"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":61
+}

@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1717828294571,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6663fa975f3df52790c62fac",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"6663fac6592b941439a38f46",
+	"lastModifiedBy":0,
+	"lcName":"aseem | hdfc voicebot test trigger automation automation web-hook",
+	"modifiedTime":1719470162833,
+	"name":"Aseem | HDFC Voicebot Test Trigger Automation Automation Web-hook",
+	"ownerUserId":403,
+	"path":"6663fa975f3df52790c62fac",
+	"resourceIds":[
+		"6663fa975f3df52790c62fac"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":61
+}

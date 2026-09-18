@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"65f59203bceea34b9b534dee",
+	"createdTime":1710595598892,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"16-mar-collection1/16-mar-collection",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"65f59e0ebceea34b9b534df4",
+	"lastModifiedBy":0,
+	"lcName":"16 mar collection",
+	"modifiedTime":1719470308964,
+	"name":"16 Mar collection",
+	"ownerUserId":32,
+	"path":"16-mar-collection",
+	"resourceIds":[
+		"65f584036cce354d4eaa3c3d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":67
+}

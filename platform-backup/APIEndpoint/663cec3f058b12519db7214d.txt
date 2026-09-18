@@ -1,0 +1,48 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1715268671597,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/663cebea1f8fd37f7770353b",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"663cec3f058b12519db7214d",
+	"lastModifiedBy":0,
+	"lcName":"test samanvith automation web-hook",
+	"modifiedTime":1719470336824,
+	"name":"Test Samanvith Automation Web-hook",
+	"ownerUserId":35,
+	"path":"663cebea1f8fd37f7770353b",
+	"resourceIds":[
+		"663cebea1f8fd37f7770353b"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":62
+}

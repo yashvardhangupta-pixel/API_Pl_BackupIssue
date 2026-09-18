@@ -1,0 +1,57 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"65f91432b4ad330ba14e2bd7",
+	"createdTime":1711523354120,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test4/callable22",
+	"fallbackResponse":{
+		"headers":{
+			"ipl":"csk"
+		},
+		"message":"Success",
+		"response":{},
+		"statusCode":200
+	},
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"6603c61a60148951cd851885",
+	"lastModifiedBy":0,
+	"lcName":"ani callable test",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1719470331475,
+	"name":"ani callable test",
+	"ownerUserId":7,
+	"path":"callable22",
+	"resourceIds":[
+		"6603c378f043f13581170621"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":71
+}

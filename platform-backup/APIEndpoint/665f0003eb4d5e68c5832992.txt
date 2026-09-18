@@ -1,0 +1,48 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1717501955312,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/665effa7005e455d57c54d44",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"665f0003eb4d5e68c5832992",
+	"lastModifiedBy":0,
+	"lcName":"test-karan automation web-hook",
+	"modifiedTime":1719470177006,
+	"name":"test-karan Automation Web-hook",
+	"ownerUserId":300,
+	"path":"665effa7005e455d57c54d44",
+	"resourceIds":[
+		"665effa7005e455d57c54d44"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":62
+}

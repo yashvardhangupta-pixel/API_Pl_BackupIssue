@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"668c0874d474750af2ddabfa",
+	"createdTime":1720453274829,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"asdf/user/1?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"668c089ad474750af2ddabfb",
+	"lastModifiedBy":35,
+	"lcName":"first-endpoint",
+	"modifiedTime":1720453274829,
+	"name":"first-endpoint",
+	"ownerUserId":35,
+	"path":"user/1",
+	"projectId":34,
+	"resourceIds":[
+		"668c02f912d2054043ed5c2a"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}

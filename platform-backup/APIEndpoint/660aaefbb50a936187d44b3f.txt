@@ -1,0 +1,52 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66067e1608635560a6b0e853",
+	"createdTime":1711976187848,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"asdfgf/test-endpoint?resourceId={{RESOURCE_ID}}",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"660aaefbb50a936187d44b3f",
+	"lastModifiedBy":0,
+	"lcName":"test endpoint",
+	"modifiedTime":1719470337637,
+	"name":"Test endpoint",
+	"ownerUserId":174,
+	"path":"test-endpoint",
+	"resourceIds":[
+		"66042003f043f135811706a0",
+		"660a4609b52c5067c48f9f59",
+		"660114a6fd4b3e087f3d81af",
+		"6608d657dfce7b1fb77bba4a",
+		"660e5f78cbfae84261b14bab"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":63
+}

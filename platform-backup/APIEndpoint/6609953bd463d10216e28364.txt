@@ -1,0 +1,54 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":33,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"6603e40760148951cd85188a",
+	"createdTime":1711904059179,
+	"customizeTimeout":true,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ap1-collection-test/test-new-endpoint?resourceId={{RESOURCE_ID}}",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"6609953bd463d10216e28364",
+	"lastModifiedBy":0,
+	"lcName":"test new endpoint",
+	"modifiedTime":1719470274040,
+	"name":"test new endpoint",
+	"ownerUserId":106,
+	"path":"test-new-endpoint",
+	"resourceIds":[
+		"6608d657dfce7b1fb77bba4a",
+		"66014f571e73ad532072d4c6",
+		"6601529e816a1a6e2ccc51cc"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":74
+}

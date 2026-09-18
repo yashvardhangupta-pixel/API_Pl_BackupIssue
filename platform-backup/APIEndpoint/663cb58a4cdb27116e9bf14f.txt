@@ -1,0 +1,48 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1715254666616,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/663cb55cefdc5418a1d944ed",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"663cb58a4cdb27116e9bf14f",
+	"lastModifiedBy":0,
+	"lcName":"test-fb-111 automation web-hook",
+	"modifiedTime":1719470286155,
+	"name":"test-fb-111 Automation Web-hook",
+	"ownerUserId":8,
+	"path":"663cb55cefdc5418a1d944ed",
+	"resourceIds":[
+		"663cb55cefdc5418a1d944ed"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":64
+}

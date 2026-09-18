@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1714405126073,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/662fbeca3405ad4b562aa6d6",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"662fbf06411b463ded54a25a",
+	"lastModifiedBy":0,
+	"lcName":"slack_testing_custom automation web-hook",
+	"modifiedTime":1719470297335,
+	"name":"slack_testing_custom Automation Web-hook",
+	"ownerUserId":34,
+	"path":"662fbeca3405ad4b562aa6d6",
+	"resourceIds":[
+		"662fbeca3405ad4b562aa6d6"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":61
+}

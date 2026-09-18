@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1717504773619,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/665f0a8b005e455d57c55a92",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"665f0b05eb4d5e68c58329a0",
+	"lastModifiedBy":0,
+	"lcName":"google drive permission test automation web-hook",
+	"modifiedTime":1719470217487,
+	"name":"google drive permission test Automation Web-hook",
+	"ownerUserId":310,
+	"path":"665f0a8b005e455d57c55a92",
+	"resourceIds":[
+		"665f0a8b005e455d57c55a92"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":61
+}

@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1717763567016,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6662fdb85f3df52790c6127c",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"6662fdef592b941439a38d5a",
+	"lastModifiedBy":0,
+	"lcName":"test shubham oz dial outbound (copy) automation web-hook",
+	"modifiedTime":1719470173921,
+	"name":"Test Shubham Oz dial outbound (Copy) Automation Web-hook",
+	"ownerUserId":174,
+	"path":"6662fdb85f3df52790c6127c",
+	"resourceIds":[
+		"6662fdb85f3df52790c6127c"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":64
+}

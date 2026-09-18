@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1718102475819,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/666829b8d81b6c04c04ce6b6",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"666829cb240c1d237e6801f5",
+	"lastModifiedBy":0,
+	"lcName":"dfghjk automation web-hook",
+	"modifiedTime":1719470287797,
+	"name":"dfghjk Automation Web-hook",
+	"ownerUserId":520,
+	"path":"666829b8d81b6c04c04ce6b6",
+	"resourceIds":[
+		"666829b8d81b6c04c04ce6b6"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":61
+}

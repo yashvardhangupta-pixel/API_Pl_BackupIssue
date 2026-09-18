@@ -1,0 +1,48 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1715171745695,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/663b71758e3f4e0c73b19680",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"663b71a10a2332553bbb90ce",
+	"lastModifiedBy":0,
+	"lcName":"test callable for dt automation web-hook",
+	"modifiedTime":1719470148445,
+	"name":"test callable for dt Automation Web-hook",
+	"ownerUserId":32,
+	"path":"663b71758e3f4e0c73b19680",
+	"resourceIds":[
+		"663b71758e3f4e0c73b19680"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":66
+}

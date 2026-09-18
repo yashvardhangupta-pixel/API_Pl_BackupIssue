@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1716189303347,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/664af479e7f9326ad77fcec1",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"664af877eca4e46239b02ab8",
+	"lastModifiedBy":0,
+	"lcName":"walkme_sample_flow_01 (do not edit) automation web-hook",
+	"modifiedTime":1719470119706,
+	"name":"Walkme_Sample_Flow_01 (DO NOT EDIT) Automation Web-hook",
+	"ownerUserId":34,
+	"path":"664af479e7f9326ad77fcec1",
+	"resourceIds":[
+		"664af479e7f9326ad77fcec1"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":61
+}
