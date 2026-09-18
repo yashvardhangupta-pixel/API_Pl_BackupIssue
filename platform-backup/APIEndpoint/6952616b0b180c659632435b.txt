@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"695261660b180c6596324359",
+	"createdTime":1767006571087,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"agwuvac/accdcy",
+	"id":"6952616b0b180c659632435b",
+	"lastModifiedBy":175325,
+	"lcName":"export_apiendpointcustom- 217670037006920",
+	"modifiedTime":1767006609559,
+	"name":"Export_APIEndpointCustom- 217670037006920",
+	"ownerUserId":175325,
+	"path":"accdcy",
+	"resourceIds":[
+		"69526149484eb9412b2b321b"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
