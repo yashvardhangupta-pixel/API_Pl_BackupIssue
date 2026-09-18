@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6824c9a16432bd142110cc6b",
+	"createdTime":1747241667852,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"Dhrupal/external",
+	"httpMethod":"GET",
+	"id":"6824cac36432bd142110cc71",
+	"lastModifiedBy":522,
+	"lcName":"externalapi",
+	"modifiedTime":1751544651974,
+	"name":"ExternalAPI",
+	"ownerUserId":49915,
+	"path":"external",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://api.qa.unifyapps.com/api-endpoint/Dhrupal/call"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

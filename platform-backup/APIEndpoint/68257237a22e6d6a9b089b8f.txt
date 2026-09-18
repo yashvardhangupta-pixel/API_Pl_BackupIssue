@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68257137a22e6d6a9b089b74",
+	"createdTime":1747284535642,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"files/download/{fileName}",
+	"httpMethod":"GET",
+	"id":"68257237a22e6d6a9b089b8f",
+	"lastModifiedBy":522,
+	"lcName":"download audio",
+	"modifiedTime":1751544651483,
+	"name":"download audio",
+	"ownerUserId":311,
+	"path":"download/{fileName}",
+	"resourceIds":[
+		"6825716366bdcc30999592c5"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

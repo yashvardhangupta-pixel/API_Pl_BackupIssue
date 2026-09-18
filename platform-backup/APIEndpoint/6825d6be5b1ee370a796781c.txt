@@ -1,0 +1,47 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6825d113328c951b7db7ef6d",
+	"createdTime":1747310270515,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"graphql-test/1",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Ok",
+		"response":{
+			"success":true
+		},
+		"soapResponse":"",
+		"statusCode":200
+	},
+	"httpMethod":"POST",
+	"id":"6825d6be5b1ee370a796781c",
+	"lastModifiedBy":522,
+	"lcName":"1",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1751544650580,
+	"name":"1",
+	"ownerUserId":39713,
+	"path":"1",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"GraphQL",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://graphqlzero.almansi.me/api"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":20
+}

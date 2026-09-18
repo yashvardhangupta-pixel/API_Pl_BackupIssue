@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6814d594dce37275af4f9ab7",
+	"createdTime":1746196119012,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"icertis/fetchName",
+	"httpMethod":"POST",
+	"id":"6814d697dce37275af4f9abc",
+	"lastModifiedBy":522,
+	"lcName":"get data",
+	"modifiedTime":1751544656907,
+	"name":"Get Data",
+	"ownerUserId":33420,
+	"path":"fetchName",
+	"resourceIds":[
+		"6814d5c622490a172cbbe08e"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

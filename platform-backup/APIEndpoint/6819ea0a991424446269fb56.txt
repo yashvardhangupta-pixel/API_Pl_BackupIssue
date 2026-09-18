@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6819e9b9991424446269fb55",
+	"createdTime":1746528778750,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Test6may/test/{pageNum}",
+	"httpMethod":"GET",
+	"id":"6819ea0a991424446269fb56",
+	"lastModifiedBy":522,
+	"lcName":"test",
+	"modifiedTime":1751544655920,
+	"name":"test",
+	"ownerUserId":522,
+	"path":"test/{pageNum}",
+	"resourceIds":[
+		"6819e81169249f119932d4db"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		7
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":7
+}

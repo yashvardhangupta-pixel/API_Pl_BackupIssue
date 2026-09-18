@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68285376c7eacf1253afb7fd",
+	"createdTime":1747473530597,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"for testing",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"my-api-test/firstApi?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6828547ac7eacf1253afb80a",
+	"lastModifiedBy":522,
+	"lcName":"firstapi",
+	"modifiedTime":1751544649257,
+	"name":"firstApi",
+	"ownerUserId":44105,
+	"path":"firstApi",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"682853a4df825e08a73ed022"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET",
+		"PUT"
+	],
+	"version":21
+}

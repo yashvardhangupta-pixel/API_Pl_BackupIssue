@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680f6df7d3daf14cee710892",
+	"createdTime":1745841714565,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"convertToDL/interfaceToDtDSL/{interfaceId}/{interfacePageId}",
+	"httpMethod":"GET",
+	"id":"680f6e32d3daf14cee710893",
+	"lastModifiedBy":522,
+	"lcName":"interfacetodtdsl",
+	"modifiedTime":1751544658012,
+	"name":"interfaceToDtDSL",
+	"ownerUserId":30179,
+	"path":"interfaceToDtDSL/{interfaceId}/{interfacePageId}",
+	"resourceIds":[
+		"680f6d8357271f6e11fc08fc"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

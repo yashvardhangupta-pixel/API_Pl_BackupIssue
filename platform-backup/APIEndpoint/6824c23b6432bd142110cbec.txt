@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6824c1f46432bd142110cbeb",
+	"createdTime":1747239483965,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-000/space",
+	"httpMethod":"GET",
+	"id":"6824c23b6432bd142110cbec",
+	"lastModifiedBy":522,
+	"lcName":"test",
+	"modifiedTime":1751544652148,
+	"name":"test",
+	"ownerUserId":39713,
+	"path":"space",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://spacex-production.up.railway.app/"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":8
+}

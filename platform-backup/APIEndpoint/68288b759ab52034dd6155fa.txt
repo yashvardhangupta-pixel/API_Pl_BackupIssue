@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68288b119ab52034dd6155f7",
+	"createdTime":1747487605440,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"checktest/checktest-endpoint?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"68288b759ab52034dd6155fa",
+	"lastModifiedBy":522,
+	"lcName":"checktest endpoint",
+	"modifiedTime":1751544649074,
+	"name":"checktest endpoint",
+	"ownerUserId":33453,
+	"path":"checktest-endpoint",
+	"resourceIds":[
+		"68272572244ba723d5964b58"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

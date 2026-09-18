@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680e34575b3a2f150430299d",
+	"createdTime":1745761389699,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"open-inference/traces",
+	"httpMethod":"POST",
+	"id":"680e346d5b3a2f150430299e",
+	"lastModifiedBy":522,
+	"lcName":"traces",
+	"modifiedTime":1751544658445,
+	"name":"traces",
+	"ownerUserId":1,
+	"path":"traces",
+	"resourceIds":[
+		"680e33f80fff1a399ed21a85"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

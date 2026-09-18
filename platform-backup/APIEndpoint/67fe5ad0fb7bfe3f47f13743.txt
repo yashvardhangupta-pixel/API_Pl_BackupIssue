@@ -1,0 +1,36 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67fe59e7fb7bfe3f47f1371b",
+	"createdTime":1744722640142,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"dropboxtestfin/2/files/list_folder",
+	"httpMethod":"POST",
+	"id":"67fe5ad0fb7bfe3f47f13743",
+	"lastModifiedBy":522,
+	"lcName":"download",
+	"modifiedTime":1751544662973,
+	"name":"download",
+	"ownerUserId":1246,
+	"path":"2/files/list_folder",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

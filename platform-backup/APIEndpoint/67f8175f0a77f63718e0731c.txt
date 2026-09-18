@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f817150a77f63718e058cf",
+	"createdTime":1744312420847,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"slackvkpincode/postmessage",
+	"httpMethod":"POST",
+	"id":"67f8175f0a77f63718e0731c",
+	"lastModifiedBy":522,
+	"lcName":"post message",
+	"modifiedTime":1751544663644,
+	"name":"Post message",
+	"ownerUserId":34,
+	"path":"postmessage",
+	"resourceIds":[
+		"67f816a1e4e8cf2030e9fe2a"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":5
+}

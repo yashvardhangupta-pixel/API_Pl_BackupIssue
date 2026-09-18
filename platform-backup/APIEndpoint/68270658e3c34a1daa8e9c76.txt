@@ -1,0 +1,36 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6825df0f2de88451bed70df5",
+	"createdTime":1747387992105,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test--/fcdd?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"68270658e3c34a1daa8e9c76",
+	"lastModifiedBy":522,
+	"lcName":"fcdd",
+	"modifiedTime":1751544650395,
+	"name":"fcdd",
+	"ownerUserId":44567,
+	"path":"fcdd",
+	"resourceIds":[
+		"6826f7b2abead02af3e9d2ce"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68230275f913af78bd1fd251",
+	"createdTime":1747124891242,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"outbound-calls/trigger",
+	"httpMethod":"POST",
+	"id":"6823029bf913af78bd1fd254",
+	"lastModifiedBy":522,
+	"lcName":"trigger",
+	"modifiedTime":1751544653763,
+	"name":"trigger",
+	"ownerUserId":311,
+	"path":"trigger",
+	"resourceIds":[
+		"682301355f450c78a84b1320"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

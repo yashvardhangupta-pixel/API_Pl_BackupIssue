@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682899bc8520814ecfe19aa7",
+	"createdTime":1747586646788,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"callable-recheck/check-wsdl-endpoint",
+	"httpMethod":"POST",
+	"id":"682a0e5684a24115962bc9b6",
+	"lastModifiedBy":522,
+	"lcName":"check-wsdl endpoint",
+	"modifiedTime":1751544648854,
+	"name":"check-wsdl endpoint",
+	"ownerUserId":33453,
+	"path":"check-wsdl-endpoint",
+	"resourceIds":[
+		"682a0dde4aa10d382f969b8e"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

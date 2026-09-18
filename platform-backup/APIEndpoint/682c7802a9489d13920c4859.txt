@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68285376c7eacf1253afb7fd",
+	"createdTime":1747744770602,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"my-api-test/rv-testing",
+	"id":"682c7802a9489d13920c4859",
+	"lastModifiedBy":522,
+	"lcName":"rv_testing",
+	"modifiedTime":1751544649257,
+	"name":"rv_testing",
+	"ownerUserId":44105,
+	"path":"rv-testing",
+	"policyIds":[
+		"682c77aea9489d13920c484d"
+	],
+	"resourceIds":[
+		"682853a4df825e08a73ed022"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}

@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680149a80f4a781946cae8fe",
+	"createdTime":1744914909324,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"aiagent/aiagent",
+	"httpMethod":"POST",
+	"id":"680149dd0f4a781946cae8ff",
+	"lastModifiedBy":522,
+	"lcName":"aiagent",
+	"modifiedTime":1751544662469,
+	"name":"aiagent",
+	"ownerUserId":24149,
+	"path":"aiagent",
+	"policyIds":[
+		"66b61acf46f52016f084921a"
+	],
+	"resourceIds":[
+		"66ec7de9343dbb10068139e8"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":5
+}

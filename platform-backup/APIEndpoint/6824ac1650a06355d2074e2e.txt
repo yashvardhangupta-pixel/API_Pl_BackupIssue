@@ -1,0 +1,37 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6824abe950a06355d2074e27",
+	"createdTime":1747233814512,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"BCM-Consultant-API/BCM",
+	"httpMethod":"GET",
+	"id":"6824ac1650a06355d2074e2e",
+	"lastModifiedBy":522,
+	"lcName":"bcm",
+	"modifiedTime":1751544652495,
+	"name":"BCM",
+	"ownerUserId":46218,
+	"path":"BCM",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"api-qa.belcorp.biz/bcm/consultants/infoPersonal/000032042?country=PE&campaign=202508&last_campaign=202508"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

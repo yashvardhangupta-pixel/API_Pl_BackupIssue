@@ -1,0 +1,37 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6824cdc86432bd142110cd3b",
+	"createdTime":1747290029460,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ExternalApiREst/backup-config",
+	"httpMethod":"POST",
+	"id":"682587adc39d44171c69d012",
+	"lastModifiedBy":522,
+	"lcName":"test",
+	"modifiedTime":1751544651805,
+	"name":"test",
+	"ownerUserId":39715,
+	"path":"backup-config",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"asd"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

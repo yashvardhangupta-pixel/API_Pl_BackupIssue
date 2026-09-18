@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6824ab6e50a06355d2074e24",
+	"createdTime":1747233704355,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"VTEX-Master-Data-API/Vtex1",
+	"httpMethod":"PATCH",
+	"id":"6824aba850a06355d2074e25",
+	"lastModifiedBy":522,
+	"lcName":"vtex1",
+	"modifiedTime":1751544652666,
+	"name":"Vtex1",
+	"ownerUserId":46218,
+	"path":"Vtex1",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://belcorpperuqa.vtexcommercestable.com.br/api/dataentities/CL/documents/239583ae-9465-11ee-8452-0e6e3304380b?_fields=email%2CfirstName%2ClastName%2CisNewsletterOptIn%2CidpUID"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}

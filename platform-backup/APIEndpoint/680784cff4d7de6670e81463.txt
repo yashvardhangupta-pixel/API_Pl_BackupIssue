@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6807849af4d7de6670e81462",
+	"createdTime":1745323215793,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"user/fetch-user/{id}",
+	"httpMethod":"GET",
+	"id":"680784cff4d7de6670e81463",
+	"lastModifiedBy":522,
+	"lcName":"/fetch-user",
+	"modifiedTime":1751544661309,
+	"name":"/fetch-user",
+	"ownerUserId":409,
+	"path":"fetch-user/{id}",
+	"resourceIds":[
+		"68076c3fd4b8474a9c0d826b"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":5
+}

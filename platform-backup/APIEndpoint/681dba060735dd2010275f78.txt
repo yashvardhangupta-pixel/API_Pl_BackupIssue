@@ -1,0 +1,53 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681db9970735dd2010275f6e",
+	"createdTime":1746778630531,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"eng/graylog/execute",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Ok",
+		"response":{
+			"wws":4
+		},
+		"soapResponse":"",
+		"statusCode":200
+	},
+	"httpMethod":"POST",
+	"id":"681dba060735dd2010275f78",
+	"lastModifiedBy":522,
+	"lcName":"graylog executor",
+	"localeBasedFallbackResponse":{
+		"af":{
+			"headers":{},
+			"message":"Ok",
+			"response":{
+				"A":3
+			},
+			"statusCode":200
+		}
+	},
+	"modifiedTime":1751544654737,
+	"name":"Graylog executor",
+	"ownerUserId":5,
+	"path":"graylog/execute",
+	"resourceIds":[
+		"681db43a1b192a329ead7ac5"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":6
+}
