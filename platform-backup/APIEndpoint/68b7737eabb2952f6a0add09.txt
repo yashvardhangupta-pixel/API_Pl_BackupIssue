@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68b77342abb2952f6a0adcaa",
+	"createdTime":1756853205666,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"changeSetQA2CSOuLNfsaIpTf/2U1FW9r",
+	"id":"68b7737eabb2952f6a0add09",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2_externalapi_get_7125903867",
+	"modifiedTime":1756931094479,
+	"name":"changeSetQA2_ExternalAPI_Get_7125903867",
+	"ownerUserId":175325,
+	"path":"2U1FW9r",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://catfact.ninja/fact"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
