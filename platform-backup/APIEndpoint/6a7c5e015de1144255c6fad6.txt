@@ -1,0 +1,44 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6a7c5d7c97166e5eabd60e70",
+	"createdTime":1786535425471,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"matrix-desktop-build/callback",
+	"id":"6a7c5e015de1144255c6fad6",
+	"lastModifiedBy":30181,
+	"lastPlatformUpdateBy":30181,
+	"lastPlatformUpdateOn":1786538808474,
+	"lcName":"matrix desktop build callback",
+	"modifiedTime":1786538808474,
+	"name":"Matrix Desktop Build Callback",
+	"ownerUserId":30181,
+	"path":"callback",
+	"resourceIds":[
+		"6a7c4d0e9e225c27aa6f16c0"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
