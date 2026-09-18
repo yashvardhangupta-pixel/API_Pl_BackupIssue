@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6959e7a09d3da628154a5c89",
+	"createdTime":1767499896326,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdatePlCYscFvEh/sPPoW/{name}",
+	"id":"6959e7cbdeda385172034ff0",
+	"lastModifiedBy":-1,
+	"lcName":"changesetqa2aqeyxqby",
+	"modifiedTime":1767503407425,
+	"name":"changeSetQA2AQeYxQBy",
+	"ownerUserId":175325,
+	"path":"sPPoW/{name}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":3
+}
