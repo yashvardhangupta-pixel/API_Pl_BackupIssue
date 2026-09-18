@@ -1,0 +1,40 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68491620b486a86c16057c24",
+	"createdTime":1750057034200,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ascasc/ascasc",
+	"id":"684fc04a1f6ec5348b5cd107",
+	"lastModifiedBy":39713,
+	"lcName":"test",
+	"modifiedTime":1750057047777,
+	"name":"test",
+	"ownerUserId":39713,
+	"path":"ascasc",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"PATCH",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://cannyio.free.beeceptor.com"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PUT"
+	],
+	"version":1
+}
