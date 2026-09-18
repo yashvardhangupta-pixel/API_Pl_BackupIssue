@@ -1,0 +1,39 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68c24cca7414235ee06b3379",
+	"createdTime":1757564137153,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"navaneshwar/Multipart-support",
+	"id":"68c24ce97414235ee06b337a",
+	"lastModifiedBy":1866,
+	"lcName":"multipart support",
+	"modifiedTime":1757564141571,
+	"name":"Multipart support",
+	"ownerUserId":1866,
+	"path":"Multipart-support",
+	"resourceIds":[
+		"68c24c51e3940f2ab5ae38f8"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

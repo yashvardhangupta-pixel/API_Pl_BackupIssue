@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68c2a5ed088aa60250e0c78d",
+	"createdTime":1757586973532,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"Api-group-test/deaths",
+	"id":"68c2a61d088aa60250e0c792",
+	"lastModifiedBy":46218,
+	"lcName":"test",
+	"modifiedTime":1757586975871,
+	"name":"Test",
+	"ownerUserId":46218,
+	"path":"deaths",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://en.wikipedia.org/wiki/Deaths_in_2025"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
