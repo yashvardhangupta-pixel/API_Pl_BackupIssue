@@ -1,0 +1,36 @@
+{
+	"createdTime":1784288272826,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"id":"6a5a14103d19281504485855",
+	"includeVersionInPath":false,
+	"lastModifiedBy":175325,
+	"lastPlatformUpdateBy":175325,
+	"lastPlatformUpdateOn":1784289274147,
+	"lcName":"tetsing",
+	"modifiedTime":1784289274147,
+	"name":"tetsing",
+	"ownerUserId":189551,
+	"path":"tetsing",
+	"standard":false,
+	"telemetryConfig":{
+		"enableTelemetry":true,
+		"metricConfigs":[
+			{
+				"buckets":[
+					
+				],
+				"eventType":"ALWAYS",
+				"metricType":"API_EXECUTION_DURATION",
+				"name":"testing",
+				"tags":[
+					
+				]
+			}
+		]
+	},
+	"version":2
+}
