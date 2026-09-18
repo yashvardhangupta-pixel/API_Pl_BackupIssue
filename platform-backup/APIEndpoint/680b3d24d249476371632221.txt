@@ -1,0 +1,32 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"680b2dd1d2494763716321d4",
+	"createdTime":1745567012915,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"Expose an API that will take information about an user and create/update the users in object created in UnifyApps.",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"User-to-objects/User-to-objects",
+	"httpMethod":"GET",
+	"id":"680b3d24d249476371632221",
+	"lastModifiedBy":98389,
+	"lcName":"user to objects",
+	"modifiedTime":1745579703536,
+	"name":"User to objects",
+	"ownerUserId":98389,
+	"path":"User-to-objects",
+	"resourceIds":[
+		"67bc0b4fecca6721a61235d2"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

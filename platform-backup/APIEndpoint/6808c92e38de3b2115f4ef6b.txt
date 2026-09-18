@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6808c91938de3b2115f4ef6a",
+	"createdTime":1745406254290,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"exp2/id2?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6808c92e38de3b2115f4ef6b",
+	"lastModifiedBy":46209,
+	"lcName":"find exp2",
+	"modifiedTime":1745406389367,
+	"name":"find exp2",
+	"ownerUserId":46209,
+	"path":"id2",
+	"resourceIds":[
+		"68088743acc953509258bdfb"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680acf44d249476371631a9f",
+	"createdTime":1745538891964,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"TiQEJpvemcfoBTM/automation/endpoint2?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"680acf4bd249476371631aa7",
+	"lastModifiedBy":522,
+	"lcName":"changesetsecurityqavhcwc",
+	"modifiedTime":1745624058509,
+	"name":"changeSetSECURITYQAVHCWc",
+	"ownerUserId":522,
+	"path":"automation/endpoint2",
+	"policyIds":[
+		"680acf45d249476371631aa1"
+	],
+	"resourceIds":[
+		"680acf425173e828f3bdb78b"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

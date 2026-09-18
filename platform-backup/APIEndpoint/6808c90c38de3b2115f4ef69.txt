@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6808c8f638de3b2115f4ef68",
+	"createdTime":1745406220033,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"exp/id?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6808c90c38de3b2115f4ef69",
+	"lastModifiedBy":46209,
+	"lcName":"find exp",
+	"modifiedTime":1745406385313,
+	"name":"find exp",
+	"ownerUserId":46209,
+	"path":"id",
+	"resourceIds":[
+		"680888f7acc953509258ca1f"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
