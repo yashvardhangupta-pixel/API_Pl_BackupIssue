@@ -1,0 +1,47 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6aa253737cd4157678690ccc",
+	"createdTime":1789023101320,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"abht0ck/amddkva",
+	"id":"6aa2537d3208a66272684716",
+	"lastModifiedBy":238035,
+	"lastPlatformUpdateBy":238035,
+	"lastPlatformUpdateOn":1789201911116,
+	"lcName":"callable_endpoint_accessprofile_unchecknode - 21789018559264",
+	"modifiedTime":1789201911116,
+	"name":"callable_endpoint_accessProfile_uncheckNode - 21789018559264",
+	"ownerUserId":238035,
+	"path":"amddkva",
+	"resourceIds":[
+		"6aa2533ee3352d6fdf7a1940"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"tags":[
+		"dnt_tag"
+	],
+	"version":2
+}
