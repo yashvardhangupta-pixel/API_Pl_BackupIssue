@@ -1,0 +1,41 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6a16bc532a69266aee20586d",
+	"createdTime":1783721214557,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"testingVirtusa/Run-Checker",
+	"id":"6a516cfeba0d2e03e0ef576a",
+	"lastModifiedBy":193028,
+	"lastPlatformUpdateBy":193028,
+	"lastPlatformUpdateOn":1783721216771,
+	"lcName":"run checker",
+	"modifiedTime":1783721216771,
+	"name":"Run Checker",
+	"ownerUserId":193028,
+	"path":"Run-Checker",
+	"resourceIds":[
+		"6a516c4be6dbc839f6739b4d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
