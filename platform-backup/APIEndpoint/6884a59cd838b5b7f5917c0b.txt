@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6884a58bd838b5b7f5917c04",
+	"createdTime":1753717179343,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"group-with-policy-uat/api-group",
+	"id":"6884a59cd838b5b7f5917c0b",
+	"lastModifiedBy":43498,
+	"lcName":"api group",
+	"modifiedTime":1753717179343,
+	"name":"api group",
+	"ownerUserId":43498,
+	"path":"api-group",
+	"policyIds":[
+		"667309e0ed8d527f8597532d"
+	],
+	"resourceIds":[
+		"67ff70f42d323d0cb0e837c6"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

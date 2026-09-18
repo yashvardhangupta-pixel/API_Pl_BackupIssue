@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"688752a01e2e07a54e2748ac",
+	"createdTime":1753699022403,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"testRateLimit/1",
+	"id":"688752ce1e2e07a54e2748ad",
+	"lastModifiedBy":39713,
+	"lcName":"test",
+	"modifiedTime":1753701226566,
+	"name":"test",
+	"ownerUserId":39713,
+	"path":"1",
+	"policyIds":[
+		"6886c6b989f9df96ce7faf1d",
+		"6886c6a789f9df96ce7faf1c"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://cannyioooo.free.beeceptor.com"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":12
+}

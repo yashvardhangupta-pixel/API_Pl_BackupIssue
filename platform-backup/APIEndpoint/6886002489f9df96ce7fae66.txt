@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6886000d89f9df96ce7fae65",
+	"createdTime":1753612324403,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"open-telemetry/save-traces",
+	"id":"6886002489f9df96ce7fae66",
+	"lastModifiedBy":49915,
+	"lcName":"save traces",
+	"modifiedTime":1753612463688,
+	"name":"save traces",
+	"ownerUserId":49915,
+	"path":"save-traces",
+	"resourceIds":[
+		"6886005e19b34ea9776c16ac"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

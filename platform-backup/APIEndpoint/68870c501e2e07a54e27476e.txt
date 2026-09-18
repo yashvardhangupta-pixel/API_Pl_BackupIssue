@@ -1,0 +1,49 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687f2fa27995e18ce5abf276",
+	"createdTime":1753680976632,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"samePath1/test-fallback",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Bad Request",
+		"response":{
+			"massage":"error while invoke the external API"
+		},
+		"soapResponse":"",
+		"statusCode":400
+	},
+	"id":"68870c501e2e07a54e27476e",
+	"lastModifiedBy":46209,
+	"lcName":"test-fallback",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1753683228990,
+	"name":"test-fallback",
+	"ownerUserId":46209,
+	"path":"test-fallback",
+	"resourceIds":[
+		"685bba9b3261df508c7796bb"
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://this.doesnotexist.openai.com<br>"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":4
+}
