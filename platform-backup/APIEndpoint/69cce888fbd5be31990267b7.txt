@@ -1,0 +1,45 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68d4e56232d4383e13f6dc07",
+	"createdTime":1783344700720,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"voice/attachment-details",
+	"id":"69cce888fbd5be31990267b7",
+	"lastModifiedBy":-1,
+	"lastPlatformUpdateBy":196612,
+	"lastPlatformUpdateOn":1788187628478,
+	"lcName":"get attachment",
+	"modifiedTime":1789724715761,
+	"name":"Get Attachment",
+	"ownerUserId":-1,
+	"path":"attachment-details",
+	"resourceIds":[
+		"69cb72960c2d1a4ec3055103"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":93
+}

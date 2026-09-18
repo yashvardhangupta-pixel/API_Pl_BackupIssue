@@ -1,0 +1,44 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68d4e56232d4383e13f6dc07",
+	"createdTime":1783344700737,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"voice/resume-ai-agent",
+	"id":"695797cc172720303e91acab",
+	"lastModifiedBy":-1,
+	"lastPlatformUpdateBy":196612,
+	"lastPlatformUpdateOn":1788187628281,
+	"lcName":"resume ai agent",
+	"modifiedTime":1789724715569,
+	"name":"Resume AI Agent",
+	"ownerUserId":-1,
+	"path":"resume-ai-agent",
+	"resourceIds":[
+		"6953a6cd737fe20f119eac41"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":90
+}

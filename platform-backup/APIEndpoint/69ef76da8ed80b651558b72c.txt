@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69ef702b36b99d3f6e0c0f80",
+	"createdTime":1782812518875,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Agent-Builder/Oauth-Success",
+	"id":"69ef76da8ed80b651558b72c",
+	"lastModifiedBy":-1,
+	"lastPlatformUpdateBy":196612,
+	"lastPlatformUpdateOn":1788187628305,
+	"lcName":"oauth success",
+	"modifiedTime":1789724715665,
+	"name":"Oauth Success",
+	"ownerUserId":-1,
+	"path":"Oauth-Success",
+	"resourceIds":[
+		"69ef53346896af25bc13fe23"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"tags":[
+		"text-to-agent"
+	],
+	"version":96
+}
