@@ -1,0 +1,34 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682edec0889dd20445f28e96",
+	"createdTime":1747902198140,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"0000/user",
+	"id":"682edef6889dd20445f28e9c",
+	"lastModifiedBy":522,
+	"lcName":"http_method_test",
+	"modifiedTime":1750245851836,
+	"name":"http_method_test",
+	"ownerUserId":39713,
+	"path":"user",
+	"resourceIds":[
+		"6829a7514da7561821b516a8"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT",
+		"PATCH"
+	],
+	"version":1
+}

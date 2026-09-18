@@ -1,0 +1,41 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682f507adc04b348e5465bd9",
+	"createdTime":1749194662211,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"11111/11",
+	"id":"684297a6e511210623e186db",
+	"lastModifiedBy":522,
+	"lcName":"testing_metrics",
+	"modifiedTime":1750245839178,
+	"name":"testing_metrics",
+	"ownerUserId":39713,
+	"path":"11",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://cannyio.free.beeceptor.com"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PUT",
+		"PATCH"
+	],
+	"version":2
+}
