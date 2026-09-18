@@ -1,0 +1,47 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6a901fa389616b745aac8754",
+	"createdTime":1787830190681,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"aigiwfn/aztdme",
+	"id":"6a901fae8939963468f84709",
+	"lastModifiedBy":175325,
+	"lastPlatformUpdateBy":175325,
+	"lastPlatformUpdateOn":1787830216758,
+	"lcName":"createendpointwithcallableheaders - 217878276879050",
+	"modifiedTime":1787830216757,
+	"name":"createEndpointWithCallableHeaders - 217878276879050",
+	"ownerUserId":175325,
+	"path":"aztdme",
+	"resourceIds":[
+		"6a901f7a9eb80107fdab7dc2"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"tags":[
+		"dnt_tag"
+	],
+	"version":2
+}
