@@ -1,0 +1,43 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"691a45022ff5313638c6d296",
+	"createdTime":1763329292800,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIxTgnQGtrPY/UpdatePslpuNliDt",
+	"id":"691a450c2ff5313638c6d297",
+	"lastModifiedBy":-1,
+	"lcName":"updatevtztsejfpn",
+	"modifiedTime":1763332862242,
+	"name":"UpdateVTZtSEjfPn",
+	"ownerUserId":175325,
+	"path":"UpdatePslpuNliDt",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
