@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68667789e979370315d5347b",
+	"createdTime":1753802926932,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/tzRkd/{name}?resourceId={{RESOURCE_ID}}",
+	"id":"6888e874b6b058d9727e1d81",
+	"lastModifiedBy":162004,
+	"lcName":"changesetlocalmbafwaujviepekmwmtpk",
+	"modifiedTime":1753802988638,
+	"name":"changeSetLocalMBaFWAuJvIEPekmWMtpK",
+	"ownerUserId":162004,
+	"path":"tzRkd/{name}",
+	"resourceIds":[
+		"6888c3828ca03fb2e46d31e4"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

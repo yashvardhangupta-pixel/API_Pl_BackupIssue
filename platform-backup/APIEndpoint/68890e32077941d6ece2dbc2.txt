@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68667789e979370315d5347b",
+	"createdTime":1753812606879,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/NiMfc/{name}?resourceId={{RESOURCE_ID}}",
+	"id":"68890e32077941d6ece2dbc2",
+	"lastModifiedBy":162004,
+	"lcName":"changesetlocalkxoebsidcwznvewqrbav",
+	"modifiedTime":1753812672882,
+	"name":"changeSetLocalKxOEbsidcwZNVeWQRbav",
+	"ownerUserId":162004,
+	"path":"NiMfc/{name}",
+	"resourceIds":[
+		"6888c3828ca03fb2e46d31e4"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

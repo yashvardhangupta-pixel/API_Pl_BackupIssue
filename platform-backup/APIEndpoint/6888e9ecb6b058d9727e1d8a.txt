@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68667789e979370315d5347b",
+	"createdTime":1753803305851,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/ervpg/{name}?resourceId={{RESOURCE_ID}}",
+	"id":"6888e9ecb6b058d9727e1d8a",
+	"lastModifiedBy":162004,
+	"lcName":"changesetlocalivipqpsnmmnqfhnxwxai",
+	"modifiedTime":1753803362498,
+	"name":"changeSetLocalIVipqpsnMmnqFHNXWxAI",
+	"ownerUserId":162004,
+	"path":"ervpg/{name}",
+	"resourceIds":[
+		"6888c3828ca03fb2e46d31e4"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
