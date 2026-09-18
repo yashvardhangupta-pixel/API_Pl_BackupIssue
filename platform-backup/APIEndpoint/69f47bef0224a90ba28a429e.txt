@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"69f47bef71e78b0183757213",
+	"createdTime":1777630191541,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"SSE API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"prakhar-s-slack/mcp/sse",
+	"httpMethod":"GET",
+	"id":"69f47bef0224a90ba28a429e",
+	"lastModifiedBy":125298,
+	"lcName":"sse",
+	"modifiedTime":1777630191541,
+	"name":"SSE",
+	"ownerUserId":125298,
+	"path":"mcp/sse",
+	"resourceIds":[
+		"67dd3e1d24f9fb5bd409af36"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}

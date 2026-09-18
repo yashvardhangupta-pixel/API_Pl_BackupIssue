@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"69f47bef71e78b0183757213",
+	"createdTime":1777630191688,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"JSON-RPC API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"prakhar-s-slack/mcp/messages",
+	"httpMethod":"POST",
+	"id":"69f47bef71e78b0183757214",
+	"lastModifiedBy":125298,
+	"lcName":"json-rpc",
+	"modifiedTime":1777630191688,
+	"name":"JSON-RPC",
+	"ownerUserId":125298,
+	"path":"mcp/messages",
+	"resourceIds":[
+		"67dbf54e6b0a2f279887d047"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}

@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69f4017929f3441c01f89fff",
+	"createdTime":1777598853856,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIRGYUPRMGHW/UpdateLztcjaSHgM",
+	"id":"69f40185e2bbc25fab4c4937",
+	"lastModifiedBy":-1,
+	"lcName":"updatealrknvprrs",
+	"modifiedTime":1777604902295,
+	"name":"UpdateAlrKNVpRrS",
+	"ownerUserId":175325,
+	"path":"UpdateLztcjaSHgM",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
