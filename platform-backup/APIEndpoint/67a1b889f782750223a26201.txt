@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67a0c1bc866ec34e4806522b",
+	"createdTime":1738651785138,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-fix/TestAPI?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67a1b889f782750223a26201",
+	"lastModifiedBy":45011,
+	"lcName":"testapi",
+	"modifiedTime":1738658959258,
+	"name":"TestAPI",
+	"ownerUserId":520,
+	"path":"TestAPI",
+	"resourceIds":[
+		"671147670668236b2161c2c8"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
