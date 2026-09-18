@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69b920d50f59a661cca4fa99",
+	"createdTime":1773740260187,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIoVEYryYwsB/UpdateEgcybDWCZV",
+	"id":"69b920e4f2c68124789c0f43",
+	"lastModifiedBy":-1,
+	"lcName":"updateutabsvqueu",
+	"modifiedTime":1773748759483,
+	"name":"UpdateuTABsVQueU",
+	"ownerUserId":175325,
+	"path":"UpdateEgcybDWCZV",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
