@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68eb56166f6b3055cd1d8e4d",
+	"createdTime":1760256709176,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-with-aditya/test-cookie",
+	"id":"68eb62c56f6b3055cd1d8e8c",
+	"lastModifiedBy":33658,
+	"lcName":"test_cookie",
+	"modifiedTime":1760539190581,
+	"name":"test_cookie",
+	"ownerUserId":33877,
+	"path":"test-cookie",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"68eb6b41ec609d6e7454af5f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":8
+}

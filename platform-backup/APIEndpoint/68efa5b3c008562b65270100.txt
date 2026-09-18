@@ -1,0 +1,43 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68efa4dac008562b652700fa",
+	"createdTime":1760535987642,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"verification-url/verification-url",
+	"id":"68efa5b3c008562b65270100",
+	"lastModifiedBy":46218,
+	"lcName":"verification url",
+	"modifiedTime":1760535989830,
+	"name":"verification url",
+	"ownerUserId":46218,
+	"path":"verification-url",
+	"resourceIds":[
+		"68efa4e21ff997436ed28448"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":1
+}
