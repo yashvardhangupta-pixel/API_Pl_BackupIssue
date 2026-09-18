@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6978b8ea4603e2215818ccdf",
+	"createdTime":1769519338574,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"SSE API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dnd-abhay/mcp/sse",
+	"httpMethod":"GET",
+	"id":"6978b8ea4603e2215818cce0",
+	"lastModifiedBy":426,
+	"lcName":"sse",
+	"modifiedTime":1769519338574,
+	"name":"SSE",
+	"ownerUserId":426,
+	"path":"mcp/sse",
+	"resourceIds":[
+		"67dd3e1d24f9fb5bd409af36"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}

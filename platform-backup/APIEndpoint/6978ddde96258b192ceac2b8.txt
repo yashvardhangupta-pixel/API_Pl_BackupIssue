@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6978ddde96258b192ceac2b7",
+	"createdTime":1769528798822,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Gives agent card",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"a2a-test/.well-known/agent-card.json",
+	"httpMethod":"GET",
+	"id":"6978ddde96258b192ceac2b8",
+	"lastModifiedBy":11641,
+	"lcName":"get agent card",
+	"modifiedTime":1769528798822,
+	"name":"Get Agent Card",
+	"ownerUserId":11641,
+	"path":".well-known/agent-card.json",
+	"resourceIds":[
+		"68a2ba0f9d7d8d3f5047e28b"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}

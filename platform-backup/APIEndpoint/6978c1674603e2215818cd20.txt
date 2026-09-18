@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6978c1644603e2215818cd1d",
+	"createdTime":1769521511329,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Handles RPC calls using json payload and returns stream",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"a2a-test-vedant/jsonrpc/sse",
+	"httpMethod":"POST",
+	"id":"6978c1674603e2215818cd20",
+	"lastModifiedBy":11641,
+	"lcName":"handle json + rpc (streaming)",
+	"modifiedTime":1769521511329,
+	"name":"Handle JSON + RPC (Streaming)",
+	"ownerUserId":11641,
+	"path":"jsonrpc/sse",
+	"resourceIds":[
+		"68a731b37cdf147e40655d19"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}

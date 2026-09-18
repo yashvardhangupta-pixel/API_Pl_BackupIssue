@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6978b9c94603e2215818cce4",
+	"createdTime":1769519561722,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"JSON-RPC API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dnd-abhay-2/mcp/messages",
+	"httpMethod":"POST",
+	"id":"6978b9c94603e2215818cce6",
+	"lastModifiedBy":426,
+	"lcName":"json-rpc",
+	"modifiedTime":1769519561722,
+	"name":"JSON-RPC",
+	"ownerUserId":426,
+	"path":"mcp/messages",
+	"resourceIds":[
+		"67dbf54e6b0a2f279887d047"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
