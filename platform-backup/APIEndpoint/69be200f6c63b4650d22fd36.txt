@@ -1,0 +1,45 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69be1fd66c63b4650d22fd2c",
+	"createdTime":1774067943069,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateZMJVSbhAQA/icIvy/{name}",
+	"id":"69be200f6c63b4650d22fd36",
+	"lastModifiedBy":-1,
+	"lcName":"changesetqa2dbrarosz",
+	"modifiedTime":1774071277263,
+	"name":"changeSetQA2DBraROsz",
+	"ownerUserId":175325,
+	"path":"icIvy/{name}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":3
+}
