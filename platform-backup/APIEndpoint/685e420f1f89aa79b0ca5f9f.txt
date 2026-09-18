@@ -1,0 +1,29 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"685d0764f29e9a02d5f39dfc",
+	"createdTime":1751007759179,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-endpoint/user?resourceId={{RESOURCE_ID}}",
+	"id":"685e420f1f89aa79b0ca5f9f",
+	"lastModifiedBy":522,
+	"lcName":"jijo",
+	"modifiedTime":1751544233192,
+	"name":"jijo",
+	"ownerUserId":46209,
+	"path":"user",
+	"resourceIds":[
+		"685d436feecc8477ffb68420"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

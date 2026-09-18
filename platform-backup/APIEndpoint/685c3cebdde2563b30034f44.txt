@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"685c3c658ec8034cbd612dab",
+	"createdTime":1750875371482,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-het-group/firstAPI",
+	"id":"685c3cebdde2563b30034f44",
+	"lastModifiedBy":522,
+	"lcName":"firstapi",
+	"modifiedTime":1751544233689,
+	"name":"firstAPI",
+	"ownerUserId":44105,
+	"path":"firstAPI",
+	"policyIds":[
+		"685c3ce28ec8034cbd612dac"
+	],
+	"resourceIds":[
+		"682853a4df825e08a73ed022"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":11
+}

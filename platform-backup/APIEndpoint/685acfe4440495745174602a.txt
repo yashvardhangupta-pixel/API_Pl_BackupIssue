@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"685a77a89694b36735d82a3b",
+	"createdTime":1750781924111,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-hp-group/jwt-test-api",
+	"id":"685acfe4440495745174602a",
+	"lastModifiedBy":522,
+	"lcName":"jwt_test_api",
+	"modifiedTime":1751544235689,
+	"name":"jwt_test_api",
+	"ownerUserId":44105,
+	"path":"jwt-test-api",
+	"policyIds":[
+		"685c22b282e7b537307c1d3b"
+	],
+	"resourceIds":[
+		"682853a4df825e08a73ed022"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":34
+}

@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68553638697a8a13d9741aa9",
+	"createdTime":1750415048837,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"demo-mcp/MCP",
+	"id":"685536c8697a8a13d9741aad",
+	"lastModifiedBy":522,
+	"lcName":"mcp",
+	"modifiedTime":1751544237678,
+	"name":"MCP",
+	"ownerUserId":33877,
+	"path":"MCP",
+	"policyIds":[
+		"6697d6c91687303fa908b82a"
+	],
+	"resourceIds":[
+		"66ec7de9343dbb10068139e8"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":2
+}

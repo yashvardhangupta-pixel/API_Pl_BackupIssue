@@ -1,0 +1,34 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"685a3d0a345d70647922852e",
+	"createdTime":1750846381004,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"testhp/cvsd",
+	"id":"685bcbad49690a0f6354659c",
+	"lastModifiedBy":522,
+	"lcName":"cvsd",
+	"modifiedTime":1751544236416,
+	"name":"cvsd",
+	"ownerUserId":44567,
+	"path":"cvsd",
+	"policyIds":[
+		"6697d6c91687303fa908b82a"
+	],
+	"resourceIds":[
+		"685bba9b3261df508c7796bb"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":7
+}

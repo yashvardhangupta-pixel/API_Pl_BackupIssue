@@ -1,0 +1,29 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"685d0764f29e9a02d5f39dfc",
+	"createdTime":1751040090420,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-endpoint/api/{{ systemInputs.__ENV__.VariableNew2 }}/JG?resourceId={{RESOURCE_ID}}",
+	"id":"685ec05ad4283a4b9d126d28",
+	"lastModifiedBy":522,
+	"lcName":"test-appi2",
+	"modifiedTime":1751544233192,
+	"name":"test-appi2",
+	"ownerUserId":46209,
+	"path":"api/{{ systemInputs.__ENV__.VariableNew2 }}/JG",
+	"resourceIds":[
+		"685e91dda6bbe870d6b6d40d"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}

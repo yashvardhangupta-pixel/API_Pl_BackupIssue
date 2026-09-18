@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"685c3c658ec8034cbd612dab",
+	"createdTime":1750912310657,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-het-group/second-test",
+	"id":"685ccd36e654c023299f0163",
+	"lastModifiedBy":522,
+	"lcName":"second_test",
+	"modifiedTime":1751544233689,
+	"name":"second_test",
+	"ownerUserId":44105,
+	"path":"second-test",
+	"policyIds":[
+		"685c3ce28ec8034cbd612dac"
+	],
+	"resourceIds":[
+		"682853a4df825e08a73ed022"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}
