@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67bdc6f5fe03e35132959266",
+	"createdTime":1740490537422,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-local-jg/test-api?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67bdc729fe03e35132959267",
+	"lastModifiedBy":46209,
+	"lcName":"test-api",
+	"modifiedTime":1740491334703,
+	"name":"test-api",
+	"ownerUserId":46209,
+	"path":"test-api",
+	"resourceIds":[
+		"67bdc659121e241b793a4c36"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
