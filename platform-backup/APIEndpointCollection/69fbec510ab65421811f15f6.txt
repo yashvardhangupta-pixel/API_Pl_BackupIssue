@@ -1,0 +1,39 @@
+{
+	"apiVersion":"1",
+	"createdTime":1778117952176,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":false,
+	"description":"Update",
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"id":"69fbec510ab65421811f15f6",
+	"includeVersionInPath":false,
+	"lastModifiedBy":189551,
+	"lcName":"updateztbxuriwpi",
+	"modifiedTime":1778138538300,
+	"name":"UpdateZtbxurIWpI",
+	"ownerUserId":175325,
+	"path":"UpdateMwKebMAmFa",
+	"standard":false,
+	"telemetryConfig":{
+		"enableTelemetry":true,
+		"metricConfigs":[
+			{
+				"buckets":[
+					
+				],
+				"eventType":"ALWAYS",
+				"metricType":"API_EXECUTION_DURATION",
+				"name":"tets",
+				"tags":[
+					{
+						"key":"test",
+						"value":"{{constructor.constructor('alert(1)')()}}"
+					}
+				]
+			}
+		]
+	},
+	"version":2
+}
