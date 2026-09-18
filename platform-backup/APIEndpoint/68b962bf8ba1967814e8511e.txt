@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68b9626c8ba1967814e85111",
+	"createdTime":1756979903110,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"changeSetQA2CSORMVnvmMTNW/exfov/{name}?resourceId={{RESOURCE_ID}}",
+	"id":"68b962bf8ba1967814e8511e",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2txqxmhynelfqbvfxxgrx",
+	"modifiedTime":1757011902502,
+	"name":"changeSetQA2TxqxmhYnelFQbVFxXgRx",
+	"ownerUserId":175325,
+	"path":"exfov/{name}",
+	"resourceIds":[
+		"6888c3f39432e5cdafbb36ae"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PUT",
+		"PATCH"
+	],
+	"version":2
+}
