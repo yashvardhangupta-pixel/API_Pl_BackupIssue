@@ -1,0 +1,49 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"65e812a0f99f2f3defed0c0b",
+	"createdTime":1709756525084,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"api dsce",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"profile-api/slack",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"65e8d06df99f2f3defed0c38",
+	"lastModifiedBy":522,
+	"lcName":"api slack",
+	"modifiedTime":1751544778193,
+	"name":"API Slack",
+	"ownerUserId":32,
+	"path":"slack",
+	"resourceIds":[
+		"65f54873a25a911d14af1de3"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":66
+}

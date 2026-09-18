@@ -1,0 +1,57 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"65e812a0f99f2f3defed0c0b",
+	"createdTime":1714280252527,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"profile-api/workflow",
+	"fallbackResponse":{
+		"headers":{
+			"2":"2"
+		},
+		"message":"Success",
+		"response":{},
+		"statusCode":200
+	},
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"662dd73cfc3a9868cbc37cf7",
+	"lastModifiedBy":522,
+	"lcName":"api endpoint 2",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1751544778193,
+	"name":"API Endpoint 2",
+	"ownerUserId":32,
+	"path":"workflow",
+	"resourceIds":[
+		"65e3f5bd493d13341642e571"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":67
+}

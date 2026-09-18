@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68678cc05abcf63adb449abb",
+	"createdTime":1751616819881,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-hp-group/todos",
+	"id":"68678d335abcf63adb449abf",
+	"lastModifiedBy":44105,
+	"lcName":"firstapi",
+	"modifiedTime":1751618121254,
+	"name":"firstAPI",
+	"ownerUserId":44105,
+	"path":"todos",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://jsonplaceholder.typicode.com/todos"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

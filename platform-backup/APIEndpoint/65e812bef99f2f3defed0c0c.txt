@@ -1,0 +1,49 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"65e812a0f99f2f3defed0c0b",
+	"createdTime":1709707966229,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"this for api workflow",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"profile-api/fetch",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"65e812bef99f2f3defed0c0c",
+	"lastModifiedBy":522,
+	"lcName":"api endpoint",
+	"modifiedTime":1751544778193,
+	"name":"API Endpoint",
+	"ownerUserId":32,
+	"path":"fetch",
+	"resourceIds":[
+		"65f2fa9206ad8546ff5d1d07"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":98
+}
