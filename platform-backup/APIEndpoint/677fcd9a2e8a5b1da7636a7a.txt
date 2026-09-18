@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"677fbee128459b5346e6a273",
+	"createdTime":1736428954387,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"ap2",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"po1/ty?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"677fcd9a2e8a5b1da7636a7a",
+	"lastModifiedBy":522,
+	"lcName":"ap2",
+	"modifiedTime":1751544708373,
+	"name":"ap2",
+	"ownerUserId":520,
+	"path":"ty",
+	"resourceIds":[
+		"66cec6e1bd8ae21171995919"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

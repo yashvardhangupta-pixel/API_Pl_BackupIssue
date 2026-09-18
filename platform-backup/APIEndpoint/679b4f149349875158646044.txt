@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67989cdbb3c10a2cb168563e",
+	"createdTime":1738231572345,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"github-workflow/abcd?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"679b4f149349875158646044",
+	"lastModifiedBy":522,
+	"lcName":"abhay1",
+	"modifiedTime":1751544706141,
+	"name":"abhay1",
+	"ownerUserId":426,
+	"path":"abcd",
+	"resourceIds":[
+		"677cfdf6730a1a681048e09c"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"677e6779ffc89b18b92eb8d9",
+	"createdTime":1736337275413,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"QOgIAascJDoSHPS/automation",
+	"httpMethod":"POST",
+	"id":"677e677bffc89b18b92eb8dd",
+	"lastModifiedBy":522,
+	"lcName":"destination_dnd_mflwc",
+	"modifiedTime":1751544709725,
+	"name":"DESTINATION_DND_MFlWc",
+	"ownerUserId":522,
+	"path":"automation",
+	"policyIds":[
+		"677e677affc89b18b92eb8da"
+	],
+	"resourceIds":[
+		"677e6779928f5c4d1a6a4ebd"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

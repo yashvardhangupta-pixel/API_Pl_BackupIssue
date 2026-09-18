@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6762c68383b3d3570d2d9767",
+	"createdTime":1737730243734,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"store/GetStoreTimingByStoreCode",
+	"httpMethod":"GET",
+	"id":"67639b9383b3d3570d2daabc",
+	"lastModifiedBy":522,
+	"lcName":"get store timing details by store code",
+	"modifiedTime":1751544706627,
+	"name":"Get store timing details by store code",
+	"ownerUserId":47808,
+	"path":"GetStoreTimingByStoreCode",
+	"policyIds":[
+		"6761b893a892a32c7089634c"
+	],
+	"resourceIds":[
+		"676a88976434792189856039"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		null
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

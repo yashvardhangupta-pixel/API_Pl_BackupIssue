@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"677e52f5fd8d6d1586618809",
+	"createdTime":1736332024907,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"PdoURlTZptQbnSF/automation",
+	"httpMethod":"POST",
+	"id":"677e52f8fd8d6d158661880d",
+	"lastModifiedBy":522,
+	"lcName":"destination_dnd_uhrfe",
+	"modifiedTime":1751544711156,
+	"name":"DESTINATION_DND_UhrFE",
+	"ownerUserId":522,
+	"path":"automation",
+	"policyIds":[
+		"677e52f6fd8d6d158661880a"
+	],
+	"resourceIds":[
+		"677e52f306898059b4af680a"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

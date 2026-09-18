@@ -1,0 +1,34 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6788b98e6c3bf83b5998981c",
+	"createdTime":1737013674592,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"ds",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"pathr/api1?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6788b9aa6c3bf83b5998981d",
+	"lastModifiedBy":522,
+	"lcName":"api1",
+	"modifiedTime":1751544707580,
+	"name":"api1",
+	"ownerUserId":520,
+	"path":"api1",
+	"policyIds":[
+		"6691881c440ab075cf18e06d"
+	],
+	"resourceIds":[
+		"67889094c207d23c87005676"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

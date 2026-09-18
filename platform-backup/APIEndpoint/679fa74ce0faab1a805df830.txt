@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"679fa74ae0faab1a805df82d",
+	"createdTime":1738516325870,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"AgoNetTbDE/automation/endpoint2",
+	"httpMethod":"POST",
+	"id":"679fa74ce0faab1a805df830",
+	"lastModifiedBy":522,
+	"lcName":"changesetlocaltviys",
+	"modifiedTime":1751544704223,
+	"name":"changeSetLocaltViyS",
+	"ownerUserId":522,
+	"path":"automation/endpoint2",
+	"policyIds":[
+		"679fa74be0faab1a805df82e"
+	],
+	"resourceIds":[
+		"679fa74968394f1c4393ed3b"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

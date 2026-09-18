@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67829148b18e1a51ab1d72a8",
+	"createdTime":1736610162473,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Test-loop-automation/run",
+	"httpMethod":"POST",
+	"id":"67829172b18e1a51ab1d72a9",
+	"lastModifiedBy":522,
+	"lcName":"run",
+	"modifiedTime":1751544708089,
+	"name":"run",
+	"ownerUserId":1,
+	"path":"run",
+	"resourceIds":[
+		"678290a763071c41b2a82da4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

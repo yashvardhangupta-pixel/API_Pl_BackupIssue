@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67a503d6a2bc1f0064d61833",
+	"createdTime":1738867942893,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"mphasis_test/database",
+	"httpMethod":"POST",
+	"id":"67a504e6a2bc1f0064d61834",
+	"lastModifiedBy":522,
+	"lcName":"fetch-data",
+	"modifiedTime":1751544698530,
+	"name":"fetch-data",
+	"ownerUserId":33420,
+	"path":"database",
+	"resourceIds":[
+		"679e5dba2218da2c59ec50af"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		null
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}

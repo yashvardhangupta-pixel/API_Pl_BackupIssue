@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6790e8d6d8489d2f3b5edbdb",
+	"createdTime":1737550403691,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"llm/test",
+	"httpMethod":"GET",
+	"id":"6790ea43d8489d2f3b5edbde",
+	"lastModifiedBy":522,
+	"lcName":"test api",
+	"modifiedTime":1751544706853,
+	"name":"test API",
+	"ownerUserId":311,
+	"path":"test",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"677b97b8ef74e615c2dc87e7"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		null
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":5
+}

@@ -1,0 +1,36 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"677f9342113657320adee350",
+	"createdTime":1736414071021,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"desc1",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"p1/qwerty?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"677f9377113657320adee351",
+	"lastModifiedBy":522,
+	"lcName":"ep1",
+	"modifiedTime":1751544708830,
+	"name":"ep1",
+	"ownerUserId":520,
+	"path":"qwerty",
+	"policyIds":[
+		"66c61cb6ae4ee374fa8a75eb",
+		"66b61acf46f52016f084921a"
+	],
+	"resourceIds":[
+		"66ced8d38bdfc47f95afafb2",
+		"669f3e249383b64e18306274"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

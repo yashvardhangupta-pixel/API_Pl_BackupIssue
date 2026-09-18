@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6762c68383b3d3570d2d9767",
+	"createdTime":1737730243483,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"store/GetStoreDetailsByStoreCode",
+	"httpMethod":"GET",
+	"id":"6763242e83b3d3570d2da83a",
+	"lastModifiedBy":522,
+	"lcName":"get all store details by store code api",
+	"modifiedTime":1751544706627,
+	"name":"Get all store details by Store Code API",
+	"ownerUserId":47808,
+	"path":"GetStoreDetailsByStoreCode",
+	"policyIds":[
+		"6761b893a892a32c7089634c"
+	],
+	"resourceIds":[
+		"676a5b4750f66c6c2320380e"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		null
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}
