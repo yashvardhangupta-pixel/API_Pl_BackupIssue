@@ -1,0 +1,39 @@
+{
+	"apiVersion":"1",
+	"createdTime":1776499627386,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"description":"Automation Test",
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"198042"
+				],
+				"principalType":"USER"
+			}
+		]
+	},
+	"id":"69e33babf6157741c94f6de7",
+	"includeVersionInPath":false,
+	"lastModifiedBy":175325,
+	"lcName":"rbacqaall api group permission collection9435295795",
+	"modifiedTime":1776759205379,
+	"name":"rbacQAall api group permission collection9435295795",
+	"ownerUserId":175325,
+	"path":"activityUzYjYesyPv",
+	"standard":false,
+	"version":2
+}
