@@ -1,0 +1,43 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"690af726a8be24687de033f8",
+	"createdTime":1762326365571,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Custom-auth/test",
+	"id":"690af75da8be24687de033f9",
+	"lastModifiedBy":46218,
+	"lcName":"custom token test",
+	"modifiedTime":1762326376122,
+	"name":"Custom token test",
+	"ownerUserId":46218,
+	"path":"test",
+	"resourceIds":[
+		"685e99c741262f04be452505"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":1
+}
