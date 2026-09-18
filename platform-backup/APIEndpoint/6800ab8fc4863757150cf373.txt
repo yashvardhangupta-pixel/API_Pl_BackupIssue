@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6800ab8cc4863757150cf36f",
+	"createdTime":1744874439379,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"rtCACSExFKOjtEm/automation",
+	"httpMethod":"POST",
+	"id":"6800ab8fc4863757150cf373",
+	"lastModifiedBy":522,
+	"lcName":"changesetlocalvalxa",
+	"modifiedTime":1744874466409,
+	"name":"changeSetLocalVALXa",
+	"ownerUserId":522,
+	"path":"automation",
+	"policyIds":[
+		"6800ab8dc4863757150cf370"
+	],
+	"resourceIds":[
+		"6800ab8ba71e76521a17b76c"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
