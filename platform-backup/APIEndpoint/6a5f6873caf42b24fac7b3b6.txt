@@ -1,0 +1,44 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6a5e54c5d9efee40a8aa1d56",
+	"createdTime":1784637555139,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ai-vision/face-embedding",
+	"id":"6a5f6873caf42b24fac7b3b6",
+	"lastModifiedBy":193045,
+	"lastPlatformUpdateBy":193045,
+	"lastPlatformUpdateOn":1784723205269,
+	"lcName":"extract face embedding ",
+	"modifiedTime":1784723205269,
+	"name":"Extract Face Embedding ",
+	"ownerUserId":193045,
+	"path":"face-embedding",
+	"resourceIds":[
+		"6a5e55dad2c66a7b68a88df2"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
