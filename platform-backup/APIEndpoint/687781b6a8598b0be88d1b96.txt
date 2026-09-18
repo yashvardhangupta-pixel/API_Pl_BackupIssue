@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68778184911a4061f14f527b",
+	"createdTime":1752662454426,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"api-test/endpoint-hello",
+	"id":"687781b6a8598b0be88d1b96",
+	"lastModifiedBy":132116,
+	"lcName":"endpoint_hello",
+	"modifiedTime":1752662560971,
+	"name":"endpoint_hello",
+	"ownerUserId":132116,
+	"path":"endpoint-hello",
+	"resourceIds":[
+		"68775ed7bebed5e34b932233"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":1
+}

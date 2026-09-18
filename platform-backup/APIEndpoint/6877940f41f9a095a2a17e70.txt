@@ -1,0 +1,38 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"687793532c16bce1fd0339d0",
+	"createdTime":1752667151441,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-api-djvk/forwardAllPath",
+	"id":"6877940f41f9a095a2a17e70",
+	"lastModifiedBy":46209,
+	"lcName":"test-api",
+	"modifiedTime":1752667165853,
+	"name":"test-api",
+	"ownerUserId":46209,
+	"path":"forwardAllPath",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://example.com"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":1
+}

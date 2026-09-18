@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"686ba3b7832371411ffd1ef3",
+	"createdTime":1752660440532,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-ratelimit-msg/allPath",
+	"id":"687779d8803c1c8bbf93dd7f",
+	"lastModifiedBy":46209,
+	"lcName":"test-exp-api",
+	"modifiedTime":1752660908523,
+	"name":"test-exp-api",
+	"ownerUserId":46209,
+	"path":"allPath",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://example.com"
+	},
+	"standard":false,
+	"version":3
+}
