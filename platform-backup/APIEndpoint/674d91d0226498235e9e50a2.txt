@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"674d4f2ee51b473b3d1912b1",
+	"createdTime":1733136848659,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-api-plat/test/grpc",
+	"httpMethod":"POST",
+	"id":"674d91d0226498235e9e50a2",
+	"lastModifiedBy":520,
+	"lcName":"test",
+	"modifiedTime":1733136861237,
+	"name":"test",
+	"ownerUserId":520,
+	"path":"test/grpc",
+	"resourceIds":[
+		"674d4f9c2467df09f3321b90"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
