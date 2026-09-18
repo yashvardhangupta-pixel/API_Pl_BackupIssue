@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68ebff70ac38bb6df91f740f",
+	"createdTime":1762501848901,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ai_agent/cors-policy/failure",
+	"id":"690d9085eeaa144f89b1cbe6",
+	"lastModifiedBy":186875,
+	"lcName":"test cors policy failure",
+	"modifiedTime":1762501848901,
+	"name":"test cors policy failure",
+	"ownerUserId":186875,
+	"path":"cors-policy/failure",
+	"policyIds":[
+		"68efb3728b5d243a71b26957"
+	],
+	"resourceIds":[
+		"690d900d36ac3f0d4f41df80"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

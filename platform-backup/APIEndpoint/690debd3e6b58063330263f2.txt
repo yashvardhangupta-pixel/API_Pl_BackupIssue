@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"690debc2e6b58063330263f0",
+	"createdTime":1762520019213,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"api-test--trace/test-api",
+	"id":"690debd3e6b58063330263f2",
+	"lastModifiedBy":33877,
+	"lcName":"test api",
+	"modifiedTime":1762520024286,
+	"name":"test api",
+	"ownerUserId":33877,
+	"path":"test-api",
+	"resourceIds":[
+		"66ec7de9343dbb10068139e8"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":1
+}
