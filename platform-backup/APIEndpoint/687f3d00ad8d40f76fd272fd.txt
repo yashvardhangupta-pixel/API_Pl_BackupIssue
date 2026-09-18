@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687f3cd36e7beb4baaaee6ac",
+	"createdTime":1753169255255,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetLocalCSOEuyCGISAPv/qVwPQ/{name}",
+	"id":"687f3d00ad8d40f76fd272fd",
+	"lastModifiedBy":162004,
+	"lcName":"changesetlocalcsonbftdvgz",
+	"modifiedTime":1753169356094,
+	"name":"changeSetLocalCSOnBfTDVgz",
+	"ownerUserId":162004,
+	"path":"qVwPQ/{name}",
+	"policyIds":[
+		"687f3cc5ad8d40f76fd272f5"
+	],
+	"resourceIds":[
+		"68763d9432b9d5e483e164e4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
