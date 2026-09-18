@@ -1,0 +1,37 @@
+{
+	"createdTime":1717495568650,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"665ee7109451bc4e8f009754",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"hunter profile scraping",
+	"modifiedTime":1751544771684,
+	"name":"hunter profile scraping",
+	"ownerUserId":403,
+	"path":"hunter-profile-scraping",
+	"standard":false,
+	"version":707
+}

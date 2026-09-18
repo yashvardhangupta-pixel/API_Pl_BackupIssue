@@ -1,0 +1,37 @@
+{
+	"createdTime":1717500375282,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"665ef9d7eb4d5e68c5832983",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"qatesting",
+	"modifiedTime":1751544770884,
+	"name":"qatesting",
+	"ownerUserId":206,
+	"path":"qa01",
+	"standard":false,
+	"version":408
+}

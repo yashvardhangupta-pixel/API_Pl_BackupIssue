@@ -1,0 +1,37 @@
+{
+	"createdTime":1718135736265,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"6668abb814953a4ea46cf93a",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"testcollection",
+	"modifiedTime":1751544765797,
+	"name":"testCollection",
+	"ownerUserId":26,
+	"path":"testCollection",
+	"standard":false,
+	"version":704
+}

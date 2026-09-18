@@ -1,0 +1,39 @@
+{
+	"apiVersion":"1",
+	"createdTime":1716295487022,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"description":"oz",
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"664c973f816ec0086e4617ec",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"test lovekesh oz",
+	"modifiedTime":1751544773492,
+	"name":"Test Lovekesh Oz",
+	"ownerUserId":311,
+	"path":"oz",
+	"standard":false,
+	"version":707
+}

@@ -1,0 +1,37 @@
+{
+	"createdTime":1716274216486,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"664c442887b1301cae016db4",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"pincode",
+	"modifiedTime":1751544773640,
+	"name":"pincode",
+	"ownerUserId":206,
+	"path":"checkpincode",
+	"standard":false,
+	"version":707
+}

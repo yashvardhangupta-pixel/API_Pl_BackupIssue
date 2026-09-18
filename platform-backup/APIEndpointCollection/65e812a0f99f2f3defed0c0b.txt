@@ -1,0 +1,38 @@
+{
+	"createdTime":1710592515292,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"description":"Profile API",
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"65e812a0f99f2f3defed0c0b",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"profile apis [do not touch]",
+	"modifiedTime":1751544778189,
+	"name":"Profile APIs [DO NOT TOUCH]",
+	"ownerUserId":32,
+	"path":"profile-api",
+	"standard":false,
+	"version":704
+}

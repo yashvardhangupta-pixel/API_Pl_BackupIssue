@@ -1,0 +1,37 @@
+{
+	"createdTime":1713343769910,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"661f8d19387ba159af40e1f1",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"apiautomation",
+	"modifiedTime":1751544776506,
+	"name":"ApiAutomation",
+	"ownerUserId":174,
+	"path":"ApiAutomation",
+	"standard":false,
+	"version":707
+}

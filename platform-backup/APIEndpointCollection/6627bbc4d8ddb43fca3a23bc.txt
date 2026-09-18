@@ -1,0 +1,37 @@
+{
+	"createdTime":1713880004932,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"6627bbc4d8ddb43fca3a23bc",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"mphasis_case",
+	"modifiedTime":1751544775639,
+	"name":"Mphasis_Case",
+	"ownerUserId":206,
+	"path":"mphasis",
+	"standard":false,
+	"version":709
+}

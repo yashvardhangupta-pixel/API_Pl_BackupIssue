@@ -1,0 +1,37 @@
+{
+	"createdTime":1712408295712,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"661146e7d87315166739b0d9",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"test sajal check",
+	"modifiedTime":1751544778029,
+	"name":"Test Sajal Check",
+	"ownerUserId":100,
+	"path":"pim1",
+	"standard":false,
+	"version":609
+}

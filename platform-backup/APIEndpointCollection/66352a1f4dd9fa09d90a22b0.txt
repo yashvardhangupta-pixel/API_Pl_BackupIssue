@@ -1,0 +1,38 @@
+{
+	"apiVersion":"v1",
+	"createdTime":1714760223169,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"66352a1f4dd9fa09d90a22b0",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"new collection",
+	"modifiedTime":1751544775034,
+	"name":"new collection",
+	"ownerUserId":32,
+	"path":"newapicoll",
+	"standard":false,
+	"version":707
+}

@@ -1,0 +1,39 @@
+{
+	"apiVersion":"1",
+	"createdTime":1716540186102,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"description":"For posting a message about workflow sync being finished or failed from internal API",
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"6650531a6d30e84eb8421655",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"config sync slack webhook",
+	"modifiedTime":1751544772955,
+	"name":"Config Sync Slack Webhook",
+	"ownerUserId":35,
+	"path":"configSlack",
+	"standard":false,
+	"version":706
+}

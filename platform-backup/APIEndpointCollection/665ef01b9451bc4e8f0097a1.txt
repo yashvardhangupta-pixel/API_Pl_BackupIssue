@@ -1,0 +1,37 @@
+{
+	"createdTime":1717497883371,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"665ef01b9451bc4e8f0097a1",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"qa_testing",
+	"modifiedTime":1751544771489,
+	"name":"QA_TESTING",
+	"ownerUserId":206,
+	"path":"qa1",
+	"standard":false,
+	"version":707
+}

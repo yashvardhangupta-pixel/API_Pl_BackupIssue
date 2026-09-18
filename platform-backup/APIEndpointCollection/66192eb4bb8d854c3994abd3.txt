@@ -1,0 +1,38 @@
+{
+	"apiVersion":"1",
+	"createdTime":1712926388114,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"66192eb4bb8d854c3994abd3",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"aryan api collection",
+	"modifiedTime":1751544776874,
+	"name":"Aryan API Collection",
+	"ownerUserId":187,
+	"path":"aryan",
+	"standard":false,
+	"version":709
+}

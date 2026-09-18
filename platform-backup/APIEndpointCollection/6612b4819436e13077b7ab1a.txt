@@ -1,0 +1,38 @@
+{
+	"apiVersion":"1",
+	"createdTime":1712501889202,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"6612b4819436e13077b7ab1a",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"circuit breaker test",
+	"modifiedTime":1751544777591,
+	"name":"Circuit breaker test",
+	"ownerUserId":1,
+	"path":"circuit-breaker-test",
+	"standard":false,
+	"version":671
+}

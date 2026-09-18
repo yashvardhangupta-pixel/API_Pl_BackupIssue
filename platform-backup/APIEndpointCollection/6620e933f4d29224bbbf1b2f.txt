@@ -1,0 +1,38 @@
+{
+	"apiVersion":"1",
+	"createdTime":1713432883865,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"6620e933f4d29224bbbf1b2f",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"testing test",
+	"modifiedTime":1751544776110,
+	"name":"testing test",
+	"ownerUserId":174,
+	"path":"ecom",
+	"standard":false,
+	"version":709
+}

@@ -1,0 +1,37 @@
+{
+	"createdTime":1713345085256,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"661f923d387ba159af40e1f9",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"automation",
+	"modifiedTime":1751544776337,
+	"name":"automation",
+	"ownerUserId":174,
+	"path":"automation",
+	"standard":false,
+	"version":680
+}

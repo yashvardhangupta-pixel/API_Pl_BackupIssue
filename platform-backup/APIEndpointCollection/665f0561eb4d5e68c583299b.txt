@@ -1,0 +1,39 @@
+{
+	"apiVersion":"1",
+	"createdTime":1717503329825,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"description":"This API is created by Aseem for his testing purposes",
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"665f0561eb4d5e68c583299b",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"aseem's test api",
+	"modifiedTime":1751544770404,
+	"name":"Aseem's Test API",
+	"ownerUserId":403,
+	"path":"aseemcalling",
+	"standard":false,
+	"version":673
+}

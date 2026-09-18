@@ -1,0 +1,38 @@
+{
+	"apiVersion":"1",
+	"createdTime":1716359258833,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"664d905a8bfe6a1c00bccf63",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"test lovekesh",
+	"modifiedTime":1751544773144,
+	"name":"Test Lovekesh",
+	"ownerUserId":311,
+	"path":"lovekesh",
+	"standard":false,
+	"version":608
+}

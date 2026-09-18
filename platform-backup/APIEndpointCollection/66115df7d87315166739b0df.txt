@@ -1,0 +1,38 @@
+{
+	"apiVersion":"v1",
+	"createdTime":1712414199034,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"id":"66115df7d87315166739b0df",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"dt app collection",
+	"modifiedTime":1751544777875,
+	"name":"DT APP Collection",
+	"ownerUserId":32,
+	"path":"dtapp",
+	"standard":false,
+	"version":709
+}
