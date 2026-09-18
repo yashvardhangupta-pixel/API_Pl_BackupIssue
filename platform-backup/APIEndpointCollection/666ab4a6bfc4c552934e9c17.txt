@@ -1,0 +1,36 @@
+{
+	"apiVersion":"2",
+	"createdTime":1718269094609,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"description":"test",
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"C",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"597"
+				],
+				"principalType":"USER"
+			}
+		]
+	},
+	"id":"666ab4a6bfc4c552934e9c17",
+	"includeVersionInPath":false,
+	"lastModifiedBy":597,
+	"lcName":"test delete",
+	"modifiedTime":1718269275461,
+	"name":"test delete",
+	"ownerUserId":533,
+	"path":"test-delete",
+	"standard":false,
+	"version":5
+}

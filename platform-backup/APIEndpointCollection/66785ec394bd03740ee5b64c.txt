@@ -1,0 +1,34 @@
+{
+	"apiVersion":"v1",
+	"createdTime":1719164611274,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"C",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"716"
+				],
+				"principalType":"USER"
+			}
+		]
+	},
+	"id":"66785ec394bd03740ee5b64c",
+	"includeVersionInPath":false,
+	"lastModifiedBy":716,
+	"lcName":"pentest03",
+	"modifiedTime":1719164749826,
+	"name":"pentest03",
+	"ownerUserId":34,
+	"path":"pentest03",
+	"standard":false,
+	"version":2
+}
