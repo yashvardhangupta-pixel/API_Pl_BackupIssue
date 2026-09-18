@@ -1,0 +1,45 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69a7589bed80867057cf796b",
+	"createdTime":1772575121500,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateGjPnyGoQSE/AxmyR/{name}",
+	"id":"69a758cc39d3020a694a3c8b",
+	"lastModifiedBy":-1,
+	"lcName":"changesetqa2gdcozjtc",
+	"modifiedTime":1772706952044,
+	"name":"changeSetQA2gdCOzjtC",
+	"ownerUserId":175325,
+	"path":"AxmyR/{name}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":3
+}
