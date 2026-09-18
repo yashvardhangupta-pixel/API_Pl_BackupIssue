@@ -1,0 +1,29 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6899fa0cf171a35d1b80eb4a",
+	"createdTime":1754921503947,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"testapigroup/webhook?resourceId={{RESOURCE_ID}}",
+	"id":"6899fa1ff171a35d1b80eb4b",
+	"lastModifiedBy":161877,
+	"lcName":"webhook",
+	"modifiedTime":1754921503947,
+	"name":"webhook",
+	"ownerUserId":161877,
+	"path":"webhook",
+	"resourceIds":[
+		"6899f87d9f53aa6623b9b962"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}

@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"689a04faf171a35d1b80eb94",
+	"createdTime":1754924315664,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"webhookapi/webhookapi?resourceId={{RESOURCE_ID}}",
+	"id":"689a051bf171a35d1b80eb95",
+	"lastModifiedBy":161877,
+	"lcName":"webhookapi1",
+	"modifiedTime":1754995663714,
+	"name":"webhookapi1",
+	"ownerUserId":161912,
+	"path":"webhookapi",
+	"resourceIds":[
+		"689a048b84cd2e0f29557a43"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
