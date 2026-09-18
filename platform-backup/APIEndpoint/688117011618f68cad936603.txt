@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"688116d81618f68cad936601",
+	"createdTime":1753290575816,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateRpeORMPvxd/BiOng/{name}",
+	"id":"688117011618f68cad936603",
+	"lastModifiedBy":162004,
+	"lcName":"changesetqa2csooauzljpc",
+	"modifiedTime":1753290723416,
+	"name":"changeSetQA2CSOoaUzlJpc",
+	"ownerUserId":162004,
+	"path":"BiOng/{name}",
+	"policyIds":[
+		"688116c9acbdcb2291933511"
+	],
+	"resourceIds":[
+		"68763d9432b9d5e483e164e4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}

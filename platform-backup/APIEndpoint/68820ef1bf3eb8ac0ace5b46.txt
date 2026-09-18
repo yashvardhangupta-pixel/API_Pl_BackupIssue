@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"686b79a596954876cb6c00ea",
+	"createdTime":1753353969922,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"testingbySumit/noauth",
+	"id":"68820ef1bf3eb8ac0ace5b46",
+	"lastModifiedBy":39715,
+	"lcName":"noauth",
+	"modifiedTime":1753420886673,
+	"name":"noauth",
+	"ownerUserId":39715,
+	"path":"noauth",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://sumit.free.beeceptor.com"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":2
+}
