@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69d256ec4579b537c8cb438b",
+	"createdTime":1779886206620,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"generic_ocr/generateFilePath",
+	"id":"69d3ff414579b537c8cb7b5e",
+	"lastModifiedBy":190519,
+	"lcName":"generate file path",
+	"modifiedTime":1779886206620,
+	"name":"Generate File Path",
+	"ownerUserId":190519,
+	"path":"generateFilePath",
+	"resourceIds":[
+		"69d3f8afb630b715c564fa70"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
