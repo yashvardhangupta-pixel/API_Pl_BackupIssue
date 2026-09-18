@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68c8066e0fb9556267a2df6b",
+	"createdTime":1757939539260,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateHlqNYCvYCp/HusTZ/{name}",
+	"id":"68c806990fb9556267a2df78",
+	"lastModifiedBy":-1,
+	"lcName":"changesetqa2csoookkfjrl",
+	"modifiedTime":1757965991738,
+	"name":"changeSetQA2CSOoOKkFjRL",
+	"ownerUserId":175325,
+	"path":"HusTZ/{name}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":3
+}

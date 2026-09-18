@@ -1,0 +1,42 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68c874a1a4349b384ae78274",
+	"createdTime":1757967584559,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dda-test-api/test-api",
+	"id":"68c874e0a4349b384ae78299",
+	"lastModifiedBy":165764,
+	"lcName":"test api",
+	"modifiedTime":1757967584559,
+	"name":"test api",
+	"ownerUserId":165764,
+	"path":"test-api",
+	"resourceIds":[
+		"68c8742465053334dcfd0732"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
