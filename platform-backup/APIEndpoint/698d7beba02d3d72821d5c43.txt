@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"698d7beba02d3d72821d5c42",
+	"createdTime":1770879979715,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"SSE API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"sindhu/mcp/sse",
+	"httpMethod":"GET",
+	"id":"698d7beba02d3d72821d5c43",
+	"lastModifiedBy":196524,
+	"lcName":"sse",
+	"modifiedTime":1770879979715,
+	"name":"SSE",
+	"ownerUserId":196524,
+	"path":"mcp/sse",
+	"resourceIds":[
+		"67dd3e1d24f9fb5bd409af36"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}

@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"698d7beba02d3d72821d5c42",
+	"createdTime":1770879979795,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"JSON-RPC API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"sindhu/mcp/messages",
+	"httpMethod":"POST",
+	"id":"698d7beba02d3d72821d5c44",
+	"lastModifiedBy":196524,
+	"lcName":"json-rpc",
+	"modifiedTime":1770879979795,
+	"name":"JSON-RPC",
+	"ownerUserId":196524,
+	"path":"mcp/messages",
+	"resourceIds":[
+		"67dbf54e6b0a2f279887d047"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
