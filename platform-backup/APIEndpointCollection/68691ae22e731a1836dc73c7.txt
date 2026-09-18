@@ -1,0 +1,38 @@
+{
+	"createdTime":1751718626011,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"id":"68691ae22e731a1836dc73c7",
+	"includeVersionInPath":false,
+	"lastModifiedBy":39713,
+	"lcName":"test-custom-error-msg",
+	"modifiedTime":1751896939247,
+	"name":"test-custom-error-msg",
+	"ownerUserId":39713,
+	"path":"test-custom-error-msg",
+	"standard":false,
+	"telemetryConfig":{
+		"enableTelemetry":true,
+		"metricConfigs":[
+			{
+				"buckets":[
+					10.0,
+					500.0
+				],
+				"eventType":"ALWAYS",
+				"metricType":"API_EXECUTION_DURATION",
+				"name":"tfghjks",
+				"tags":[
+					{
+						"key":"tag1",
+						"value":"{{ authType }}"
+					}
+				]
+			}
+		]
+	},
+	"version":2
+}
