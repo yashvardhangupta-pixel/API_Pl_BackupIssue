@@ -1,0 +1,40 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68978370d60feecc323f131a",
+	"createdTime":1754802129087,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"poiuy/jst-Testing?resourceId={{RESOURCE_ID}}",
+	"fallbackResponse":{
+		"headers":{
+			"a":"sdfs"
+		},
+		"message":"Ok",
+		"response":{},
+		"soapResponse":"",
+		"statusCode":200
+	},
+	"id":"689827d1d60feecc323f16bb",
+	"lastModifiedBy":67744,
+	"lcName":"jst testing",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1754808504912,
+	"name":"jst Testing",
+	"ownerUserId":67744,
+	"path":"jst-Testing",
+	"resourceIds":[
+		"68971b0082657ee11d35ec7d"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":8
+}

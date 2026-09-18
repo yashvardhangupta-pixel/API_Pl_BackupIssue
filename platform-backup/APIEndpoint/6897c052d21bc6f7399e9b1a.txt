@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6897c029d21bc6f7399e9b12",
+	"createdTime":1754775771878,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateIJBuFsnUce/MSplt/{name}",
+	"id":"6897c052d21bc6f7399e9b1a",
+	"lastModifiedBy":162004,
+	"lcName":"changesetqa2csossqygtpd",
+	"modifiedTime":1754775944451,
+	"name":"changeSetQA2CSOSSqygTPd",
+	"ownerUserId":162004,
+	"path":"MSplt/{name}",
+	"policyIds":[
+		"6897c015d21bc6f7399e9b0b"
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
