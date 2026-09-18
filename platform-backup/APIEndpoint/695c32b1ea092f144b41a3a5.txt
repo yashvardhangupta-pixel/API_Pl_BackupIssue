@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"695c3286ea092f144b41a396",
+	"createdTime":1767650134144,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateLobLOIadsW/lEzPu/{name}",
+	"id":"695c32b1ea092f144b41a3a5",
+	"lastModifiedBy":-1,
+	"lcName":"changesetqa2vhzoulta",
+	"modifiedTime":1767653497754,
+	"name":"changeSetQA2vhzoulTa",
+	"ownerUserId":175325,
+	"path":"lEzPu/{name}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":3
+}
