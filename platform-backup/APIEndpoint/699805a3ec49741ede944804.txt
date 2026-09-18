@@ -1,0 +1,57 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6996f7356c107953e6c02658",
+	"createdTime":1771570595729,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"API with CORS , Request Validator and Request Transformer",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"divyansh-learn-task/ask-ai",
+	"id":"699805a3ec49741ede944804",
+	"lastModifiedBy":196002,
+	"lcName":"ai support bot",
+	"llmRequestType":"CHAT",
+	"modifiedTime":1771777142155,
+	"name":"AI Support Bot",
+	"ownerUserId":196002,
+	"path":"ask-ai",
+	"policyIds":[
+		"69983f7273bb9367498d2ab5",
+		"6997f96eec49741ede944105",
+		"6997fb27ec49741ede94411b",
+		"699803b7ec49741ede94414f"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"followRedirects":"NORMAL",
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"httpVersion":"HTTP_2",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://api.openai.com/v1/responses"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":10
+}
