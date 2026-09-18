@@ -1,0 +1,44 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68e7b77d10bf7a11c6fd3608",
+	"createdTime":1760092106365,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dummyCollection/callable-api-redirect-api",
+	"id":"68e8dfca9a1549605abc3355",
+	"lastModifiedBy":122909,
+	"lcName":"callable api redirect api",
+	"modifiedTime":1760092109212,
+	"name":"callable api redirect api",
+	"ownerUserId":122909,
+	"path":"callable-api-redirect-api",
+	"resourceIds":[
+		"68e54424f115a47e55592cfc"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"HEAD",
+		"DELETE",
+		"POST",
+		"GET",
+		"PUT",
+		"PATCH"
+	],
+	"version":1
+}
