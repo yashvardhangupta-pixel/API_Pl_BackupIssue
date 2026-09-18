@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67ebb4689fcd10206077c459",
+	"createdTime":1743686860632,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"traceTelemetry/new1?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67ee8ccc046f4208f1c29995",
+	"lastModifiedBy":4130,
+	"lcName":"new1",
+	"modifiedTime":1743687135294,
+	"name":"new1",
+	"ownerUserId":426,
+	"path":"new1",
+	"resourceIds":[
+		"67ee3e3d7f8bf32b24e91290"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

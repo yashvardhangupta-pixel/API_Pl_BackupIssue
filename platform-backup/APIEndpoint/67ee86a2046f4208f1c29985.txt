@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67ebb4689fcd10206077c459",
+	"createdTime":1743685282728,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"traceTelemetry/abcd12?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67ee86a2046f4208f1c29985",
+	"lastModifiedBy":426,
+	"lcName":"abcd12",
+	"modifiedTime":1743686724867,
+	"name":"abcd12",
+	"ownerUserId":426,
+	"path":"abcd12",
+	"resourceIds":[
+		"67ee7662479bb631629a3598"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
