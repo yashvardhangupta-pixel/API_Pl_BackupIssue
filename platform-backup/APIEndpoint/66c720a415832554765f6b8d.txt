@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":200,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"66a2a141a6e9332e000da1bf",
+	"createdTime":1724326052259,
+	"customizeTimeout":true,
+	"deleted":false,
+	"description":"add-hdfc-templates",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ai/add/templates",
+	"httpMethod":"POST",
+	"id":"66c720a415832554765f6b8d",
+	"lastModifiedBy":295,
+	"lcName":"add-hdfc-templates",
+	"modifiedTime":1724326055349,
+	"name":"add-hdfc-templates",
+	"ownerUserId":295,
+	"path":"add/templates",
+	"resourceIds":[
+		"66c720135472672ea2bc1405"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

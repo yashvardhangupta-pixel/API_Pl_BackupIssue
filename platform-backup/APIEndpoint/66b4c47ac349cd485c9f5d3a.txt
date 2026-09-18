@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":3000,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"66a2a141a6e9332e000da1bf",
+	"createdTime":1723122810162,
+	"customizeTimeout":true,
+	"deleted":false,
+	"description":"Workflow file for each schema",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ai/workflow/generate",
+	"httpMethod":"POST",
+	"id":"66b4c47ac349cd485c9f5d3a",
+	"lastModifiedBy":295,
+	"lcName":"workflow-file",
+	"modifiedTime":1723136838504,
+	"name":"workflow-file",
+	"ownerUserId":295,
+	"path":"workflow/generate",
+	"resourceIds":[
+		"66b4b83124def45e00de7eab"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
