@@ -1,0 +1,19 @@
+{
+	"createdTime":1749132007058,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"description":"This API group manages the VTEX Master Data API integration for CL (Client) entity, handling separate downstream endpoints by country (different domain and security token by country) grouped into a single upstream endpoint with its own security (key-auth token + ACL) and CORS rules.",
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"id":"6841a2e7ebab6148d6eb05e4",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"vtex master data cl api",
+	"modifiedTime":1751544613507,
+	"name":"VTEX Master Data CL API",
+	"ownerUserId":46218,
+	"path":"vtex-master-data-cl",
+	"standard":false,
+	"version":1
+}
