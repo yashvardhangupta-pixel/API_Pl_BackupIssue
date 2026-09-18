@@ -1,0 +1,36 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a08d50d5bc9363f31f6c0b",
+	"createdTime":1756363664170,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ctest/report",
+	"id":"68affb90e25cf00f34c71748",
+	"lastModifiedBy":31268,
+	"lcName":"report services",
+	"modifiedTime":1763194487417,
+	"name":"report services",
+	"ownerUserId":161958,
+	"path":"report",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://ecgy-dev2.fa.ap2.oraclecloud.com/xmlpserver/services/v2/ReportService"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

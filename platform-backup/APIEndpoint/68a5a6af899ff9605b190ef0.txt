@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a5a414d805bd7745608c85",
+	"createdTime":1755686575377,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"virtusa/salary",
+	"id":"68a5a6af899ff9605b190ef0",
+	"lastModifiedBy":31268,
+	"lcName":"salaries",
+	"modifiedTime":1763194476737,
+	"name":"salaries",
+	"ownerUserId":161958,
+	"path":"salary",
+	"policyIds":[
+		"68944c0f9058a7d7ba7833ab",
+		"688fbb46089d6ba8e51176d5"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://ecgy-dev2.fa.ap2.oraclecloud.com/hcmRestApi/resources/11.13.18.05/salaries"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":32
+}

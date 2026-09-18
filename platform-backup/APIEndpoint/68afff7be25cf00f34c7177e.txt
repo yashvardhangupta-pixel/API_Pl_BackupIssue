@@ -1,0 +1,36 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a08d50d5bc9363f31f6c0b",
+	"createdTime":1756364667170,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ctest/person",
+	"id":"68afff7be25cf00f34c7177e",
+	"lastModifiedBy":31268,
+	"lcName":"person-services",
+	"modifiedTime":1763194487417,
+	"name":"person-services",
+	"ownerUserId":161958,
+	"path":"person",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://ecgy-dev2.fa.ap2.oraclecloud.com:443/crmService/FoundationPartiesPersonService"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}

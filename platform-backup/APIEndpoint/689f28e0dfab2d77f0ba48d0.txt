@@ -1,0 +1,41 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"689f25f3dfab2d77f0ba48ba",
+	"createdTime":1755261152844,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"vta/v1/task",
+	"id":"689f28e0dfab2d77f0ba48d0",
+	"lastModifiedBy":31268,
+	"lcName":"testjjjjjjj",
+	"modifiedTime":1763194490744,
+	"name":"testjjjjjjj",
+	"ownerUserId":161958,
+	"path":"task",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"68b2ae20b33f2664d5f16a4a"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://catfact.ninja/fact"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":21
+}

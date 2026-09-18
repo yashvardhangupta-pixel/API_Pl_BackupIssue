@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6892de2fb8161238aa52bd35",
+	"createdTime":1754455642463,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"virtusa-sanity-api-/virtusa-api-sanity",
+	"id":"6892de5ab8161238aa52bd36",
+	"lastModifiedBy":31268,
+	"lcName":"virtusa api sanity",
+	"modifiedTime":1763194493485,
+	"name":"virtusa api sanity",
+	"ownerUserId":31268,
+	"path":"virtusa-api-sanity",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://catfact.ninja/fact"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

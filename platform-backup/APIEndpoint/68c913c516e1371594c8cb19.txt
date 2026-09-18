@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"689f25f3dfab2d77f0ba48ba",
+	"createdTime":1758008261912,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"vta/v1/multi",
+	"id":"68c913c516e1371594c8cb19",
+	"lastModifiedBy":31268,
+	"lcName":"multipart",
+	"modifiedTime":1763194490744,
+	"name":"multipart",
+	"ownerUserId":161958,
+	"path":"multi",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://login.microsoftonline.com/0d85160c-5899-44ca-acc8-db1501b993b6/oauth2/token"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

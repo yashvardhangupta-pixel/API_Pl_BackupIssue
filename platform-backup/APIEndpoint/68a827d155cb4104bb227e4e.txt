@@ -1,0 +1,36 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a5a414d805bd7745608c85",
+	"createdTime":1755850705921,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"virtusa/cat",
+	"id":"68a827d155cb4104bb227e4e",
+	"lastModifiedBy":31268,
+	"lcName":"cat",
+	"modifiedTime":1763194476737,
+	"name":"cat",
+	"ownerUserId":161958,
+	"path":"cat",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://official-joke-api.appspot.com/random_joke"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}

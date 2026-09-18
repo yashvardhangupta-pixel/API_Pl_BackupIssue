@@ -1,0 +1,36 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a08d50d5bc9363f31f6c0b",
+	"createdTime":1756109750005,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ctest/testauth",
+	"id":"68ac1bb62f5e6b1d7aa111ce",
+	"lastModifiedBy":31268,
+	"lcName":"testauth",
+	"modifiedTime":1763194487417,
+	"name":"testauth",
+	"ownerUserId":161958,
+	"path":"testauth",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://ecgy-dev2.fa.ap2.oraclecloud.com/crmService/FoundationPartiesPersonService"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":8
+}

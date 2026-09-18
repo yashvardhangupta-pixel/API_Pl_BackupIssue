@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a08d50d5bc9363f31f6c0b",
+	"createdTime":1755512727683,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ctest/salaries",
+	"id":"68a2ff97f15e802c602c23e9",
+	"lastModifiedBy":31268,
+	"lcName":"salary",
+	"modifiedTime":1763194487417,
+	"name":"salary",
+	"ownerUserId":161958,
+	"path":"salaries",
+	"policyIds":[
+		"68a2ffd9f15e802c602c23ea"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://ecgy-dev2.fa.ap2.oraclecloud.com/hcmRestApi/resources/11.13.18.05/salaries"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":8
+}

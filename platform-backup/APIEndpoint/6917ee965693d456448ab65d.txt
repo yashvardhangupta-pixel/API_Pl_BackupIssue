@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6917ee38b0057168c3e36477",
+	"createdTime":1763176216456,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateHMairDohNk/bcXmg/{name}",
+	"id":"6917ee965693d456448ab65d",
+	"lastModifiedBy":517,
+	"lcName":"changesetqa2zzkvbrospynsvneprmnf",
+	"modifiedTime":1763190734233,
+	"name":"changeSetQA2zzKvbrospynSvnEprMNf",
+	"ownerUserId":175325,
+	"path":"bcXmg/{name}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688de7eba5f2e0fbfddec658"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PATCH",
+		"PUT"
+	],
+	"version":3
+}

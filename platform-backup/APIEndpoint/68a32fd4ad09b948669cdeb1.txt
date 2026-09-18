@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a08d50d5bc9363f31f6c0b",
+	"createdTime":1755525076317,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ctest/token",
+	"id":"68a32fd4ad09b948669cdeb1",
+	"lastModifiedBy":31268,
+	"lcName":"getaccesstoken",
+	"modifiedTime":1763194487417,
+	"name":"getAccessToken",
+	"ownerUserId":161958,
+	"path":"token",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://login.microsoftonline.com/0d85160c-5899-44ca-acc8-db1501b993b6/oauth2/token"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
