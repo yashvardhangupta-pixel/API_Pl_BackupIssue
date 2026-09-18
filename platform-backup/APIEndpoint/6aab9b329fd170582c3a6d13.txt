@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6aab9b2f9fd170582c3a6d11",
+	"createdTime":1789631282245,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Streamable HTTP API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"kv--j/mcp/streamableHTTP",
+	"httpMethod":"POST",
+	"id":"6aab9b329fd170582c3a6d13",
+	"lastModifiedBy":200727,
+	"lastPlatformUpdateBy":200727,
+	"lastPlatformUpdateOn":1789631282245,
+	"lcName":"streamable http",
+	"modifiedTime":1789631282245,
+	"name":"Streamable HTTP",
+	"ownerUserId":200727,
+	"path":"mcp/streamableHTTP",
+	"resourceIds":[
+		"68b981d3da641f06bd18f1f5"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
