@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68937c1c17aecf260f81c2fa",
+	"createdTime":1754496120172,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-policy-env/{{ systemInputs.__ENV__.testenv }}",
+	"id":"68937c7817aecf260f81c2fb",
+	"lastModifiedBy":46209,
+	"lcName":"policy-env-api",
+	"modifiedTime":1754654161523,
+	"name":"policy-env-api",
+	"ownerUserId":46209,
+	"path":"{{ systemInputs.__ENV__.testenv }}",
+	"policyIds":[
+		"689380a004070ced4725ff68",
+		"689381b604070ced4725ff75"
+	],
+	"resourceIds":[
+		"68937c459368304921ba01be"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":11
+}
