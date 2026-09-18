@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6876188dc64435d8af454779",
+	"createdTime":1752570016293,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-local/s3",
+	"id":"687618a0c889bd54cd48a745",
+	"lastModifiedBy":508,
+	"lcName":"s3",
+	"modifiedTime":1752570018456,
+	"name":"s3",
+	"ownerUserId":508,
+	"path":"s3",
+	"resourceIds":[
+		"687618134e82d2b524967c0f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PUT",
+		"PATCH"
+	],
+	"version":1
+}

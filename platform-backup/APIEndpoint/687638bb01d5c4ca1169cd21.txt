@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687638a301d5c4ca1169cd1e",
+	"createdTime":1752578235525,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"api-to-be-called/apicalled",
+	"id":"687638bb01d5c4ca1169cd21",
+	"lastModifiedBy":31268,
+	"lcName":"apicalled",
+	"modifiedTime":1752578239190,
+	"name":"apicalled",
+	"ownerUserId":31268,
+	"path":"apicalled",
+	"resourceIds":[
+		"687638635c4aaf34627160ec"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

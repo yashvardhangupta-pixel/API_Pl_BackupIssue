@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6876397311de068a02ceaa2e",
+	"createdTime":1752578646822,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"api-called/testing",
+	"id":"68763a5611de068a02ceaa32",
+	"lastModifiedBy":31268,
+	"lcName":"api",
+	"modifiedTime":1752578692775,
+	"name":"api",
+	"ownerUserId":31268,
+	"path":"testing",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"{{ systemInputs.__ENV__.move2 }}"
+	},
+	"standard":false,
+	"version":2
+}

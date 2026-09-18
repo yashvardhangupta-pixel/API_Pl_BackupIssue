@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68667789e979370315d5347b",
+	"createdTime":1752594685056,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"check-duplicate-collection-paths/rest?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6876787f1a45e8237c7fc7b0",
+	"lastModifiedBy":508,
+	"lcName":"rest",
+	"modifiedTime":1752594685056,
+	"name":"rest",
+	"ownerUserId":508,
+	"path":"rest",
+	"resourceIds":[
+		"6810f5321af6d44f113b0d41"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

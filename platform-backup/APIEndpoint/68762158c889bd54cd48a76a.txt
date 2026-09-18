@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68762136c889bd54cd48a769",
+	"createdTime":1752572248506,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"face-recognition/test",
+	"id":"68762158c889bd54cd48a76a",
+	"lastModifiedBy":32562,
+	"lcName":"test face recognition via api",
+	"modifiedTime":1752572268318,
+	"name":"Test Face Recognition via API",
+	"ownerUserId":32562,
+	"path":"test",
+	"resourceIds":[
+		"687620b2430a3d9cff166819"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

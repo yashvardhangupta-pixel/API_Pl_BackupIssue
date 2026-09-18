@@ -1,0 +1,37 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6874db94d746fc12937a3dc2",
+	"createdTime":1752489014687,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Env-var-testing/{{ systemInputs.__ENV__.changeSetQA26768016796 }}",
+	"id":"6874dc36eef81930c9971906",
+	"lastModifiedBy":426,
+	"lcName":"envtest",
+	"modifiedTime":1752575372343,
+	"name":"envtest",
+	"ownerUserId":31268,
+	"path":"{{ systemInputs.__ENV__.changeSetQA26768016796 }}",
+	"resourceIds":[
+		"686ec6d07d36d6523041a6db"
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"{{ systemInputs.__ENV__.jvvjhbjk }}"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}
