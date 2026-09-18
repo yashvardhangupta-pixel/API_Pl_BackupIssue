@@ -1,0 +1,51 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":true,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69ecb51c8be8241d87923c5c",
+	"createdTime":1777120950395,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"just testing this how to make API",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"vikash-API/testing-API?resourceId={{RESOURCE_ID}}",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Bad Request",
+		"response":{},
+		"soapResponse":"",
+		"statusCode":400
+	},
+	"id":"69ecb6b68be8241d87923c92",
+	"lastModifiedBy":196454,
+	"lcName":"testing_api",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1777121483748,
+	"name":"testing_API",
+	"ownerUserId":196454,
+	"path":"testing-API",
+	"resourceIds":[
+		"69ecb601fe55f62b9623bd5d"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"tags":[
+		"Test"
+	],
+	"version":3
+}
