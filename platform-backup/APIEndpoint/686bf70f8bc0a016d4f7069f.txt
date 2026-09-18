@@ -1,0 +1,38 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6867b2833c11e5194519ada8",
+	"createdTime":1751906063209,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"apigroup-ub/test-retry",
+	"id":"686bf70f8bc0a016d4f7069f",
+	"lastModifiedBy":44567,
+	"lcName":"test_retry",
+	"modifiedTime":1751953108606,
+	"name":"test_retry",
+	"ownerUserId":44567,
+	"path":"test-retry",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://httpstat.us/500"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":7
+}

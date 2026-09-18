@@ -1,0 +1,50 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68691ae22e731a1836dc73c7",
+	"createdTime":1751719334021,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-custom-error-msg/1",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Bad Request",
+		"response":{
+			"msg":"invalid req"
+		},
+		"soapResponse":"",
+		"statusCode":400
+	},
+	"id":"68691da679f23e28332bfae7",
+	"lastModifiedBy":39713,
+	"lcName":"test",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1751896712801,
+	"name":"test",
+	"ownerUserId":39713,
+	"path":"1",
+	"resourceIds":[
+		"686778ce78546c6b5718413a"
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://cannyio.free.beeceptor.com"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET",
+		"PUT"
+	],
+	"version":11
+}
