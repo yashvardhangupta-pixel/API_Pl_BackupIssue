@@ -1,0 +1,39 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"693a9d948ad04542d77fd6ca",
+	"createdTime":1765449253180,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Even-numbers-in-given-range-/users/12345",
+	"id":"693a9e258ad04542d77fd6d0",
+	"lastModifiedBy":193359,
+	"lcName":"even numbers in given range ",
+	"modifiedTime":1765449253180,
+	"name":"Even Numbers in given range ",
+	"ownerUserId":193359,
+	"path":"users/12345",
+	"resourceIds":[
+		"693a6a53866f9460fa7f2feb"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
