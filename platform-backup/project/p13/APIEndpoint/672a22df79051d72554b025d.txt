@@ -1,0 +1,39 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"672a101479051d72554b020a",
+	"createdTime":1730814687578,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"Twillio Lookup V2 API",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"Twillio-Lookup-V2-API/Twillio-Lookup-V2-API",
+	"httpMethod":"GET",
+	"id":"672a22df79051d72554b025d",
+	"lastModifiedBy":520,
+	"lcName":"twillio lookup v3 api",
+	"modifiedTime":1730829835914,
+	"name":"Twillio Lookup V3 API",
+	"ownerUserId":520,
+	"path":"Twillio-Lookup-V2-API",
+	"projectId":13,
+	"resourceIds":[
+		null
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://lookups.twilio.com/v2/PhoneNumbers/{PhoneNumber}?Fields=line_type_intelligence"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

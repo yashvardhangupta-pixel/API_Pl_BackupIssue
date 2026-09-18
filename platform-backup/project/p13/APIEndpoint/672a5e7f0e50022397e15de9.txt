@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"672a101479051d72554b020a",
+	"createdTime":1730829951252,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Send project details ",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Twillio-Lookup-V2-API/project_gid",
+	"httpMethod":"GET",
+	"id":"672a5e7f0e50022397e15de9",
+	"lastModifiedBy":520,
+	"lcName":"asana project details",
+	"modifiedTime":1730830033998,
+	"name":"Asana Project Details",
+	"ownerUserId":520,
+	"path":"project_gid",
+	"policyIds":[
+		"6694e8ec7f31f534484e708f"
+	],
+	"projectId":13,
+	"resourceIds":[
+		"672a0d4ba5e1746066b4e32d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://app.asana.com/api/1.0/projects"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

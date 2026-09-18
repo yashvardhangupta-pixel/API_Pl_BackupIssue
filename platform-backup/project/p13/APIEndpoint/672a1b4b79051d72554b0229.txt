@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"672a101479051d72554b020a",
+	"createdTime":1730812747055,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Twillio-Lookup-V2-API/line_type_intellengence",
+	"httpMethod":"GET",
+	"id":"672a1b4b79051d72554b0229",
+	"lastModifiedBy":520,
+	"lcName":"twillio lookup v2 api",
+	"modifiedTime":1730829839082,
+	"name":"Twillio Lookup V2 API",
+	"ownerUserId":520,
+	"path":"line_type_intellengence",
+	"projectId":13,
+	"resourceIds":[
+		"672a0d4ba5e1746066b4e32d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

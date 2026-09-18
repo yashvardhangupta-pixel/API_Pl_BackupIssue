@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"672a101479051d72554b020a",
+	"createdTime":1730815326265,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Twillio-Lookup-V2-API/create_account",
+	"httpMethod":"POST",
+	"id":"672a255e79051d72554b0261",
+	"lastModifiedBy":520,
+	"lcName":"twillio lookup v3 api",
+	"modifiedTime":1730829832450,
+	"name":"Twillio Lookup V3 API",
+	"ownerUserId":520,
+	"path":"create_account",
+	"policyIds":[
+		"6694e8ec7f31f534484e708f"
+	],
+	"projectId":13,
+	"resourceIds":[
+		"672a0d4ba5e1746066b4e32d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
