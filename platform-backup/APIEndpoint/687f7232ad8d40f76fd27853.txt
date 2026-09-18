@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687f720dad8d40f76fd27851",
+	"createdTime":1753182846166,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdatefIYPgidhWi/epMRs/{name}",
+	"id":"687f7232ad8d40f76fd27853",
+	"lastModifiedBy":162004,
+	"lcName":"changesetqa2csohgzptcxp",
+	"modifiedTime":1753182987570,
+	"name":"changeSetQA2CSOhgZpTcxP",
+	"ownerUserId":162004,
+	"path":"epMRs/{name}",
+	"policyIds":[
+		"687f71fdad8d40f76fd27848"
+	],
+	"resourceIds":[
+		"68763d9432b9d5e483e164e4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
