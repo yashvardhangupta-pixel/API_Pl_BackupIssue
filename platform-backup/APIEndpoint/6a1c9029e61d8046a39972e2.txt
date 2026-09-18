@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6a1c900bbed27431abac9a0c",
+	"createdTime":1780256809598,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Test---Prachi/Prachi-loves-Greif",
+	"id":"6a1c9029e61d8046a39972e2",
+	"lastModifiedBy":48069,
+	"lcName":"prachi loves greif",
+	"modifiedTime":1780256871241,
+	"name":"Prachi loves Greif",
+	"ownerUserId":48069,
+	"path":"Prachi-loves-Greif",
+	"resourceIds":[
+		"6a1c8e840bda035ed1d89fb2"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
