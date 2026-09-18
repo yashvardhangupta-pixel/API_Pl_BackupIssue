@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6638e4626772944f7ec1159d",
+	"createdTime":1715004528034,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"kavish-api/trigger",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"6638e4706772944f7ec1159e",
+	"lastModifiedBy":522,
+	"lcName":"trigger workflow",
+	"modifiedTime":1751544774695,
+	"name":"trigger workflow",
+	"ownerUserId":283,
+	"path":"trigger",
+	"resourceIds":[
+		"6638d49820a7ef7511663137"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":63
+}

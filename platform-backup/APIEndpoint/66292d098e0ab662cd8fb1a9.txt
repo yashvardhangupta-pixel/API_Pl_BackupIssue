@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6627bbc4d8ddb43fca3a23bc",
+	"createdTime":1713974537433,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"mphasis/message",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"66292d098e0ab662cd8fb1a9",
+	"lastModifiedBy":522,
+	"lcName":"fetch message by message id",
+	"modifiedTime":1751544775642,
+	"name":"Fetch message by Message id",
+	"ownerUserId":32,
+	"path":"message",
+	"resourceIds":[
+		"66292c93358b7f1a6e4977c8"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":64
+}

@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"665426e65bd1d73c1e93dc65",
+	"createdTime":1716791035914,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"vk/delaynode",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"665426fb5bd1d73c1e93dc66",
+	"lastModifiedBy":522,
+	"lcName":"delay node -trigger",
+	"modifiedTime":1751544772805,
+	"name":"Delay Node -Trigger",
+	"ownerUserId":34,
+	"path":"delaynode",
+	"resourceIds":[
+		"6654265d72e8092ada00625c"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":64
+}

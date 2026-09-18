@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"664cec8d61d91150c2217b24",
+	"createdTime":1716317396836,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"walkme-flows--DO-NOT-EDIT-/Elastic-Search-Integration",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"664cecd461d91150c2217b25",
+	"lastModifiedBy":522,
+	"lcName":"elastic search integration",
+	"modifiedTime":1751544773347,
+	"name":"Elastic Search Integration",
+	"ownerUserId":206,
+	"path":"Elastic-Search-Integration",
+	"resourceIds":[
+		"664c88f909738174bc4269d9"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":63
+}

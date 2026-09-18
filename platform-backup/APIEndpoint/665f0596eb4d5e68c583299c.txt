@@ -1,0 +1,49 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"665f0561eb4d5e68c583299b",
+	"createdTime":1717503382137,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"This Endpoint is created by Aseem for testing purposes",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"aseemcalling/test",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"665f0596eb4d5e68c583299c",
+	"lastModifiedBy":522,
+	"lcName":"aseem's test endpoint",
+	"modifiedTime":1751544770407,
+	"name":"Aseem's Test Endpoint",
+	"ownerUserId":403,
+	"path":"test",
+	"resourceIds":[
+		"665f0245005e455d57c54ff2"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":63
+}

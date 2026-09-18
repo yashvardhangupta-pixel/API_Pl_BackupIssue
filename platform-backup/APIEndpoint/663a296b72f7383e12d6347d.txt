@@ -1,0 +1,48 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6620e933f4d29224bbbf1b2f",
+	"createdTime":1715087723771,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ecom/testingcache",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"663a296b72f7383e12d6347d",
+	"lastModifiedBy":522,
+	"lcName":"testing cache",
+	"modifiedTime":1751544776113,
+	"name":"testing cache",
+	"ownerUserId":206,
+	"path":"testingcache",
+	"resourceIds":[
+		"663a24c5dc7c6e005821e227"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":65
+}

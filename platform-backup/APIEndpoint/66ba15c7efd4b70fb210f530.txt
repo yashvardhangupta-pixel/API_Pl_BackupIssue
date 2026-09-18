@@ -1,0 +1,39 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"664a36c99ff4d551daf55f42",
+	"createdTime":1723471303402,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"rate-limit-vinay/async2",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Success",
+		"response":{
+			"value":3
+		},
+		"statusCode":200
+	},
+	"httpMethod":"GET",
+	"id":"66ba15c7efd4b70fb210f530",
+	"lastModifiedBy":522,
+	"lcName":"test async 2",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1751544773816,
+	"name":"test async 2",
+	"ownerUserId":287,
+	"path":"async2",
+	"resourceIds":[
+		"66ba10e4ebc1ef297da759f0"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

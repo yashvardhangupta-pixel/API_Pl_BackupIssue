@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6627bbc4d8ddb43fca3a23bc",
+	"createdTime":1713967318594,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"mphasis/fetchconversation",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"662910d66ed42e6677edc5ea",
+	"lastModifiedBy":522,
+	"lcName":"fetch conversation",
+	"modifiedTime":1751544775642,
+	"name":"Fetch Conversation",
+	"ownerUserId":206,
+	"path":"fetchconversation",
+	"resourceIds":[
+		"6628ba21c0144a33019f4816"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":66
+}

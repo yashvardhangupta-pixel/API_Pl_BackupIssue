@@ -1,0 +1,43 @@
+{
+	"active":false,
+	"apiTimeout":{
+		"duration":30,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":true,
+	"cacheSettings":{
+		"cacheKeys":[
+			
+		],
+		"ttl":{
+			"duration":600,
+			"unit":"HOURS"
+		}
+	},
+	"collectionId":"666938d3bb1f1c0107896794",
+	"createdTime":1719833581925,
+	"customizeTimeout":true,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test1234/test",
+	"httpMethod":"GET",
+	"id":"668293edbb76ab0f386f4836",
+	"lastModifiedBy":522,
+	"lcName":"test ",
+	"modifiedTime":1751544765046,
+	"name":"test ",
+	"ownerUserId":282,
+	"path":"test",
+	"resourceIds":[
+		"66267681df7ffd5cd939bb6f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"667a3c1ccf3bc008d488a486",
+	"createdTime":1719286838542,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"data-catalog-load/trigger?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"667a3c36cf3bc008d488a487",
+	"lastModifiedBy":522,
+	"lcName":"endpoint",
+	"modifiedTime":1751544760616,
+	"name":"endpoint",
+	"ownerUserId":1,
+	"path":"trigger",
+	"resourceIds":[
+		"66764a123f7c4563829ca8b7"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

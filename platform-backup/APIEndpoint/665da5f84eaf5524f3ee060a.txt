@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"665da5da4eaf5524f3ee0609",
+	"createdTime":1717413368854,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"kavish-webhooks/var_webhook?resourceId={{RESOURCE_ID}}",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"665da5f84eaf5524f3ee060a",
+	"lastModifiedBy":522,
+	"lcName":"test var",
+	"modifiedTime":1751544772056,
+	"name":"test var",
+	"ownerUserId":1,
+	"path":"var_webhook",
+	"resourceIds":[
+		"665d9fc5456c1d45bdf3235e"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":63
+}

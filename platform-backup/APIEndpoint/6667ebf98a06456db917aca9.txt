@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"666782238a06456db917ab9d",
+	"createdTime":1718086649976,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"rbac07/delay?resourceId={{RESOURCE_ID}}",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"6667ebf98a06456db917aca9",
+	"lastModifiedBy":522,
+	"lcName":"delay node",
+	"modifiedTime":1751544767727,
+	"name":"delay node",
+	"ownerUserId":34,
+	"path":"delay",
+	"resourceIds":[
+		"6667eac4f13907399d582be8"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":63
+}

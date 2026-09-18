@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6620e933f4d29224bbbf1b2f",
+	"createdTime":1713432923581,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ecom/users",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"6620e95bf4d29224bbbf1b30",
+	"lastModifiedBy":522,
+	"lcName":"get users",
+	"modifiedTime":1751544776113,
+	"name":"Get Users",
+	"ownerUserId":174,
+	"path":"users",
+	"resourceIds":[
+		"6620d4200ec3ad6769db3e18"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":63
+}

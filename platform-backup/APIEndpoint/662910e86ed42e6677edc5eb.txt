@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6627bbc4d8ddb43fca3a23bc",
+	"createdTime":1713967336348,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"mphasis/fetchcases",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"662910e86ed42e6677edc5eb",
+	"lastModifiedBy":522,
+	"lcName":"fetch cases",
+	"modifiedTime":1751544775642,
+	"name":"Fetch Cases",
+	"ownerUserId":206,
+	"path":"fetchcases",
+	"resourceIds":[
+		"6628b9bb251244338e6494f1"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":66
+}

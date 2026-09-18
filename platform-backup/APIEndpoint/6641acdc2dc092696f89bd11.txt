@@ -1,0 +1,52 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6641acc12dc092696f89bd10",
+	"createdTime":1715580124338,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Boat-Graphql/graphqltest",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"POST",
+	"id":"6641acdc2dc092696f89bd11",
+	"lastModifiedBy":522,
+	"lcName":"boat graphql",
+	"modifiedTime":1751544774316,
+	"name":"Boat GraphQL",
+	"ownerUserId":7,
+	"path":"graphqltest",
+	"resourceIds":[
+		"6641abe90e750e6abc56c0ab"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		null
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":64
+}

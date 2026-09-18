@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6628b0ee6827804a749fdd2a",
+	"createdTime":1713942798903,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-callable/callableS/A",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"66681c602261d6426d663042"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"6628b10e6827804a749fdd2b",
+	"lastModifiedBy":522,
+	"lcName":"test 23",
+	"modifiedTime":1751544775353,
+	"name":"test 23",
+	"ownerUserId":7,
+	"path":"callableS/A",
+	"resourceIds":[
+		"6628b081c0144a33019f4814"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":73
+}
