@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66d56cc40734470845758cd0",
+	"createdTime":1725263089093,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"connection/GetConnection",
+	"httpMethod":"GET",
+	"id":"66d56cf10734470845758cd1",
+	"lastModifiedBy":520,
+	"lcName":"getconnection",
+	"modifiedTime":1725263093293,
+	"name":"GetConnection",
+	"ownerUserId":520,
+	"path":"GetConnection",
+	"resourceIds":[
+		"664c9c99616041596f6b3b17"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

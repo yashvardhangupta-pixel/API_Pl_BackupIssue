@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66e4583d951f4035492782a6",
+	"createdTime":1726241252253,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Decl---Image-Watermarking/image_watermark",
+	"httpMethod":"POST",
+	"id":"66e459e4951f4035492782a7",
+	"lastModifiedBy":2620,
+	"lcName":"image watermarking",
+	"modifiedTime":1726241254865,
+	"name":"Image Watermarking",
+	"ownerUserId":2620,
+	"path":"image_watermark",
+	"resourceIds":[
+		"66e40e3b44c39b7f2fff36db"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		2
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

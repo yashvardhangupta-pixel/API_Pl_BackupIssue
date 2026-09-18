@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66e54f7ff48ecf1af96e36b4",
+	"createdTime":1726304711316,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-check/any/thing?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"66e551c7f48ecf1af96e36b6",
+	"lastModifiedBy":520,
+	"lcName":"testcheck2",
+	"modifiedTime":1726322739058,
+	"name":"testcheck2",
+	"ownerUserId":520,
+	"path":"any/thing",
+	"resourceIds":[
+		"66ced8d38bdfc47f95afafb2",
+		"668f0f8267e74e1fad413212"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

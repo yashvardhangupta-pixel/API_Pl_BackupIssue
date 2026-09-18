@@ -1,0 +1,45 @@
+{
+	"active":false,
+	"apiTimeout":{
+		"duration":100,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":true,
+	"cacheSettings":{
+		"cacheKeys":[
+			
+		],
+		"ttl":{
+			"duration":606,
+			"unit":"SECONDS"
+		}
+	},
+	"collectionId":"66da11992ff7b05039730f8f",
+	"createdTime":1725620983857,
+	"customizeTimeout":true,
+	"deleted":true,
+	"description":"abc",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"soap-functionality/users/{id}/1",
+	"httpMethod":"GET",
+	"id":"66dae2f7d3e8b46e0ef46659",
+	"lastModifiedBy":520,
+	"lcName":"abcdes",
+	"modifiedTime":1725621031839,
+	"name":"abcdes",
+	"ownerUserId":520,
+	"path":"users/{id}/1",
+	"resourceIds":[
+		"664c9c99616041596f6b3b17"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

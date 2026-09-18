@@ -1,0 +1,33 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66e8208f29cbf62cdba514e5",
+	"createdTime":1726597371089,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"asdada_webhook",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"hs-test/asdada_webhook?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"66e9c8fb1aa0be1d7dbd676b",
+	"lastModifiedBy":520,
+	"lcName":"asdada_webhook",
+	"modifiedTime":1726597371089,
+	"name":"asdada_webhook",
+	"ownerUserId":520,
+	"path":"asdada_webhook",
+	"resourceIds":[
+		"66cedf578bdfc47f95afb306",
+		"668f64ceb22b3b278ec67f0d"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}

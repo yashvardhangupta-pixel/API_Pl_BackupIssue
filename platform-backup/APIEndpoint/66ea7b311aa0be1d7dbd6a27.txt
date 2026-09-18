@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66ea7b091aa0be1d7dbd6a26",
+	"createdTime":1726642993036,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"rere/checkpoint-callback?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"66ea7b311aa0be1d7dbd6a27",
+	"lastModifiedBy":1866,
+	"lcName":"checkpoint callback",
+	"modifiedTime":1726642996424,
+	"name":"checkpoint callback",
+	"ownerUserId":1866,
+	"path":"checkpoint-callback",
+	"resourceIds":[
+		"66ea7abb54ca115c361af49f"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

@@ -1,0 +1,39 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66d78f2d0fd59672864ea329",
+	"createdTime":1725402994585,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"soap-001/endpoint-01",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Internal Server Error",
+		"response":{},
+		"soapResponse":"<soap:Envelope xmlns:soap=\"http://www.w3.org/2003/05/soap-envelope\">\n    <soap:Body>\n        <error>fallback response</error>\n    </soap:Body>\n</soap:Envelope>",
+		"statusCode":500
+	},
+	"httpMethod":"POST",
+	"id":"66d78f720fd59672864ea32a",
+	"lastModifiedBy":4446,
+	"lcName":"endpoint-1",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1725403135892,
+	"name":"endpoint-1",
+	"ownerUserId":4446,
+	"path":"endpoint-01",
+	"resourceIds":[
+		"66d78d90f081d476a9b47cf2"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

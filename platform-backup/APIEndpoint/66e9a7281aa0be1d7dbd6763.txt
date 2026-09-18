@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66e54f7ff48ecf1af96e36b4",
+	"createdTime":1726588712828,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-check/dhrupal",
+	"httpMethod":"POST",
+	"id":"66e9a7281aa0be1d7dbd6763",
+	"lastModifiedBy":520,
+	"lcName":"ds-test",
+	"modifiedTime":1726588718366,
+	"name":"ds-test",
+	"ownerUserId":520,
+	"path":"dhrupal",
+	"resourceIds":[
+		"66d37f960d24e37c6441714f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

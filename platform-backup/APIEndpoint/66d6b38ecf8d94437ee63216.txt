@@ -1,0 +1,39 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66d56cc40734470845758cd0",
+	"createdTime":1725346702847,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"connection/SOAP-test-endpoint",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Success",
+		"response":{},
+		"soapResponse":"<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<adaptive-icon xmlns:android=\"http://schemas.android.com/apk/res/android\">\n    <background android:drawable=\"@color/iconBackground\"/>\n    <foreground android:drawable=\"@mipmap/ic_launcher_foreground\"/>\n</adaptive-icon>",
+		"statusCode":200
+	},
+	"httpMethod":"GET",
+	"id":"66d6b38ecf8d94437ee63216",
+	"lastModifiedBy":520,
+	"lcName":"soap test endpoint",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1725350713843,
+	"name":"SOAP test endpoint",
+	"ownerUserId":520,
+	"path":"SOAP-test-endpoint",
+	"resourceIds":[
+		"66d61d7b20a266213a6c4c00"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":5
+}

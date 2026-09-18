@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66e54f7ff48ecf1af96e36b4",
+	"createdTime":1726304429662,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-check/sso/lms/get-employee",
+	"httpMethod":"GET",
+	"id":"66e550adf48ecf1af96e36b5",
+	"lastModifiedBy":520,
+	"lcName":"testcheck1",
+	"modifiedTime":1726322735209,
+	"name":"testcheck1",
+	"ownerUserId":520,
+	"path":"sso/lms/get-employee",
+	"resourceIds":[
+		"660042a7fa09d15b376d502d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}

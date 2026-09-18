@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":3000,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"66a2a141a6e9332e000da1bf",
+	"createdTime":1725353923083,
+	"customizeTimeout":true,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ai/graphrag/indexing",
+	"httpMethod":"POST",
+	"id":"66d6cfc3bd7c1a1879205fe3",
+	"lastModifiedBy":295,
+	"lcName":"graphrag",
+	"modifiedTime":1725353926878,
+	"name":"graphrag",
+	"ownerUserId":295,
+	"path":"graphrag/indexing",
+	"resourceIds":[
+		"66d6cf4baa393225cfa4d923"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66eb195733dfa26a1d848479",
+	"createdTime":1726683577931,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"new/test/check/check",
+	"httpMethod":"GET",
+	"id":"66eb19b933dfa26a1d84847a",
+	"lastModifiedBy":520,
+	"lcName":"newtestcheck",
+	"modifiedTime":1726683934507,
+	"name":"newtestcheck",
+	"ownerUserId":520,
+	"path":"check",
+	"resourceIds":[
+		"66d17c319627d00147082631"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

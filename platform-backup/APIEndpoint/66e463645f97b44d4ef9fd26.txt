@@ -1,0 +1,39 @@
+{
+	"active":true,
+	"apiTimeout":{
+		"duration":30,
+		"unit":"SECONDS"
+	},
+	"cacheResponse":false,
+	"collectionId":"66e4633e5f97b44d4ef9fd25",
+	"createdTime":1726243684019,
+	"customizeTimeout":true,
+	"deleted":false,
+	"description":"image watermarking",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"decl-image-watermarking/decl-image-watermarking",
+	"httpMethod":"POST",
+	"id":"66e463645f97b44d4ef9fd26",
+	"lastModifiedBy":2620,
+	"lcName":"decl-image-watermarking",
+	"modifiedTime":1726243687898,
+	"name":"decl-image-watermarking",
+	"ownerUserId":2620,
+	"path":"decl-image-watermarking",
+	"resourceIds":[
+		"66e40e3b44c39b7f2fff36db"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		2
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
