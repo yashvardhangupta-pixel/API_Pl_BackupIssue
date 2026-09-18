@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68b14c3cdc955d1754110af7",
+	"createdTime":1756449894042,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIYRpXyPtRWd/RELom/{name}",
+	"id":"68b14c66dc955d1754110afa",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2csicthsmgtc",
+	"modifiedTime":1756449896542,
+	"name":"changeSetQA2CSIctHSMgTc",
+	"ownerUserId":175325,
+	"path":"RELom/{name}",
+	"policyIds":[
+		"68b14c2adc955d1754110af5"
+	],
+	"resourceIds":[
+		"6884698397cc242e330451e6"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":1
+}

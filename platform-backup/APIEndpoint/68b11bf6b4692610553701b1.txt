@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68b11baab4692610553701a9",
+	"createdTime":1756437494210,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"changeSetQA2CSOdwUCKzUmSV/D1LvBcj",
+	"id":"68b11bf6b4692610553701b1",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2_externalapi_delete_9338712910",
+	"modifiedTime":1756449784785,
+	"name":"changeSetQA2_ExternalAPI_Delete_9338712910",
+	"ownerUserId":175325,
+	"path":"D1LvBcj",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"DELETE",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://httpbin.org/anything"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":2
+}

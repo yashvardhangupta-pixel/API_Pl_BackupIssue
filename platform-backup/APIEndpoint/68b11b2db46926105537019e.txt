@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68b11ad9b469261055370198",
+	"createdTime":1756437293317,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIciYDeZBCSt/CarBU/{name}",
+	"id":"68b11b2db46926105537019e",
+	"lastModifiedBy":175325,
+	"lcName":"gepfivmmynignwhiwvrw",
+	"modifiedTime":1756449784824,
+	"name":"gepFivMmynIGnWhIWVRw",
+	"ownerUserId":175325,
+	"path":"CarBU/{name}",
+	"policyIds":[
+		"68b11ac7b469261055370196"
+	],
+	"resourceIds":[
+		"688de839bd2219dcf5095379"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PATCH",
+		"PUT"
+	],
+	"version":2
+}

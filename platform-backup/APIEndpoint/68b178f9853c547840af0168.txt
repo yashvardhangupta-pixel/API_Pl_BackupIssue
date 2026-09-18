@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68b178f6853c547840af0166",
+	"createdTime":1756461305296,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Message send that handles RPC calls using json payload",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"a2a-123/jsonrpc",
+	"httpMethod":"POST",
+	"id":"68b178f9853c547840af0168",
+	"lastModifiedBy":161852,
+	"lcName":"handle json + rpc",
+	"modifiedTime":1756461305296,
+	"name":"Handle JSON + RPC",
+	"ownerUserId":161852,
+	"path":"jsonrpc",
+	"resourceIds":[
+		"68a4a4adffc93f092dd0d4de"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
