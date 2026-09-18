@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6a9946a628f6e21d77b2eece",
+	"createdTime":1788430153021,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"api-platform/agents",
+	"id":"6a9947495604714b310613d8",
+	"lastModifiedBy":203223,
+	"lastPlatformUpdateBy":203223,
+	"lastPlatformUpdateOn":1788430154350,
+	"lcName":"list agents",
+	"modifiedTime":1788430154350,
+	"name":"List Agents",
+	"ownerUserId":203223,
+	"path":"agents",
+	"resourceIds":[
+		"6a99459b4e2c834f75e1ccb2"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":1
+}
