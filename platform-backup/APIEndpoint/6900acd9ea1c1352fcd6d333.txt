@@ -1,0 +1,43 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"690089ad8eca4c4b77fce262",
+	"createdTime":1761651929666,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"VirtusaCollections/DbFunction---RemoveNonProcessMessages",
+	"id":"6900acd9ea1c1352fcd6d333",
+	"lastModifiedBy":39715,
+	"lcName":"dbfunction - removenonprocessmessages",
+	"modifiedTime":1761897355024,
+	"name":"DbFunction - RemoveNonProcessMessages",
+	"ownerUserId":39715,
+	"path":"DbFunction---RemoveNonProcessMessages",
+	"resourceIds":[
+		"69008ceac85d6a3a6dc2f831"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":2
+}
