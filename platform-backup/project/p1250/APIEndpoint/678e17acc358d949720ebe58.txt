@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"678e1777c358d949720ebe57",
+	"createdTime":1737365420893,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"CS-DND-API-GROUP/CS-AUTO-DND-API-ENDPOINT",
+	"httpMethod":"POST",
+	"id":"678e17acc358d949720ebe58",
+	"lastModifiedBy":520,
+	"lcName":"cs_auto_dnd_api_endpoint",
+	"modifiedTime":1737365433459,
+	"name":"CS_AUTO_DND_API_ENDPOINT",
+	"ownerUserId":520,
+	"path":"CS-AUTO-DND-API-ENDPOINT",
+	"projectId":1250,
+	"resourceIds":[
+		"678b7c94265a17687601aa0c"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

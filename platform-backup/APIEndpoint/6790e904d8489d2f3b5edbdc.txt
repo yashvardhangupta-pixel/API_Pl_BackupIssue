@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6790e8d6d8489d2f3b5edbdb",
+	"createdTime":1737550084862,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"llm/llm1",
+	"httpMethod":"GET",
+	"id":"6790e904d8489d2f3b5edbdc",
+	"lastModifiedBy":311,
+	"lcName":"llm1",
+	"modifiedTime":1737550379255,
+	"name":"LLM1",
+	"ownerUserId":311,
+	"path":"llm1",
+	"policyIds":[
+		"6697d6c91687303fa908b82a"
+	],
+	"resourceIds":[
+		"67903d7b0255f83256f7da0c"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		null
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":7
+}
