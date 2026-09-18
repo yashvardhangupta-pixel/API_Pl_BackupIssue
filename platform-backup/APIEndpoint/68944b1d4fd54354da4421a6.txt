@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68944ae64fd54354da4421a5",
+	"createdTime":1754549021518,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"test-time-out-policy/test-time-out-policy",
+	"id":"68944b1d4fd54354da4421a6",
+	"lastModifiedBy":162004,
+	"lcName":"test time out policy",
+	"modifiedTime":1754549026063,
+	"name":"test time out policy",
+	"ownerUserId":162004,
+	"path":"test-time-out-policy",
+	"policyIds":[
+		"689448cb1483d3e9b6dcd923"
+	],
+	"resourceIds":[
+		"689448a3996f4433b5ecc691"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
