@@ -1,0 +1,129 @@
+{
+	"createdTime":1731737188568,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"id":"673836645ed39d3f9ec4de63",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"test api policy session lovekesh",
+	"modifiedTime":1751544725847,
+	"name":"Test API Policy Session Lovekesh",
+	"ownerUserId":311,
+	"path":"session",
+	"policyIds":[
+		"673835715ed39d3f9ec4de62",
+		"673835645ed39d3f9ec4de61"
+	],
+	"standard":false,
+	"telemetryConfig":{
+		"enableTelemetry":true,
+		"metricConfigs":[
+			{
+				"eventType":"ALWAYS",
+				"metricType":"API_EXECUTION",
+				"name":"aas",
+				"tags":[
+					{
+						"key":"2",
+						"value":"2"
+					}
+				]
+			},
+			{
+				"eventType":"ALWAYS",
+				"metricType":"API_EXECUTION",
+				"name":"abcd",
+				"tags":[
+					{
+						"key":"2",
+						"value":""
+					}
+				]
+			},
+			{
+				"eventType":"ALWAYS",
+				"metricType":"API_EXECUTION",
+				"name":"aa",
+				"tags":[
+					{
+						"key":"a",
+						"value":"{{ tenantId }}"
+					}
+				]
+			},
+			{
+				"eventType":"ALWAYS",
+				"metricType":"API_EXECUTION",
+				"name":"tushar_api_local",
+				"tags":[
+					{
+						"key":"sd",
+						"value":"asd"
+					}
+				]
+			},
+			{
+				"eventType":"ALWAYS",
+				"metricType":"API_EXECUTION",
+				"name":"api_local_tushar",
+				"tags":[
+					{
+						"key":"sd",
+						"value":"sdsd"
+					}
+				]
+			},
+			{
+				"eventType":"ALWAYS",
+				"metricType":"API_EXECUTION_DURATION",
+				"name":"api_local_timer",
+				"tags":[
+					{
+						"key":"collectionPath",
+						"value":"{{ collectionPath }}"
+					},
+					{
+						"key":"endpoint",
+						"value":"{{ endpointId }}"
+					},
+					{
+						"key":"httpstatus",
+						"value":"{{ httpStatus }}"
+					},
+					{
+						"key":"tenantid",
+						"value":"{{ tenantId }}"
+					},
+					{
+						"key":"host",
+						"value":"{{ host }}"
+					},
+					{
+						"key":"cachehit",
+						"value":"{{ cacheHit }}"
+					},
+					{
+						"key":"apiclientid",
+						"value":"{{ apiClientId }}"
+					},
+					{
+						"key":"authtype",
+						"value":"{{ authType }}"
+					},
+					{
+						"key":"colllid",
+						"value":"{{ collectionId }}"
+					},
+					{
+						"key":"outcome",
+						"value":"{{ outcome }}"
+					}
+				]
+			}
+		]
+	},
+	"version":8
+}

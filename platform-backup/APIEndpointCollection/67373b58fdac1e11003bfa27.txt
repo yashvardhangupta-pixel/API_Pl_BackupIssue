@@ -1,0 +1,31 @@
+{
+	"createdTime":1731672920767,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":true,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"id":"67373b58fdac1e11003bfa27",
+	"includeVersionInPath":false,
+	"lastModifiedBy":522,
+	"lcName":"testeventstreams",
+	"modifiedTime":1751544726436,
+	"name":"testEventStreams",
+	"ownerUserId":520,
+	"path":"testEventStreams",
+	"standard":false,
+	"telemetryConfig":{
+		"enableTelemetry":true,
+		"metricConfigs":[
+			{
+				"eventType":"SUCCESS",
+				"metricType":"API_EXECUTION",
+				"name":"assasa",
+				"tags":[
+					
+				]
+			}
+		]
+	},
+	"version":2
+}
