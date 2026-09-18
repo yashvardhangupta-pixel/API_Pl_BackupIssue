@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68c9ad09253e164520cfee99",
+	"createdTime":1758047514220,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dda-testing-grp/dda-testing",
+	"id":"68c9ad1a253e164520cfee9a",
+	"lastModifiedBy":31268,
+	"lcName":"dda testing",
+	"modifiedTime":1758088747416,
+	"name":"dda testing",
+	"ownerUserId":31268,
+	"path":"dda-testing",
+	"resourceIds":[
+		"68c9acb8c718021b5c8bf1e2"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
