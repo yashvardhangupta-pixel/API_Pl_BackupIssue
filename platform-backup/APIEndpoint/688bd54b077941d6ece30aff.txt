@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68667789e979370315d5347b",
+	"createdTime":1753994622427,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/adtck/{name}?resourceId={{RESOURCE_ID}}",
+	"id":"688bd54b077941d6ece30aff",
+	"lastModifiedBy":162004,
+	"lcName":"changesetqa2azohvaxaphgdnqwwtcpd",
+	"modifiedTime":1753994684265,
+	"name":"changeSetQA2AzoHVaxaPHgDnQWWtCpD",
+	"ownerUserId":162004,
+	"path":"adtck/{name}",
+	"resourceIds":[
+		"6888c3828ca03fb2e46d31e4"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

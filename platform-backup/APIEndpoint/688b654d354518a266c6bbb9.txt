@@ -1,0 +1,50 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"688b6533354518a266c6bbb8",
+	"createdTime":1753965901896,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"platform-test/platform-test",
+	"id":"688b654d354518a266c6bbb9",
+	"lastModifiedBy":46218,
+	"lcName":"platform test",
+	"modifiedTime":1754035358226,
+	"name":"platform test",
+	"ownerUserId":46218,
+	"path":"platform-test",
+	"policyIds":[
+		"68285351c7eacf1253afb7fc"
+	],
+	"resourceIds":[
+		"682853a4df825e08a73ed022"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://en.wikipedia.org/wiki/Taj_Mahal"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":5
+}
