@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"694a0b7f0a98811c5ac2a967",
+	"createdTime":1766460498520,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdatePqPyuroLVO/aXNAi/{name}",
+	"id":"694a0baa0a98811c5ac2a988",
+	"lastModifiedBy":-1,
+	"lcName":"changesetqa2pskfhrsi",
+	"modifiedTime":1766526065510,
+	"name":"changeSetQA2pSKfhRSi",
+	"ownerUserId":175325,
+	"path":"aXNAi/{name}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":3
+}
