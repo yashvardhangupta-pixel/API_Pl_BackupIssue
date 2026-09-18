@@ -1,0 +1,36 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68af1f9f862eb172272cf967",
+	"createdTime":1756307398185,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"Test-forward-all-path/taj",
+	"id":"68af1fc6862eb172272cf968",
+	"lastModifiedBy":46218,
+	"lcName":"taj",
+	"modifiedTime":1756307404096,
+	"name":"taj",
+	"ownerUserId":46218,
+	"path":"taj",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":true,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://en.wikipedia.org"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

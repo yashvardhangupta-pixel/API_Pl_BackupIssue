@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68ae730e5c037718f7368b95",
+	"createdTime":1756263443819,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"testpr1/api2?resourceId={{RESOURCE_ID}}",
+	"id":"68ae74135c037718f7368b99",
+	"lastModifiedBy":161877,
+	"lcName":"api2",
+	"modifiedTime":1756263452914,
+	"name":"api2",
+	"ownerUserId":161877,
+	"path":"api2",
+	"resourceIds":[
+		"68ae73982ebca7358d2ff8e9"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68af2e9bdcde002a9358b215",
+	"createdTime":1756311274042,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"meeting-transcript/meeting-transcription",
+	"id":"68af2eeadcde002a9358b218",
+	"lastModifiedBy":43523,
+	"lcName":"meeting transcript ",
+	"modifiedTime":1756311300837,
+	"name":"Meeting transcript ",
+	"ownerUserId":43523,
+	"path":"meeting-transcription",
+	"resourceIds":[
+		"68af263ce31947311e687896"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
