@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68b22b4a19212466e073afac",
+	"createdTime":1756507100493,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dnt-api/api1",
+	"id":"68b22bdc19212466e073afae",
+	"lastModifiedBy":37040,
+	"lcName":"api1",
+	"modifiedTime":1756539587699,
+	"name":"api1",
+	"ownerUserId":37040,
+	"path":"api1",
+	"resourceIds":[
+		"68b1c8803fc5386edfbf7ef9"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PUT",
+		"PATCH"
+	],
+	"version":2
+}
