@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6703bef44c3d75014f4aee2c",
+	"createdTime":1728298807803,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"teest/teest/api",
+	"httpMethod":"POST",
+	"id":"6703bf374c3d75014f4aee2f",
+	"lastModifiedBy":522,
+	"lcName":"teestapi",
+	"modifiedTime":1751544731981,
+	"name":"teestApi",
+	"ownerUserId":520,
+	"path":"teest/api",
+	"policyIds":[
+		"6703be534c3d75014f4aee27"
+	],
+	"resourceIds":[
+		"6703bd05ec30651a8ce49c57"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

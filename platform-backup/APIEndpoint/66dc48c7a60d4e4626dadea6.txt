@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66dc476ea60d4e4626dadea0",
+	"createdTime":1730964995535,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"Remote-Env-API/test-webhook-remote-endpoint?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"66dc48c7a60d4e4626dadea6",
+	"lastModifiedBy":522,
+	"lcName":"test-webhook-remote_endpoint",
+	"modifiedTime":1751544727385,
+	"name":"test-webhook-remote_endpoint",
+	"ownerUserId":287,
+	"path":"test-webhook-remote-endpoint",
+	"resourceIds":[
+		"66daa768d1a6676fce545d3b"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":7
+}

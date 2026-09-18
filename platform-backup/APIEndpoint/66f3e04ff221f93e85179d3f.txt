@@ -1,0 +1,34 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66f3e032f221f93e85179d3e",
+	"createdTime":1727258703196,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"newTestClient/test",
+	"httpMethod":"POST",
+	"id":"66f3e04ff221f93e85179d3f",
+	"lastModifiedBy":522,
+	"lcName":"test",
+	"modifiedTime":1751544734625,
+	"name":"test",
+	"ownerUserId":520,
+	"path":"test",
+	"policyIds":[
+		"66a3b1b283364a68c041801a"
+	],
+	"resourceIds":[
+		"66d17c319627d00147082631"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

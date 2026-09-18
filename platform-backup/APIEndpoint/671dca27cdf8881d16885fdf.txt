@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"671a34f8a8fa787ec9d50fe4",
+	"createdTime":1730005543044,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Small-Language-Model/slm/accuracy",
+	"httpMethod":"POST",
+	"id":"671dca27cdf8881d16885fdf",
+	"lastModifiedBy":522,
+	"lcName":"slm accuracy",
+	"modifiedTime":1751544728750,
+	"name":"slm accuracy",
+	"ownerUserId":295,
+	"path":"slm/accuracy",
+	"policyIds":[
+		"66a0aed061400b1dcc5a131b"
+	],
+	"resourceIds":[
+		"671cca63cad3283c484e0008"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

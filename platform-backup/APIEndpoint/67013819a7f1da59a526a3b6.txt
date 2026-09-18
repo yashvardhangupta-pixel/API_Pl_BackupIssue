@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"670136fba7f1da59a526a3aa",
+	"createdTime":1728133145556,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"automation-test/external",
+	"httpMethod":"POST",
+	"id":"67013819a7f1da59a526a3b6",
+	"lastModifiedBy":522,
+	"lcName":"external api",
+	"modifiedTime":1751544732516,
+	"name":"external api",
+	"ownerUserId":520,
+	"path":"external",
+	"policyIds":[
+		"66ecfcc6db9bd578810132bb"
+	],
+	"resourceIds":[
+		null
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://api.qa.unifyapps.com/api-endpoint/AB-TEST---Monday/AB-TEST---Monday"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

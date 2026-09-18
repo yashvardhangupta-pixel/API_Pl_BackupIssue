@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"671a34f8a8fa787ec9d50fe4",
+	"createdTime":1729789567675,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Small-Language-Model/benchmark/api",
+	"httpMethod":"POST",
+	"id":"671a7e7f57099129502622be",
+	"lastModifiedBy":522,
+	"lcName":"slm benchmark",
+	"modifiedTime":1751544728750,
+	"name":"slm BEnchmark",
+	"ownerUserId":295,
+	"path":"benchmark/api",
+	"policyIds":[
+		"66a0aed061400b1dcc5a131b"
+	],
+	"projectId":51,
+	"resourceIds":[
+		"671a78fe0571264475da62c1"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

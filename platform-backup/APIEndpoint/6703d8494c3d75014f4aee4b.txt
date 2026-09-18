@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6703d0274c3d75014f4aee45",
+	"createdTime":1728305225695,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"remoteTest/user/{id}",
+	"httpMethod":"POST",
+	"id":"6703d8494c3d75014f4aee4b",
+	"lastModifiedBy":522,
+	"lcName":"testpathparam",
+	"modifiedTime":1751544731671,
+	"name":"testpathparam",
+	"ownerUserId":520,
+	"path":"user/{id}",
+	"policyIds":[
+		"6703b7eccb2e075da7875ab7"
+	],
+	"resourceIds":[
+		"6703bd05ec30651a8ce49c57"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		null
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

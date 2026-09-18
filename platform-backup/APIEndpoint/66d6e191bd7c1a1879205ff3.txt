@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66d6e15fbd7c1a1879205ff2",
+	"createdTime":1725358481072,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Indexing-API/Indexing",
+	"httpMethod":"POST",
+	"id":"66d6e191bd7c1a1879205ff3",
+	"lastModifiedBy":522,
+	"lcName":"indexing",
+	"modifiedTime":1751544737265,
+	"name":"Indexing",
+	"ownerUserId":520,
+	"path":"Indexing",
+	"resourceIds":[
+		"66d6cf4baa393225cfa4d923"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":8
+}

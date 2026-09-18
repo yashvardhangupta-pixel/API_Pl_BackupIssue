@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66fbcee54dfde4705d2715ee",
+	"createdTime":1727778668132,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"sid/title/sid_monday_title",
+	"httpMethod":"POST",
+	"id":"66fbcf6c4dfde4705d2715ef",
+	"lastModifiedBy":522,
+	"lcName":"monday title fetch",
+	"modifiedTime":1751544733242,
+	"name":"Monday Title Fetch",
+	"ownerUserId":21056,
+	"path":"sid_monday_title",
+	"resourceIds":[
+		"66fbcb43400ca5750f125af9"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

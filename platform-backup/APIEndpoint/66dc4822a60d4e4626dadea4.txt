@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66dc476ea60d4e4626dadea0",
+	"createdTime":1730740544830,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Remote-Env-API/test-slack-remote-endpoint",
+	"httpMethod":"POST",
+	"id":"66dc4822a60d4e4626dadea4",
+	"lastModifiedBy":522,
+	"lcName":"test-slack-remote_endpoint",
+	"modifiedTime":1751544727385,
+	"name":"test-slack-remote_endpoint",
+	"ownerUserId":0,
+	"path":"test-slack-remote-endpoint",
+	"resourceIds":[
+		"66daba264dcc656ea0e170fd"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		null
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":6
+}

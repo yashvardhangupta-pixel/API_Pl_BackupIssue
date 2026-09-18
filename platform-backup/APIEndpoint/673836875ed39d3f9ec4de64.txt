@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"673836645ed39d3f9ec4de63",
+	"createdTime":1731737223920,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"session/variable",
+	"httpMethod":"POST",
+	"id":"673836875ed39d3f9ec4de64",
+	"lastModifiedBy":522,
+	"lcName":"variable check",
+	"modifiedTime":1751544725850,
+	"name":"variable check",
+	"ownerUserId":311,
+	"path":"variable",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"664d9a9ebbee88723075b7b5"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		null
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":6
+}

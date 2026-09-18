@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"671fdb261bdde32a75aa01d5",
+	"createdTime":1730141054862,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"phoenixdisposition/disposition",
+	"httpMethod":"POST",
+	"id":"671fdb7e1bdde32a75aa01d6",
+	"lastModifiedBy":522,
+	"lcName":"disposition",
+	"modifiedTime":1751544728102,
+	"name":"disposition",
+	"ownerUserId":520,
+	"path":"disposition",
+	"policyIds":[
+		"66182a6bbe41302c9030c3ad"
+	],
+	"resourceIds":[
+		"671fdb485c8ebe3d2c07a4c1"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		2
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

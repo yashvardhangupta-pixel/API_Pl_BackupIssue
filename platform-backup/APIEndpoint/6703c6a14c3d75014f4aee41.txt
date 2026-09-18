@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6703c51b4c3d75014f4aee3d",
+	"createdTime":1728300705451,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"remote/test/call/workflow",
+	"httpMethod":"POST",
+	"id":"6703c6a14c3d75014f4aee41",
+	"lastModifiedBy":522,
+	"lcName":"automation api",
+	"modifiedTime":1751544731813,
+	"name":"Automation API",
+	"ownerUserId":520,
+	"path":"call/workflow",
+	"resourceIds":[
+		"6703b475f253175250351460"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

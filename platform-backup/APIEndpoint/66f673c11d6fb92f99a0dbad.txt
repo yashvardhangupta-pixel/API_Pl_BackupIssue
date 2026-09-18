@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66f3e032f221f93e85179d3e",
+	"createdTime":1727427521447,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"newTestClient/addnumber",
+	"httpMethod":"POST",
+	"id":"66f673c11d6fb92f99a0dbad",
+	"lastModifiedBy":522,
+	"lcName":"calculation",
+	"modifiedTime":1751544734625,
+	"name":"Calculation",
+	"ownerUserId":520,
+	"path":"addnumber",
+	"resourceIds":[
+		"66f67327b27c66404669bd3d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		2
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":7
+}

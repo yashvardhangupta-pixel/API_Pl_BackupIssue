@@ -1,0 +1,34 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66f15350dede80286eb2ab39",
+	"createdTime":1727248854382,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"hs-test-01/api/hs-test/{id}",
+	"httpMethod":"GET",
+	"id":"66f3b9d6f221f93e85179d05",
+	"lastModifiedBy":522,
+	"lcName":"hs-test",
+	"modifiedTime":1751544735430,
+	"name":"hs-test",
+	"ownerUserId":520,
+	"path":"api/hs-test/{id}",
+	"resourceIds":[
+		"66ec115a986c0378854e25cd"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67321cd8144189285de13e01",
+	"createdTime":1731337474943,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"delaytestsanity/tdelaysanity",
+	"httpMethod":"POST",
+	"id":"67321d02144189285de13e02",
+	"lastModifiedBy":522,
+	"lcName":"tdelaysanity",
+	"modifiedTime":1751544727041,
+	"name":"tdelaysanity",
+	"ownerUserId":4481,
+	"path":"tdelaysanity",
+	"policyIds":[
+		"66925f28b031bb533c4930e5"
+	],
+	"resourceIds":[
+		"67321c960ee8a2492613ef0b"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

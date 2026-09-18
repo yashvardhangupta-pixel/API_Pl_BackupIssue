@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"670136fba7f1da59a526a3aa",
+	"createdTime":1728296987703,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"automation-test/test/ip",
+	"httpMethod":"POST",
+	"id":"6703b81bcb2e075da7875ab8",
+	"lastModifiedBy":522,
+	"lcName":"testip",
+	"modifiedTime":1751544732516,
+	"name":"testIP",
+	"ownerUserId":520,
+	"path":"test/ip",
+	"policyIds":[
+		"6703b7eccb2e075da7875ab7"
+	],
+	"resourceIds":[
+		"6611974b7dd5c91506855307"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

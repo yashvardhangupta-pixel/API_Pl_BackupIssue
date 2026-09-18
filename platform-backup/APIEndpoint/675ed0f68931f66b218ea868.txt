@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66d75de6997cd47d1ea5062c",
+	"createdTime":1734267126378,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"soapCollection/agent",
+	"httpMethod":"POST",
+	"id":"675ed0f68931f66b218ea868",
+	"lastModifiedBy":522,
+	"lcName":"test agent",
+	"modifiedTime":1751544736852,
+	"name":"test agent",
+	"ownerUserId":287,
+	"path":"agent",
+	"resourceIds":[
+		"675eceec7842fc05f39138ea"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

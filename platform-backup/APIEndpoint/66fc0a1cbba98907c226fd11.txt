@@ -1,0 +1,37 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66fc09e8bba98907c226fd10",
+	"createdTime":1727793692826,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"salesforce/details/fetch/yes",
+	"httpMethod":"POST",
+	"id":"66fc0a1cbba98907c226fd11",
+	"lastModifiedBy":522,
+	"lcName":"salesforce detail fetcher",
+	"modifiedTime":1751544733059,
+	"name":"Salesforce Detail Fetcher",
+	"ownerUserId":21056,
+	"path":"fetch/yes",
+	"policyIds":[
+		"6697d6c91687303fa908b82a"
+	],
+	"resourceIds":[
+		"66fbfd0d9edc4e0b6303da1e"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		null
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":11
+}

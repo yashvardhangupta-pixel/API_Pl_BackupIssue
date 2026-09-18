@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6713b627890402155d8d3967",
+	"createdTime":1729345085762,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"cookie/check",
+	"httpMethod":"POST",
+	"id":"6713b63d890402155d8d3968",
+	"lastModifiedBy":522,
+	"lcName":"check cookie",
+	"modifiedTime":1751544729031,
+	"name":"check cookie",
+	"ownerUserId":6,
+	"path":"check",
+	"resourceIds":[
+		"6713b52a640d3e32ff3aeefb"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

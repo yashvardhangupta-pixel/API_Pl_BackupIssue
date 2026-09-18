@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"671a34f8a8fa787ec9d50fe4",
+	"createdTime":1729770808137,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Small-Language-Model/smallLanguageModel/inference",
+	"httpMethod":"POST",
+	"id":"671a3538a8fa787ec9d50fe5",
+	"lastModifiedBy":522,
+	"lcName":"slm open ai and bedrock",
+	"modifiedTime":1751544728750,
+	"name":"SLM OPEN AI AND BEDROCK",
+	"ownerUserId":295,
+	"path":"smallLanguageModel/inference",
+	"policyIds":[
+		"6697d6c91687303fa908b82a"
+	],
+	"resourceIds":[
+		"671a331bedba7d728564476b"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

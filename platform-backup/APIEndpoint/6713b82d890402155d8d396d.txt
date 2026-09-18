@@ -1,0 +1,38 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6713b627890402155d8d3967",
+	"createdTime":1729345581707,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"cookie/policyorder",
+	"httpMethod":"POST",
+	"id":"6713b82d890402155d8d396d",
+	"lastModifiedBy":522,
+	"lcName":"testing reordering",
+	"modifiedTime":1751544729031,
+	"name":"testing reordering",
+	"ownerUserId":520,
+	"path":"policyorder",
+	"policyIds":[
+		"6694e8ec7f31f534484e708f",
+		"6713c363890402155d8d3972"
+	],
+	"resourceIds":[
+		"6713b78e640d3e32ff3af017"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		null
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":8
+}

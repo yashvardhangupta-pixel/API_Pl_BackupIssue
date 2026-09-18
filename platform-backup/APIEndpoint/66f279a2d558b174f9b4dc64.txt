@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66f2795dd558b174f9b4dc61",
+	"createdTime":1727166882716,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ds-testing-group/sendMessage",
+	"httpMethod":"POST",
+	"id":"66f279a2d558b174f9b4dc64",
+	"lastModifiedBy":522,
+	"lcName":"first",
+	"modifiedTime":1751544735290,
+	"name":"first",
+	"ownerUserId":520,
+	"path":"sendMessage",
+	"policyIds":[
+		"66f278f7d558b174f9b4dc55"
+	],
+	"resourceIds":[
+		"66f276ec65dc3e4251150f29"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":10
+}

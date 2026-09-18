@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67375311bc371f6f16ecbbe0",
+	"createdTime":1731940767581,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"sample",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"stream/Streams-Get",
+	"httpMethod":"GET",
+	"id":"673b519f43979b58da9aa890",
+	"lastModifiedBy":522,
+	"lcName":"streams_get",
+	"modifiedTime":1751544726229,
+	"name":"Streams_Get",
+	"ownerUserId":34,
+	"path":"Streams-Get",
+	"policyIds":[
+		"66ecfcc6db9bd578810132bb"
+	],
+	"resourceIds":[
+		"e_673b572c5dca6542ca2e6113"
+	],
+	"resourceType":"EVENT_STREAMS",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":5
+}
