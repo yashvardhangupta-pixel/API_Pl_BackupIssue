@@ -1,0 +1,47 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6aa299008e26704252778c7d",
+	"createdTime":1789040902555,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"a337whg/akfiryh",
+	"id":"6aa29906e40b0c543acbb018",
+	"lastModifiedBy":238035,
+	"lastPlatformUpdateBy":238035,
+	"lastPlatformUpdateOn":1789041007162,
+	"lcName":"callable_endpoint_accessprofile_unchecknode - 21789039860797",
+	"modifiedTime":1789041007162,
+	"name":"callable_endpoint_accessProfile_uncheckNode - 21789039860797",
+	"ownerUserId":238035,
+	"path":"akfiryh",
+	"resourceIds":[
+		"6aa298da3403382b295a2a39"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"tags":[
+		"dnt_tag"
+	],
+	"version":2
+}
