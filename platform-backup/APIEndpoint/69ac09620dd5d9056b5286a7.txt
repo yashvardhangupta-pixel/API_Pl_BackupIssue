@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"69ac0962d01ed46a7391bbbf",
+	"createdTime":1772882274933,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"JSON-RPC API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"yuyu/mcp/messages",
+	"httpMethod":"POST",
+	"id":"69ac09620dd5d9056b5286a7",
+	"lastModifiedBy":39712,
+	"lcName":"json-rpc",
+	"modifiedTime":1772882274933,
+	"name":"JSON-RPC",
+	"ownerUserId":39712,
+	"path":"mcp/messages",
+	"resourceIds":[
+		"67dbf54e6b0a2f279887d047"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
