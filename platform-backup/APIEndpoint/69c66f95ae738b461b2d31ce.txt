@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69c66f644777a26b7c86c38e",
+	"createdTime":1774612373146,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"generateErrorDetails/error-report",
+	"id":"69c66f95ae738b461b2d31ce",
+	"lastModifiedBy":45010,
+	"lcName":"connection errors",
+	"modifiedTime":1774612377098,
+	"name":"Connection Errors",
+	"ownerUserId":45010,
+	"path":"error-report",
+	"resourceIds":[
+		"69c628ddb99abf1cddd8e697"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
