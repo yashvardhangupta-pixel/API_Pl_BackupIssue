@@ -1,0 +1,29 @@
+{
+	"createdTime":1769422278988,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":false,
+	"description":"Agent MCP",
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"V"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"id":"68c6de4210fe9c5ea5e4433d",
+	"includeVersionInPath":false,
+	"lastModifiedBy":-1,
+	"lcName":"agent-mcp",
+	"modifiedTime":1788115466798,
+	"name":"agent-mcp",
+	"ownerUserId":1,
+	"path":"agent-mcp",
+	"standard":false,
+	"version":32
+}

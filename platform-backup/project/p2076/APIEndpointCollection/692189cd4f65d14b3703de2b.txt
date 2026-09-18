@@ -1,0 +1,30 @@
+{
+	"createdTime":1763805645242,
+	"defaultWorkflowWebhookCollection":true,
+	"deleted":false,
+	"description":"Default collection for webhooks for automations with webhook triggers.",
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"V"
+				],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"id":"692189cd4f65d14b3703de2b",
+	"includeVersionInPath":false,
+	"lastModifiedBy":-1,
+	"lcName":"default automation web-hooks",
+	"modifiedTime":1788115466262,
+	"name":"Default Automation Web-hooks",
+	"ownerUserId":-1,
+	"path":"p-2076-trigger-workflow",
+	"projectId":2076,
+	"standard":false,
+	"version":25
+}
