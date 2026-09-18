@@ -1,0 +1,45 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6a0e611e15aaeb606f1d195c",
+	"createdTime":1779327304105,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIGNCvoxpgLu/jOsle/{name}",
+	"id":"6a0e6148bef72e037c743d5d",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2csizrqzqnpd",
+	"modifiedTime":1779331463898,
+	"name":"changeSetQA2CSIZrQZqnPD",
+	"ownerUserId":175325,
+	"path":"jOsle/{name}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884698397cc242e330451e6"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":3
+}
