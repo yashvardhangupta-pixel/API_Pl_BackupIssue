@@ -1,0 +1,37 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67065a92a7a0c177e610b1b4",
+	"createdTime":1728574270657,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test1/af",
+	"httpMethod":"GET",
+	"id":"6707f33e1a69705cae321996",
+	"lastModifiedBy":520,
+	"lcName":"af",
+	"modifiedTime":1728574270657,
+	"name":"af",
+	"ownerUserId":520,
+	"path":"af",
+	"resourceIds":[
+		null
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"google.com"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}

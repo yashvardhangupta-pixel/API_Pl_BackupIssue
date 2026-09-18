@@ -1,0 +1,40 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"671550ce1428085e02f55028",
+	"createdTime":1729450537480,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"sanity dt testing",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"path/path",
+	"httpMethod":"GET",
+	"id":"671552291428085e02f55029",
+	"lastModifiedBy":520,
+	"lcName":"sanityendpointget",
+	"modifiedTime":1729450537480,
+	"name":"sanityendpointGET",
+	"ownerUserId":520,
+	"path":"path",
+	"policyIds":[
+		"66c61cb6ae4ee374fa8a75eb",
+		"6697d6c91687303fa908b82a"
+	],
+	"projectId":13,
+	"resourceIds":[
+		"671551dc8cb96d5038e9a61c"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}

@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66d78f2d0fd59672864ea329",
+	"createdTime":1728976539350,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"soap-001/rest/test",
+	"httpMethod":"POST",
+	"id":"670e169bdef9891575ed1a33",
+	"lastModifiedBy":4446,
+	"lcName":"rest-test-endpoint",
+	"modifiedTime":1728976539350,
+	"name":"rest-test-endpoint",
+	"ownerUserId":4446,
+	"path":"rest/test",
+	"resourceIds":[
+		"66e99a4c91674218ae4fecc1"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}

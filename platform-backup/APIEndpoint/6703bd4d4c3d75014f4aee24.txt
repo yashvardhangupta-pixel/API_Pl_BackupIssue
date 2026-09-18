@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6703badb4c3d75014f4aed03",
+	"createdTime":1728298317044,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ip/apitest",
+	"httpMethod":"POST",
+	"id":"6703bd4d4c3d75014f4aee24",
+	"lastModifiedBy":520,
+	"lcName":"testingapis",
+	"modifiedTime":1728298620231,
+	"name":"testingapis",
+	"ownerUserId":520,
+	"path":"apitest",
+	"policyIds":[
+		"6703be534c3d75014f4aee27"
+	],
+	"resourceIds":[
+		"6703bd05ec30651a8ce49c57"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		null
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

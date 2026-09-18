@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66fbcb844dfde4705d2715e5",
+	"createdTime":1728795500882,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"RajTestAPI/createApi",
+	"httpMethod":"POST",
+	"id":"670b536c7d44d3594541ff92",
+	"lastModifiedBy":520,
+	"lcName":"testapi2",
+	"modifiedTime":1728795512317,
+	"name":"TestAPI2",
+	"ownerUserId":520,
+	"path":"createApi",
+	"projectId":159,
+	"resourceIds":[
+		null
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
