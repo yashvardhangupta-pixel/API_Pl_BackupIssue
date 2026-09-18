@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d547ba58fc85480c610435",
+	"createdTime":1742030816543,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"TiVYNQLaLwDTrSX/automation",
+	"httpMethod":"POST",
+	"id":"67d547bc58fc85480c610439",
+	"lastModifiedBy":522,
+	"lcName":"changesetlocalrrcdh",
+	"modifiedTime":1742030836459,
+	"name":"changeSetLocalRrcdH",
+	"ownerUserId":522,
+	"path":"automation",
+	"policyIds":[
+		"67d547bb58fc85480c610436"
+	],
+	"resourceIds":[
+		"67d547b8b52df12d0d263da4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
