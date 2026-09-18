@@ -1,0 +1,45 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69d7797e5d02a3516d5e01da",
+	"createdTime":1775729070152,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Token-Usage/qa/etrace/{daysAgo}",
+	"id":"69d779aecaf2f83376d4f463",
+	"lastModifiedBy":195833,
+	"lastPlatformUpdateBy":195833,
+	"lastPlatformUpdateOn":1787067772311,
+	"lcName":"token usage",
+	"modifiedTime":1787067772311,
+	"name":"Token Usage",
+	"ownerUserId":195847,
+	"path":"qa/etrace/{daysAgo}",
+	"resourceIds":[
+		"69d7564acdb05970110f44cf"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":2
+}
