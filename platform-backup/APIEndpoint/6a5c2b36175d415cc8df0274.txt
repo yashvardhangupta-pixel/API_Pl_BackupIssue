@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6a5c2b36e83eea1c6bb36cfc",
+	"createdTime":1784425270268,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"SSE API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"claude-builder/mcp/sse",
+	"httpMethod":"GET",
+	"id":"6a5c2b36175d415cc8df0274",
+	"lastModifiedBy":195322,
+	"lastPlatformUpdateBy":195322,
+	"lastPlatformUpdateOn":1784425270268,
+	"lcName":"sse",
+	"modifiedTime":1784425270268,
+	"name":"SSE",
+	"ownerUserId":195322,
+	"path":"mcp/sse",
+	"resourceIds":[
+		"67dd3e1d24f9fb5bd409af36"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}
