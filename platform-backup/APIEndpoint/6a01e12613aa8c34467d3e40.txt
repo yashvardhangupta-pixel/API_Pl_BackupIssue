@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6a01dfbf13aa8c34467d3db5",
+	"createdTime":1778508070303,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"testHTML/HTML-Testing",
+	"id":"6a01e12613aa8c34467d3e40",
+	"lastModifiedBy":195823,
+	"lcName":"html testing",
+	"modifiedTime":1778508077792,
+	"name":"HTML Testing",
+	"ownerUserId":195823,
+	"path":"HTML-Testing",
+	"resourceIds":[
+		"6a01dfec288c2a25f26340df"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":1
+}

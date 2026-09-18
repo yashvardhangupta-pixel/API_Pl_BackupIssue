@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69f5fc2366d91b123887a0cf",
+	"createdTime":1778507946775,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"POD-Details/flepath",
+	"id":"6a01884b65b2956d65c383c5",
+	"lastModifiedBy":196190,
+	"lcName":"xlsx filepath",
+	"modifiedTime":1778507946775,
+	"name":"XLSX filepath",
+	"ownerUserId":196190,
+	"path":"flepath",
+	"resourceIds":[
+		"6a0186f7f691ba48b90e1a66"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
