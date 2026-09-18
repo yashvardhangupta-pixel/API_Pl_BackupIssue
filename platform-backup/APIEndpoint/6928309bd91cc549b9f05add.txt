@@ -1,0 +1,43 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69283091d91cc549b9f05adc",
+	"createdTime":1764241563846,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIPsphYAAcpW/UpdateBBDBHTQmob",
+	"id":"6928309bd91cc549b9f05add",
+	"lastModifiedBy":-1,
+	"lcName":"updateglmncyetqp",
+	"modifiedTime":1764279988266,
+	"name":"UpdateGlmncyEtQp",
+	"ownerUserId":175325,
+	"path":"UpdateBBDBHTQmob",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
