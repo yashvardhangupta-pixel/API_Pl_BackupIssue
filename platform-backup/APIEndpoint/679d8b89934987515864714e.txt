@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"679d8b86934987515864714a",
+	"createdTime":1738378150518,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"iiSIXpkmcAvHIDF/automation",
+	"httpMethod":"POST",
+	"id":"679d8b89934987515864714e",
+	"lastModifiedBy":522,
+	"lcName":"changesetlocalvpncv",
+	"modifiedTime":1738378165958,
+	"name":"changeSetLocalVpNCv",
+	"ownerUserId":522,
+	"path":"automation",
+	"policyIds":[
+		"679d8b87934987515864714b"
+	],
+	"resourceIds":[
+		"679d8b859287953f0832281a"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

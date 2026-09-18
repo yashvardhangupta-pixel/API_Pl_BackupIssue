@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"679b4ee49349875158646030",
+	"createdTime":1738231555699,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"EVKFAfVmqSaGCAD/automation",
+	"httpMethod":"POST",
+	"id":"679b4ee69349875158646034",
+	"lastModifiedBy":522,
+	"lcName":"changesetlocalebimp",
+	"modifiedTime":1738231572535,
+	"name":"changeSetLocalEBiMP",
+	"ownerUserId":522,
+	"path":"automation",
+	"policyIds":[
+		"679b4ee49349875158646031"
+	],
+	"resourceIds":[
+		"679b4ee2d2256d4d7f321ae8"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}

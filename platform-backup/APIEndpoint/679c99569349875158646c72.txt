@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"679c99339349875158646c71",
+	"createdTime":1738414764502,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"check/check1",
+	"httpMethod":"GET",
+	"id":"679c99569349875158646c72",
+	"lastModifiedBy":30414,
+	"lcName":"check1",
+	"modifiedTime":1738414795116,
+	"name":"check1",
+	"ownerUserId":30414,
+	"path":"check1",
+	"resourceIds":[
+		"678b7a1e265a176876017cf2"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":9
+}
