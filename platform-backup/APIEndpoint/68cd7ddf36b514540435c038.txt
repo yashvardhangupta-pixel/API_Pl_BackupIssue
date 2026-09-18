@@ -1,0 +1,41 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68ccf8bb42ed58735bb79c4e",
+	"createdTime":1758297567792,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test121/testing",
+	"id":"68cd7ddf36b514540435c038",
+	"lastModifiedBy":67744,
+	"lcName":"testing",
+	"modifiedTime":1758297868276,
+	"name":"testing",
+	"ownerUserId":67744,
+	"path":"testing",
+	"policyIds":[
+		"6697d6c91687303fa908b82a",
+		"66c61cb6ae4ee374fa8a75eb",
+		"66b61acf46f52016f084921a",
+		"669a6ca539074e1b0afb3510"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"LLM_MODEL",
+	"standard":false,
+	"version":1
+}

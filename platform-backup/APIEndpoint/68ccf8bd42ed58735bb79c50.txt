@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68ccf8bb42ed58735bb79c4e",
+	"createdTime":1758263485527,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"JSON-RPC API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test121/mcp/messages",
+	"httpMethod":"POST",
+	"id":"68ccf8bd42ed58735bb79c50",
+	"lastModifiedBy":309,
+	"lcName":"json-rpc",
+	"modifiedTime":1758263485527,
+	"name":"JSON-RPC",
+	"ownerUserId":309,
+	"path":"mcp/messages",
+	"resourceIds":[
+		"67dbf54e6b0a2f279887d047"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
