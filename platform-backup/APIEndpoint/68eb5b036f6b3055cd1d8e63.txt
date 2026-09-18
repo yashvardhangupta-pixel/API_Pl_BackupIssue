@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68eaa2ee6f6b3055cd1d880f",
+	"createdTime":1760254723820,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"DT-APIs/multiplefileindexing",
+	"id":"68eb5b036f6b3055cd1d8e63",
+	"lastModifiedBy":89321,
+	"lcName":"multiple file indexing",
+	"modifiedTime":1760254727256,
+	"name":"Multiple file Indexing",
+	"ownerUserId":89321,
+	"path":"multiplefileindexing",
+	"resourceIds":[
+		"68ea58ace4793f27864bbd42"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

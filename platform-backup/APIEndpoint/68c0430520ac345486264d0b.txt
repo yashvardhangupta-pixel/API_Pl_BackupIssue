@@ -1,0 +1,49 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":5,
+			"enabled":true,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6862e551267f1c5f2e090460",
+	"createdTime":1760257694834,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"oauth/token",
+	"id":"68c0430520ac345486264d0b",
+	"lastModifiedBy":45011,
+	"lcName":"oauth token",
+	"modifiedTime":1760257694834,
+	"name":"OAuth Token",
+	"ownerUserId":45011,
+	"path":"token",
+	"policyIds":[
+		"6862e55e267f1c5f2e090461"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"{{ systemInputs.__ENV__.OAuth_Token_baseurl }}"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":2
+}

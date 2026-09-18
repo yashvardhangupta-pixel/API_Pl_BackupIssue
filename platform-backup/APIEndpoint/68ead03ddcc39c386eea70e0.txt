@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68eacff0dcc39c386eea70c9",
+	"createdTime":1760219349350,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSOGZYErhqnIa/changeSetQA2CSOIKnrZIZCS",
+	"id":"68ead03ddcc39c386eea70e0",
+	"lastModifiedBy":-1,
+	"lcName":"ohywgfjaslmfywhbifpr",
+	"modifiedTime":1760304932327,
+	"name":"oHYWgfjASlmFYwHbifpr",
+	"ownerUserId":175325,
+	"path":"changeSetQA2CSOIKnrZIZCS",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688467ca97cc242e33044c06"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":2
+}
