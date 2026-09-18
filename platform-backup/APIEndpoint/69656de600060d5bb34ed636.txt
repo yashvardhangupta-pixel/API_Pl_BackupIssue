@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69656db800060d5bb34ed62b",
+	"createdTime":1768255135073,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateRaLQLimCWk/RMgmX/{name}",
+	"id":"69656de600060d5bb34ed636",
+	"lastModifiedBy":-1,
+	"lcName":"changesetqa2clhvogff",
+	"modifiedTime":1768258202381,
+	"name":"changeSetQA2CLhvogfF",
+	"ownerUserId":175325,
+	"path":"RMgmX/{name}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":3
+}
