@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680f5c3cd3daf14cee71084d",
+	"createdTime":1745837120809,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"teqfpbrtbectval/webhook?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"680f5c40d3daf14cee710852",
+	"lastModifiedBy":522,
+	"lcName":"changesetlocaliefhp",
+	"modifiedTime":1745837161476,
+	"name":"changeSetLocalIEfHP",
+	"ownerUserId":522,
+	"path":"webhook",
+	"policyIds":[
+		"680f5c3dd3daf14cee71084e"
+	],
+	"resourceIds":[
+		"680f5c3b14e13b04bb16e37d"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
