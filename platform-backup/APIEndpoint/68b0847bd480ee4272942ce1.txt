@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68b08479d480ee4272942cdf",
+	"createdTime":1756398715544,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Message send that handles RPC calls using json payload",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"a2a-redirect/message/send",
+	"httpMethod":"POST",
+	"id":"68b0847bd480ee4272942ce1",
+	"lastModifiedBy":30181,
+	"lcName":"message send (json + rpc)",
+	"modifiedTime":1756398715544,
+	"name":"Message Send (JSON + RPC)",
+	"ownerUserId":30181,
+	"path":"message/send",
+	"resourceIds":[
+		"68a33246d735e0680f9f4a15"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
