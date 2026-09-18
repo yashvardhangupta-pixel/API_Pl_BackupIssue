@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"69e0e714d3d8a17313c497d2",
+	"createdTime":1776346900824,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"SSE API Endpoint for MCP Server",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-fagun/mcp/sse",
+	"httpMethod":"GET",
+	"id":"69e0e714c705c91445c68f53",
+	"lastModifiedBy":186875,
+	"lcName":"sse",
+	"modifiedTime":1776346900824,
+	"name":"SSE",
+	"ownerUserId":186875,
+	"path":"mcp/sse",
+	"resourceIds":[
+		"67dd3e1d24f9fb5bd409af36"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}
