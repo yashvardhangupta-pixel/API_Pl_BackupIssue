@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68e58a7ed264ac26908022ce",
+	"createdTime":1759873896446,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateyXalJHgvVN/aHDet/{name}",
+	"id":"68e58aadd264ac26908022dc",
+	"lastModifiedBy":-1,
+	"lcName":"changesetqa2csogcddvule",
+	"modifiedTime":1759921864217,
+	"name":"changeSetQA2CSOGCddVULe",
+	"ownerUserId":175325,
+	"path":"aHDet/{name}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":3
+}
