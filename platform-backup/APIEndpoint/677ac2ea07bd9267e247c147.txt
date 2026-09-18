@@ -1,0 +1,36 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"677ac2ab07bd9267e247c146",
+	"createdTime":1736098538551,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"New API1",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"path88/qa?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"677ac2ea07bd9267e247c147",
+	"lastModifiedBy":520,
+	"lcName":"newapi1",
+	"modifiedTime":1736098572339,
+	"name":"NewAPI1",
+	"ownerUserId":520,
+	"path":"qa",
+	"policyIds":[
+		"6697d6c91687303fa908b82a",
+		"66c61cb6ae4ee374fa8a75eb"
+	],
+	"resourceIds":[
+		"66ced8d38bdfc47f95afafb2",
+		"67372894d7ca772733a8fc0d"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

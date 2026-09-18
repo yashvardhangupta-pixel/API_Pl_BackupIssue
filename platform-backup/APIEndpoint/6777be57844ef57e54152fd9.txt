@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6777be54844ef57e54152fd5",
+	"createdTime":1735900777492,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"customautomation/automation",
+	"httpMethod":"POST",
+	"id":"6777be57844ef57e54152fd9",
+	"lastModifiedBy":522,
+	"lcName":"changesetlvfgk",
+	"modifiedTime":1735900777492,
+	"name":"ChangeSetLVfgK",
+	"ownerUserId":522,
+	"path":"automation",
+	"policyIds":[
+		"6777be55844ef57e54152fd6"
+	],
+	"resourceIds":[
+		"6777be525fda107b07340f61"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

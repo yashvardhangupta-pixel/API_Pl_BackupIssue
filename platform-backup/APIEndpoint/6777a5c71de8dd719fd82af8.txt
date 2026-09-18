@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6777a5c41de8dd719fd82af4",
+	"createdTime":1735894492647,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"customautomation/automation",
+	"httpMethod":"POST",
+	"id":"6777a5c71de8dd719fd82af8",
+	"lastModifiedBy":522,
+	"lcName":"changesetgiugn",
+	"modifiedTime":1735894492647,
+	"name":"ChangeSetgiuGN",
+	"ownerUserId":522,
+	"path":"automation",
+	"policyIds":[
+		"6777a5c51de8dd719fd82af5"
+	],
+	"resourceIds":[
+		"6777a5c303470b3ebb8612d7"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

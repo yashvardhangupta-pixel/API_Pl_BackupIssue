@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6777bc97844ef57e54152fc6",
+	"createdTime":1735900331551,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"customautomation/automation",
+	"httpMethod":"POST",
+	"id":"6777bc9a844ef57e54152fca",
+	"lastModifiedBy":522,
+	"lcName":"changesetjajdk",
+	"modifiedTime":1735900331551,
+	"name":"ChangeSetjajdK",
+	"ownerUserId":522,
+	"path":"automation",
+	"policyIds":[
+		"6777bc98844ef57e54152fc7"
+	],
+	"resourceIds":[
+		"6777bc951781c050c5438c76"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

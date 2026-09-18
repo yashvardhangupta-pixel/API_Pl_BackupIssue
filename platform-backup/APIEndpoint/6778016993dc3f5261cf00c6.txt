@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6778011393dc3f5261cf00a4",
+	"createdTime":1735917929791,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-m/1",
+	"fallbackResponse":{
+		"headers":{
+			"new":"test",
+			"hello ":"test"
+		},
+		"message":"Bad Request",
+		"response":{},
+		"soapResponse":"",
+		"statusCode":400
+	},
+	"httpMethod":"POST",
+	"id":"6778016993dc3f5261cf00c6",
+	"lastModifiedBy":520,
+	"lcName":"1",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1735919059140,
+	"name":"1",
+	"ownerUserId":520,
+	"path":"1",
+	"policyIds":[
+		"66c61cb6ae4ee374fa8a75eb"
+	],
+	"resourceIds":[
+		"67092d84c5e68d77722d0fea"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		null
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}
