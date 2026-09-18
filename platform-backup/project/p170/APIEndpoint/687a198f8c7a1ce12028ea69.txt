@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6879fc9ae1c1f0c452933ec1",
+	"createdTime":1752832399761,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"dummy",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"hp-testing/hello",
+	"id":"687a198f8c7a1ce12028ea69",
+	"lastModifiedBy":33444,
+	"lcName":"tesst",
+	"modifiedTime":1752832404239,
+	"name":"tesst",
+	"ownerUserId":33444,
+	"path":"hello",
+	"projectId":170,
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://dummyjson.com/RESOURCE/?limit=10&skip=5&select=key1,key2,key3"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

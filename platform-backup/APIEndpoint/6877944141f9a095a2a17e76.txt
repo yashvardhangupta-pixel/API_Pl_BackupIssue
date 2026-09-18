@@ -1,0 +1,38 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687793532c16bce1fd0339d0",
+	"createdTime":1752667201730,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-api-djvk/forwardAllPath/test",
+	"id":"6877944141f9a095a2a17e76",
+	"lastModifiedBy":46209,
+	"lcName":"test-local-api",
+	"modifiedTime":1752745523286,
+	"name":"test-local-api",
+	"ownerUserId":46209,
+	"path":"forwardAllPath/test",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":true,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://catfact.ninja/fact"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":17
+}

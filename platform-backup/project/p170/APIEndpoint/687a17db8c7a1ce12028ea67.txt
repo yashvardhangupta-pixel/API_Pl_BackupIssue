@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6879fc9ae1c1f0c452933ec1",
+	"createdTime":1752831963382,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"hp-testing/testing",
+	"fallbackResponse":{
+		"headers":{
+			"message":"Still working hard to get you access"
+		},
+		"message":"Unauthorized",
+		"response":{},
+		"soapResponse":"",
+		"statusCode":401
+	},
+	"id":"687a17db8c7a1ce12028ea67",
+	"lastModifiedBy":33444,
+	"lcName":"hp",
+	"llmRequestType":"CHAT",
+	"localeBasedFallbackResponse":{},
+	"modifiedTime":1752832306060,
+	"name":"hp",
+	"ownerUserId":33444,
+	"path":"testing",
+	"projectId":170,
+	"resourceIds":[
+		"e_686654b81257d219bd7958d7"
+	],
+	"resourceType":"LLM_MODEL",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":8
+}
