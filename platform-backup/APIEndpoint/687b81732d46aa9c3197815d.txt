@@ -1,0 +1,36 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687b80532d46aa9c31978159",
+	"createdTime":1752924531209,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"star-testing/user",
+	"id":"687b81732d46aa9c3197815d",
+	"lastModifiedBy":31268,
+	"lcName":"star testing",
+	"modifiedTime":1753095541797,
+	"name":"star testing",
+	"ownerUserId":31268,
+	"path":"user",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":true,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"{{ systemInputs.__ENV__.alert_channel }}"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}
