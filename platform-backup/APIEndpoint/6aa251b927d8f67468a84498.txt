@@ -1,0 +1,47 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6aa251b427d8f67468a84497",
+	"createdTime":1789022649646,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"amraxh5/ahqdik",
+	"id":"6aa251b927d8f67468a84498",
+	"lastModifiedBy":238035,
+	"lastPlatformUpdateBy":238035,
+	"lastPlatformUpdateOn":1789201913518,
+	"lcName":"export_apiendpointcustom- 217890185740610",
+	"modifiedTime":1789201913518,
+	"name":"Export_APIEndpointCustom- 217890185740610",
+	"ownerUserId":238035,
+	"path":"ahqdik",
+	"resourceIds":[
+		"6aa2519b97ae253b0aad27a2"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"tags":[
+		"dnt_tag"
+	],
+	"version":2
+}
