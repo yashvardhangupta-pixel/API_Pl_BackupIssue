@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683fe9470179ec531524754a",
+	"createdTime":1749019347591,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Random/post-api",
+	"id":"683fead30179ec5315247558",
+	"lastModifiedBy":522,
+	"lcName":"post api",
+	"modifiedTime":1751544616101,
+	"name":"post api",
+	"ownerUserId":522,
+	"path":"post-api",
+	"policyIds":[
+		"6761b893a892a32c7089634c",
+		"6840096d0179ec53152482b3"
+	],
+	"resourceIds":[
+		"683fea4c622eac5d2043486f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}

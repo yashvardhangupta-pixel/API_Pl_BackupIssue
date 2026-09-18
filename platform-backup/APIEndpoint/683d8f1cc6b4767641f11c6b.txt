@@ -1,0 +1,42 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683d8ebdc6b4767641f11c66",
+	"createdTime":1748864796823,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"vtex-master-data/vtex/pe/dataentities/CL",
+	"httpMethod":"PATCH",
+	"id":"683d8f1cc6b4767641f11c6b",
+	"lastModifiedBy":522,
+	"lcName":"vtex master data peru",
+	"modifiedTime":1751544618059,
+	"name":"VTEX Master Data Peru",
+	"ownerUserId":45768,
+	"path":"vtex/pe/dataentities/CL",
+	"policyIds":[
+		"683d8ecfc6b4767641f11c67",
+		"683d8ee4c6b4767641f11c68",
+		"683d8f0ec6b4767641f11c69"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://belcorpperuqa.vtexcommercestable.com.br/api/dataentities/CL"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":1
+}

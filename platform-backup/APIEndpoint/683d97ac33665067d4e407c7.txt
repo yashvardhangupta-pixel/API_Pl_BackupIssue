@@ -1,0 +1,41 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683d976a33665067d4e407c3",
+	"createdTime":1748866988867,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"vtex-master-data-v2/co/dataentities/CL",
+	"httpMethod":"PATCH",
+	"id":"683d97ac33665067d4e407c7",
+	"lastModifiedBy":522,
+	"lcName":"vtex master data colombia",
+	"modifiedTime":1751544617712,
+	"name":"VTEX Master Data Colombia",
+	"ownerUserId":45768,
+	"path":"co/dataentities/CL",
+	"policyIds":[
+		"683d977b33665067d4e407c4",
+		"683d979133665067d4e407c5"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://belcorpcolombiaqa.vtexcommercestable.com.br/api/dataentities/CL"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":1
+}

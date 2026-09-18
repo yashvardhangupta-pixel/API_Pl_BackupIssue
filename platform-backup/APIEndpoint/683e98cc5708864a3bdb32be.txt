@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683e97a15708864a3bdb32ab",
+	"createdTime":1748932812862,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"API-GROUP-Zeel/Get-API",
+	"id":"683e98cc5708864a3bdb32be",
+	"lastModifiedBy":522,
+	"lcName":"get api",
+	"modifiedTime":1751544617163,
+	"name":"Get API",
+	"ownerUserId":139266,
+	"path":"Get-API",
+	"policyIds":[
+		"6761b893a892a32c7089634c"
+	],
+	"resourceIds":[
+		"683e981a8961ab7e179072dc"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}

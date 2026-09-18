@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683ed0490179ec5315245f50",
+	"createdTime":1748947053335,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"messages/all",
+	"id":"683ed06d0179ec5315245f52",
+	"lastModifiedBy":522,
+	"lcName":"get messages",
+	"modifiedTime":1751544616831,
+	"name":"Get Messages",
+	"ownerUserId":522,
+	"path":"all",
+	"projectId":1826,
+	"resourceIds":[
+		"683ecf4966ddbd11846b7b7f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

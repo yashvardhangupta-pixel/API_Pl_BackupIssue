@@ -1,0 +1,38 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683855f32c164c129f442da9",
+	"createdTime":1748522496647,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"Retrieves personal information of a consultant",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"bcm-consultants/infoPersonal/{consultantId}",
+	"httpMethod":"GET",
+	"id":"683856002c164c129f442daa",
+	"lastModifiedBy":522,
+	"lcName":"get consultant personal info",
+	"modifiedTime":1751544619893,
+	"name":"Get Consultant Personal Info",
+	"ownerUserId":45768,
+	"path":"infoPersonal/{consultantId}",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"api-qa.belcorp.biz/bcm/consultants"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

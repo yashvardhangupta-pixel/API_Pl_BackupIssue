@@ -1,0 +1,43 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6841a2e7ebab6148d6eb05e4",
+	"createdTime":1749132125704,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"VTEX Master Data API for CL (Client) entity, handling requests for Peru and Colombia.",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"vtex-master-data-cl/dataentities/CL",
+	"httpMethod":"PATCH",
+	"id":"6841a35debab6148d6eb05f0",
+	"lastModifiedBy":522,
+	"lcName":"vtex master data cl api",
+	"modifiedTime":1751544613513,
+	"name":"VTEX Master Data CL API",
+	"ownerUserId":46218,
+	"path":"dataentities/CL",
+	"policyIds":[
+		"6841a2faebab6148d6eb05eb",
+		"6841a314ebab6148d6eb05ec",
+		"6841a34cebab6148d6eb05ef"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://belcorp.myvtex.com/api/dataentities/CL"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":1
+}

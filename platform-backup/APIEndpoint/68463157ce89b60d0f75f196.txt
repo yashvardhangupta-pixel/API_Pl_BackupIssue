@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68462e28ce89b60d0f75f18b",
+	"createdTime":1749430615035,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"Returns a book by ID",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"books/books/id",
+	"id":"68463157ce89b60d0f75f196",
+	"lastModifiedBy":522,
+	"lcName":"get books",
+	"modifiedTime":1751544611920,
+	"name":"Get Books",
+	"ownerUserId":140305,
+	"path":"books/id",
+	"resourceIds":[
+		"68413267f7f0c53f38fea066"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}

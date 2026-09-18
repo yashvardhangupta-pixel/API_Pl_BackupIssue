@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684021b20179ec5315248397",
+	"createdTime":1749034198547,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Project1-ULeave/Post-Leave",
+	"id":"684024d60179ec53152483be",
+	"lastModifiedBy":522,
+	"lcName":"post leave",
+	"modifiedTime":1751544615597,
+	"name":"Post Leave",
+	"ownerUserId":139250,
+	"path":"Post-Leave",
+	"policyIds":[
+		"6761b893a892a32c7089634c"
+	],
+	"resourceIds":[
+		"683feddbec79706f176cf040"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}
