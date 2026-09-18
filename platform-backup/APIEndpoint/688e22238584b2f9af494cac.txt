@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"688e22208584b2f9af494ca8",
+	"createdTime":1754145392591,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"FGCBMMdlHTkemIq/automation",
+	"httpMethod":"POST",
+	"id":"688e22238584b2f9af494cac",
+	"lastModifiedBy":168834,
+	"lcName":"changesetlocalmsedc",
+	"modifiedTime":1754145577524,
+	"name":"changeSetLocalmseDc",
+	"ownerUserId":168834,
+	"path":"automation",
+	"policyIds":[
+		"688e22218584b2f9af494ca9"
+	],
+	"resourceIds":[
+		"688e221fa5f2e0fbfddfa5ba"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
