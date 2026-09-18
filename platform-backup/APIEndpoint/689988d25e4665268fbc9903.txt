@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"689988c35e4665268fbc98fe",
+	"createdTime":1754892498639,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"webhook-/webhook-enpoint?resourceId={{RESOURCE_ID}}",
+	"id":"689988d25e4665268fbc9903",
+	"lastModifiedBy":37018,
+	"lcName":"webhook enpoint",
+	"modifiedTime":1754892500518,
+	"name":"webhook enpoint",
+	"ownerUserId":37018,
+	"path":"webhook-enpoint",
+	"resourceIds":[
+		"68991996ae05680530bda124"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

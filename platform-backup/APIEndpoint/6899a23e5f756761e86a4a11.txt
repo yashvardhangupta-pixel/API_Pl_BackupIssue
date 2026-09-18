@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6899a22a5f756761e86a4a0d",
+	"createdTime":1754899211128,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"changeSetLocalCSOvTUZJSNeyY/KGTmpPc",
+	"id":"6899a23e5f756761e86a4a11",
+	"lastModifiedBy":162004,
+	"lcName":"changesetlocal_externalapi_post_2763719547",
+	"modifiedTime":1754902537308,
+	"name":"changeSetLocal_ExternalAPI_Post_2763719547",
+	"ownerUserId":162004,
+	"path":"KGTmpPc",
+	"policyIds":[
+		"6899a2225f756761e86a4a0c"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"POST",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://httpbin.org/anything"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}

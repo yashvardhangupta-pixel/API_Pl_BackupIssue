@@ -1,0 +1,47 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":2.0,
+			"count":4,
+			"enabled":true,
+			"initialDelay":1000,
+			"maxDelay":5000
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6867b2833c11e5194519ada8",
+	"createdTime":1751953509642,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"apigroup-ub/test-retry-exapi",
+	"id":"686cb065821345136e16fd3a",
+	"lastModifiedBy":44567,
+	"lcName":"test_retry_exapi",
+	"modifiedTime":1754893814094,
+	"name":"test_retry_exapi",
+	"ownerUserId":44567,
+	"path":"test-retry-exapi",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://httpstat.us/502"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":73
+}
