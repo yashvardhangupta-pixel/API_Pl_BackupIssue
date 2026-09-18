@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6898cfb1cb32b47fb1646901",
+	"createdTime":1754845190839,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIIJlfbpheli/qltUi/{name}",
+	"id":"6898d006cb32b47fb1646909",
+	"lastModifiedBy":162004,
+	"lcName":"vmohdqpvtjlisghqvdmn",
+	"modifiedTime":1754845193073,
+	"name":"VmohdqpVTJLisghqVdMN",
+	"ownerUserId":162004,
+	"path":"qltUi/{name}",
+	"policyIds":[
+		"6898cf9ecb32b47fb16468fd"
+	],
+	"resourceIds":[
+		"688de839bd2219dcf5095379"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PATCH",
+		"PUT"
+	],
+	"version":1
+}
