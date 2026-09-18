@@ -1,0 +1,41 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"695f981d09150623d595a586",
+	"createdTime":1768385431116,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"testing-same-path/http-method-in-callable-output",
+	"id":"69676b972aa5c91c5d399c09",
+	"lastModifiedBy":124029,
+	"lcName":"http method in callable output",
+	"modifiedTime":1768385434292,
+	"name":"http method in callable output",
+	"ownerUserId":124029,
+	"path":"http-method-in-callable-output",
+	"resourceIds":[
+		"69676b4b53059e362a424c2b"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET",
+		"PATCH"
+	],
+	"version":1
+}

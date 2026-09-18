@@ -1,0 +1,39 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6966848a3edcbc73df1e78c4",
+	"createdTime":1768326344680,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"HFC-V1/serviceQualificationManagement/v1",
+	"id":"696684c83edcbc73df1e78c7",
+	"lastModifiedBy":195237,
+	"lcName":"hfc v1 m-api",
+	"modifiedTime":1768326416425,
+	"name":"HFC V1 M-API",
+	"ownerUserId":195237,
+	"path":"serviceQualificationManagement/v1",
+	"resourceIds":[
+		"6966037214bd922ef7582153"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
