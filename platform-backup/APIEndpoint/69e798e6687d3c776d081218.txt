@@ -1,0 +1,45 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69e798dfe36b48048f41f3bf",
+	"createdTime":1776785638256,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"arma9ih/amhmwbc",
+	"id":"69e798e6687d3c776d081218",
+	"lastModifiedBy":175325,
+	"lcName":"createendpointforschemasequence - 217767842264500",
+	"modifiedTime":1776785656432,
+	"name":"createEndpointForSchemaSequence - 217767842264500",
+	"ownerUserId":175325,
+	"path":"amhmwbc",
+	"resourceIds":[
+		"69e798c48466f1592cc356ff"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"tags":[
+		"dnt_tag"
+	],
+	"version":2
+}
