@@ -1,0 +1,36 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6867b2833c11e5194519ada8",
+	"createdTime":1752329360155,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"apigroup-ub/dwede",
+	"id":"68726c90d228312ae9c1679d",
+	"lastModifiedBy":44567,
+	"lcName":"dwede",
+	"modifiedTime":1754386162003,
+	"name":"dwede",
+	"ownerUserId":44567,
+	"path":"dwede",
+	"resourceIds":[
+		"6870f1c9de85ca2ba1310348"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"southBoundAPI":{
+		"forwardAllPaths":true,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":29
+}

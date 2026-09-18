@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6867b2833c11e5194519ada8",
+	"createdTime":1754426473740,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"apigroup-ub/test-rv-policy",
+	"id":"68926c69b8161238aa52bc72",
+	"lastModifiedBy":44567,
+	"lcName":"test_rv_policy",
+	"modifiedTime":1754426481924,
+	"name":"test_rv_policy",
+	"ownerUserId":44567,
+	"path":"test-rv-policy",
+	"policyIds":[
+		"68926c08b8161238aa52bc71"
+	],
+	"resourceIds":[
+		"6828279836516f034a84dfa9"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":1
+}

@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68921b93b8161238aa52b89a",
+	"createdTime":1754405814663,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"changeSetLocalCSOXYNHgpvHpJ/RArPIAG",
+	"id":"68921bb6b8161238aa52b89f",
+	"lastModifiedBy":162004,
+	"lcName":"changesetlocal_externalapi_put_1705658365",
+	"modifiedTime":1754409251013,
+	"name":"changeSetLocal_ExternalAPI_Put_1705658365",
+	"ownerUserId":162004,
+	"path":"RArPIAG",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"PUT",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://httpbin.org/anything"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":2
+}
