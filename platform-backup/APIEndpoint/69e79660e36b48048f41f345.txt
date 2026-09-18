@@ -1,0 +1,47 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69e79658e36b48048f41f344",
+	"createdTime":1776784992063,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"acgm7m/atkse4",
+	"id":"69e79660e36b48048f41f345",
+	"lastModifiedBy":175325,
+	"lastPlatformUpdateBy":175325,
+	"lastPlatformUpdateOn":1787838145480,
+	"lcName":"callable_endpoint_graphqlapi - 217767842361550",
+	"modifiedTime":1787838145480,
+	"name":"callable_endpoint_graphQLApi - 217767842361550",
+	"ownerUserId":175325,
+	"path":"atkse4",
+	"resourceIds":[
+		"69e7963adf2d2c1d108c0b0f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"tags":[
+		"dnt_tag"
+	],
+	"version":1
+}
