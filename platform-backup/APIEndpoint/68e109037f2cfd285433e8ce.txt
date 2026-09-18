@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68e108d47f2cfd285433e8c1",
+	"createdTime":1759578557707,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdatevROCFnNoie/ZEDcs/{name}",
+	"id":"68e109037f2cfd285433e8ce",
+	"lastModifiedBy":-1,
+	"lcName":"changesetqa2csokhgzanpk",
+	"modifiedTime":1759613712117,
+	"name":"changeSetQA2CSOkHgzaNPk",
+	"ownerUserId":175325,
+	"path":"ZEDcs/{name}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":3
+}
