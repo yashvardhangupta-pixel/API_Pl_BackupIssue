@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683099dec9a363233bc9e9f2",
+	"createdTime":1748015602974,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"check-env/endpoint-env",
+	"id":"683099f2c9a363233bc9e9f3",
+	"lastModifiedBy":522,
+	"lcName":"endpoint-env",
+	"modifiedTime":1751544627606,
+	"name":"endpoint-env",
+	"ownerUserId":33453,
+	"path":"endpoint-env",
+	"resourceIds":[
+		"683098231f85246f5b3a73e4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":2
+}

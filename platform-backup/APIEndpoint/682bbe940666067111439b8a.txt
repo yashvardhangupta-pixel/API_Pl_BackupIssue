@@ -1,0 +1,37 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682bbc7f0666067111439b7e",
+	"createdTime":1747697300858,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test111/1",
+	"id":"682bbe940666067111439b8a",
+	"lastModifiedBy":522,
+	"lcName":"test",
+	"modifiedTime":1751544632755,
+	"name":"test",
+	"ownerUserId":39713,
+	"path":"1",
+	"resourceIds":[
+		"67ea9c766f26c73e1322b2b1"
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://graphqlzero.almansi.me/api"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

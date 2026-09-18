@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6831c11f34d85b4e60472b53",
+	"createdTime":1748091212627,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ext-down-check/{p1}/{p2}",
+	"id":"6831c14c34d85b4e60472b54",
+	"lastModifiedBy":522,
+	"lcName":"ext-check",
+	"modifiedTime":1751544626210,
+	"name":"ext-check",
+	"ownerUserId":43498,
+	"path":"{p1}/{p2}",
+	"policyIds":[
+		"6831c31534d85b4e60472b64"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://api.qa.unifyapps.com/api-endpoint/check-external/test-external/{p1}/{p2}"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":3
+}

@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683802533013106238d22438",
+	"createdTime":1748508955149,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"v1/sample",
+	"id":"6838211bd6538248da4f49ad",
+	"lastModifiedBy":522,
+	"lcName":"sample webhook",
+	"modifiedTime":1751544621353,
+	"name":"Sample webhook",
+	"ownerUserId":311,
+	"path":"sample",
+	"resourceIds":[
+		"683820f2ca6fe3000cd5fde3"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PUT",
+		"PATCH"
+	],
+	"version":2
+}

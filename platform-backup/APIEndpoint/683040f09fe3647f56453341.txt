@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682fc6d9df8d9903b72b76a5",
+	"createdTime":1747992816431,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"00000/user/{p2}/{p1}",
+	"id":"683040f09fe3647f56453341",
+	"lastModifiedBy":522,
+	"lcName":"testing param in downstream",
+	"modifiedTime":1751544628999,
+	"name":"testing param in downstream",
+	"ownerUserId":43498,
+	"path":"user/{p2}/{p1}",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://zapier.com/apps/{p1}/{p2}"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":17
+}

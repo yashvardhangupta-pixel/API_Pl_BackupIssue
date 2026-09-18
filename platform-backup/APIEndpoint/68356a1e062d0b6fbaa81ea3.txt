@@ -1,0 +1,37 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68314f9ac9a363233bc9f3cc",
+	"createdTime":1748331038799,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"saccascas/scascascasc",
+	"httpMethod":"DELETE",
+	"id":"68356a1e062d0b6fbaa81ea3",
+	"lastModifiedBy":522,
+	"lcName":"testing",
+	"modifiedTime":1751544627206,
+	"name":"testing",
+	"ownerUserId":39713,
+	"path":"scascascasc",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"scascasc"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":1
+}

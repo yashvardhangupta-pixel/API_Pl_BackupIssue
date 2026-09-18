@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683734cda4ae0f238cf6a7ae",
+	"createdTime":1748448495619,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"figma/node-details",
+	"id":"683734efa4ae0f238cf6a7b5",
+	"lastModifiedBy":522,
+	"lcName":"get node details",
+	"modifiedTime":1751544621823,
+	"name":"Get Node details",
+	"ownerUserId":34,
+	"path":"node-details",
+	"resourceIds":[
+		"683813dd4f29a705b36fcd49"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

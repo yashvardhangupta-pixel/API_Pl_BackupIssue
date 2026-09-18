@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683074e84d4b6d429b8acc05",
+	"createdTime":1748006194693,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"TestRT/requesttransformer",
+	"id":"683075324d4b6d429b8acc06",
+	"lastModifiedBy":522,
+	"lcName":"requesttransformer",
+	"modifiedTime":1751544627768,
+	"name":"requesttransformer",
+	"ownerUserId":46218,
+	"path":"requesttransformer",
+	"policyIds":[
+		"682ed67c94a5cd72525c4e11",
+		"683074ce4d4b6d429b8acc04"
+	],
+	"resourceIds":[
+		"6821efdeff494c0a5af4d887"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":3
+}

@@ -1,0 +1,38 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68381d30f8860a2af5d2605e",
+	"createdTime":1748507961789,
+	"customizeTimeout":false,
+	"deleted":true,
+	"description":"Endpoint to generate authentication tokens",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"token-generator/generate",
+	"httpMethod":"POST",
+	"id":"68381d39f8860a2af5d2605f",
+	"lastModifiedBy":522,
+	"lcName":"generate token",
+	"modifiedTime":1751544621134,
+	"name":"Generate Token",
+	"ownerUserId":38712,
+	"path":"generate",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://api.example.com/token/generate"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6831874f2028066d687b19aa",
+	"createdTime":1748076402982,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"retry/test",
+	"id":"683187722028066d687b19ad",
+	"lastModifiedBy":522,
+	"lcName":"testing-retry",
+	"modifiedTime":1751544627046,
+	"name":"testing-retry",
+	"ownerUserId":43498,
+	"path":"test",
+	"resourceIds":[
+		"680a24356d0a723e9049d65b"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":3
+}

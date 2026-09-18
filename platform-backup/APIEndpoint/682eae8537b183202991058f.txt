@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682c11a803534a2cce34e8dd",
+	"createdTime":1747889797788,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"apigroup-ub/rv-api",
+	"id":"682eae8537b183202991058f",
+	"lastModifiedBy":522,
+	"lcName":"rv_api",
+	"modifiedTime":1751544632581,
+	"name":"rv_api",
+	"ownerUserId":44567,
+	"path":"rv-api",
+	"policyIds":[
+		"682eaefa37b18320299105aa"
+	],
+	"resourceIds":[
+		"6828279836516f034a84dfa9"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":17
+}

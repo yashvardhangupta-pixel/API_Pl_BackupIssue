@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6831b20734d85b4e60472a9d",
+	"createdTime":1748087361587,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"internalpathparametertest/{p1}/{p2}",
+	"id":"6831b24134d85b4e60472aa2",
+	"lastModifiedBy":522,
+	"lcName":"test",
+	"modifiedTime":1751544626515,
+	"name":"test",
+	"ownerUserId":46218,
+	"path":"{p1}/{p2}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://api.qa.unifyapps.com/api-endpoint/{p1}/{p2}"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":8
+}

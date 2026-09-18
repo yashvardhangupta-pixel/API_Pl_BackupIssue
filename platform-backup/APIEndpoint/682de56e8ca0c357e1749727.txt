@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682de5398ca0c357e1749720",
+	"createdTime":1747838318213,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"test-het/checkCors",
+	"id":"682de56e8ca0c357e1749727",
+	"lastModifiedBy":522,
+	"lcName":"checkcors",
+	"modifiedTime":1751544630852,
+	"name":"checkCors",
+	"ownerUserId":44105,
+	"path":"checkCors",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"682853a4df825e08a73ed022"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

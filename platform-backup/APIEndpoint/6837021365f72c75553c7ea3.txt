@@ -1,0 +1,40 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682eed68b4872f0f2051b4cb",
+	"createdTime":1748435475405,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"test-filter/todos",
+	"id":"6837021365f72c75553c7ea3",
+	"lastModifiedBy":522,
+	"lcName":"downstream",
+	"modifiedTime":1751544629796,
+	"name":"downstream",
+	"ownerUserId":44105,
+	"path":"todos",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://jsonplaceholder.typicode.com/"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PUT",
+		"PATCH"
+	],
+	"version":6
+}

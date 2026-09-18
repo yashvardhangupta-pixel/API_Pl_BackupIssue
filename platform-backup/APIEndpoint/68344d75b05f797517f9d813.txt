@@ -1,0 +1,39 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68344d3db05f797517f9d812",
+	"createdTime":1748258165759,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"path-parameter-test/{p1}/{p2}",
+	"id":"68344d75b05f797517f9d813",
+	"lastModifiedBy":522,
+	"lcName":"test 26 may",
+	"modifiedTime":1751544625699,
+	"name":"test 26 may",
+	"ownerUserId":46218,
+	"path":"{p1}/{p2}",
+	"policyIds":[
+		"68344e02b05f797517f9d818"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://en.wikipedia.org/{p1}/{p2}"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

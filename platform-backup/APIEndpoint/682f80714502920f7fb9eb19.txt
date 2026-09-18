@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682f7dcc4502920f7fb9eb15",
+	"createdTime":1747943537464,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"status-code/failure-status?resourceId={{RESOURCE_ID}}",
+	"id":"682f80714502920f7fb9eb19",
+	"lastModifiedBy":522,
+	"lcName":"failure-status",
+	"modifiedTime":1751544629222,
+	"name":"failure-status",
+	"ownerUserId":50891,
+	"path":"failure-status",
+	"resourceIds":[
+		"682f7a0de476e15ad3590d23"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}

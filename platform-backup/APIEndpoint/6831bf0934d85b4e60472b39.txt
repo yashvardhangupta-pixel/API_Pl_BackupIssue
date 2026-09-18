@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6831beb934d85b4e60472b36",
+	"createdTime":1748090633219,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"check-external/test-external/{paramA}/{paramB}",
+	"id":"6831bf0934d85b4e60472b39",
+	"lastModifiedBy":522,
+	"lcName":"test-external",
+	"modifiedTime":1751544626361,
+	"name":"test-external",
+	"ownerUserId":43498,
+	"path":"test-external/{paramA}/{paramB}",
+	"resourceIds":[
+		"6831b4212b0a414566a3a481"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":3
+}

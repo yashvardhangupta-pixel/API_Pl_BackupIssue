@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68306256699f3d42431dbf00",
+	"createdTime":1748002113478,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"cors-test/cors-test",
+	"id":"68306541699f3d42431dbf2d",
+	"lastModifiedBy":522,
+	"lcName":"cors test",
+	"modifiedTime":1751544628101,
+	"name":"cors test",
+	"ownerUserId":46218,
+	"path":"cors-test",
+	"policyIds":[
+		"683064d2699f3d42431dbf1f"
+	],
+	"resourceIds":[
+		"6821efdeff494c0a5af4d887"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"GET"
+	],
+	"version":4
+}

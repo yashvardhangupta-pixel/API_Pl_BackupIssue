@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68301284efff0f78070fffa7",
+	"createdTime":1747984929148,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Test-Agent/invoke",
+	"id":"68302221a98fab53ebd6b895",
+	"lastModifiedBy":522,
+	"lcName":"trigger agent",
+	"modifiedTime":1751544628653,
+	"name":"Trigger Agent",
+	"ownerUserId":1866,
+	"path":"invoke",
+	"resourceIds":[
+		"66ec7de9343dbb10068139e8"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

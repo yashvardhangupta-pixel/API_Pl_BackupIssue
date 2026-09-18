@@ -1,0 +1,33 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682c11a803534a2cce34e8dd",
+	"createdTime":1747718599159,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"apigroup-ub/acl-api",
+	"id":"682c11c703534a2cce34e8de",
+	"lastModifiedBy":522,
+	"lcName":"acl_api",
+	"modifiedTime":1751544632581,
+	"name":"acl_api",
+	"ownerUserId":44567,
+	"path":"acl-api",
+	"policyIds":[
+		"682b03a93ad66e00c4c7773b"
+	],
+	"resourceIds":[
+		"6828279836516f034a84dfa9"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":9
+}
