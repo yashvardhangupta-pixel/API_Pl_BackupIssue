@@ -1,0 +1,71 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681d45b331aca5541687971e",
+	"createdTime":1746748853310,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"kINKBmXFbScJQRx/automation/endpoint2?resourceId={{RESOURCE_ID}}",
+	"fallbackResponse":{
+		"headers":{},
+		"message":"Not Found",
+		"response":{},
+		"soapResponse":"",
+		"statusCode":404
+	},
+	"httpMethod":"POST",
+	"id":"681d45b531aca55416879726",
+	"lastModifiedBy":522,
+	"lcName":"changesetsecurityqazplmh",
+	"localeBasedFallbackResponse":{
+		"ar-sa":{
+			"headers":{},
+			"message":"Not Found",
+			"response":{},
+			"statusCode":404
+		},
+		"as":{
+			"headers":{},
+			"message":"Not Found",
+			"response":{
+				"x":"2",
+				"y":"3"
+			},
+			"statusCode":404
+		},
+		"af":{
+			"headers":{},
+			"message":"Not Found",
+			"response":{},
+			"statusCode":404
+		},
+		"am":{
+			"headers":{},
+			"message":"Not Found",
+			"response":{
+				"x":"1"
+			},
+			"statusCode":404
+		}
+	},
+	"modifiedTime":1746833691173,
+	"name":"changeSetSECURITYQAzpLMh",
+	"ownerUserId":522,
+	"path":"automation/endpoint2",
+	"policyIds":[
+		"681d45b431aca55416879720"
+	],
+	"resourceIds":[
+		"681d45b2a714206c4725ae73"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":6
+}

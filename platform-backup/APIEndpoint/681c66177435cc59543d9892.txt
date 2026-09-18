@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681c65e87435cc59543d988b",
+	"createdTime":1746691607835,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"runsInProject/runsInProjectScope",
+	"httpMethod":"GET",
+	"id":"681c66177435cc59543d9892",
+	"lastModifiedBy":4130,
+	"lcName":"runsinprojectscope",
+	"modifiedTime":1746691624942,
+	"name":"runsInProjectScope",
+	"ownerUserId":4130,
+	"path":"runsInProjectScope",
+	"resourceIds":[
+		"681c651fdd58e7147c15c240"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
