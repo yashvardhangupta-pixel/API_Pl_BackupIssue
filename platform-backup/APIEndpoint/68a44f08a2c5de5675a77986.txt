@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a44efaa2c5de5675a77984",
+	"createdTime":1755598600631,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"webhook-3/webhook-3?resourceId={{RESOURCE_ID}}",
+	"id":"68a44f08a2c5de5675a77986",
+	"lastModifiedBy":37018,
+	"lcName":"webhook 3",
+	"modifiedTime":1755598602977,
+	"name":"webhook 3",
+	"ownerUserId":37018,
+	"path":"webhook-3",
+	"resourceIds":[
+		"68a4405e992f870d3653b24d"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

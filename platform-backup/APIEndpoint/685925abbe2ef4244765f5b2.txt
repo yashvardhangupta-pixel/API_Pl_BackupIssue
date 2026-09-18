@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68592433be2ef4244765f5ab",
+	"createdTime":1755686047976,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"atc-api/atc",
+	"id":"685925abbe2ef4244765f5b2",
+	"lastModifiedBy":161958,
+	"lcName":"get all atcs",
+	"modifiedTime":1755686190828,
+	"name":"Get All ATCs",
+	"ownerUserId":161958,
+	"path":"atc",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"http://atc-api-service.api-dev2.svc.cluster.local:80/api/atc"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":12
+}

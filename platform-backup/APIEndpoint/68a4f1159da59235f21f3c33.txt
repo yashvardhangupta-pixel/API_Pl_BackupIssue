@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a4f0eb9da59235f21f3c24",
+	"createdTime":1755640222154,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateufczxCgATC/NDRMC/{name}",
+	"id":"68a4f1159da59235f21f3c33",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2csoqookgldm",
+	"modifiedTime":1755640407348,
+	"name":"changeSetQA2CSOqookgLdM",
+	"ownerUserId":175325,
+	"path":"NDRMC/{name}",
+	"policyIds":[
+		"68a4f0d69da59235f21f3c1b"
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}

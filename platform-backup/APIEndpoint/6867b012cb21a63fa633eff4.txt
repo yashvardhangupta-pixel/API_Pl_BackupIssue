@@ -1,0 +1,49 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68678880cb21a63fa633efd5",
+	"createdTime":1755686047992,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"cities-api1/cities",
+	"id":"6867b012cb21a63fa633eff4",
+	"lastModifiedBy":161958,
+	"lcName":"get all cities",
+	"modifiedTime":1755686047992,
+	"name":"Get All Cities",
+	"ownerUserId":161958,
+	"path":"cities",
+	"policyIds":[
+		"68944c0f9058a7d7ba7833ab"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"httpMethod":"GET",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"{{ systemInputs.__ENV__.API_URL_CITY_API }}/cities"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}
