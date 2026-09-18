@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68c39436ef26597401255357",
+	"createdTime":1757647987511,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"changeSetQA2CSOqlLBeFpXxw/changeSetQA2CSOQyPJrjlQd",
+	"id":"68c39473ef26597401255365",
+	"lastModifiedBy":175325,
+	"lcName":"changesetqa2ucouc",
+	"modifiedTime":1757648087563,
+	"name":"changeSetQA2UCouc",
+	"ownerUserId":175325,
+	"path":"changeSetQA2CSOQyPJrjlQd",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"68c3942ee1e8bf6c978931f8"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}

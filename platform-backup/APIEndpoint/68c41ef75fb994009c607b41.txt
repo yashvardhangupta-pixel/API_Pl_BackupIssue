@@ -1,0 +1,38 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68c41ee75fb994009c607b40",
+	"createdTime":1757683447997,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"event-stream-edafsartw/event-stream",
+	"id":"68c41ef75fb994009c607b41",
+	"lastModifiedBy":37018,
+	"lcName":"event stream",
+	"modifiedTime":1757683456878,
+	"name":"event stream",
+	"ownerUserId":37018,
+	"path":"event-stream",
+	"resourceIds":[
+		"e_68c39e0d5168972080827317"
+	],
+	"resourceType":"EVENT_STREAMS",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
