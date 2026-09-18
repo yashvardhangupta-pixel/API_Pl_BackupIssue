@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69622f2a088dbe7fbeaed6c9",
+	"createdTime":1768042327539,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"Yash-Kumar/testing-callable",
+	"id":"69622f57088dbe7fbeaed6cc",
+	"lastModifiedBy":195513,
+	"lcName":"testing callable",
+	"modifiedTime":1768042337220,
+	"name":"testing callable",
+	"ownerUserId":195513,
+	"path":"testing-callable",
+	"resourceIds":[
+		"69622b2887467b01a1ac0236"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
