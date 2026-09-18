@@ -1,0 +1,34 @@
+{
+	"createdTime":1779363243173,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"id":"6a0eedab93c71e398faa63b1",
+	"includeVersionInPath":false,
+	"lastModifiedBy":193381,
+	"lcName":"test12345",
+	"modifiedTime":1779364123930,
+	"name":"test12345",
+	"ownerUserId":193381,
+	"path":"haveYourAns",
+	"standard":false,
+	"telemetryConfig":{
+		"enableTelemetry":true,
+		"metricConfigs":[
+			{
+				"buckets":[
+					
+				],
+				"eventType":"ALWAYS",
+				"metricType":"API_EXECUTION",
+				"name":"ab",
+				"tags":[
+					
+				]
+			}
+		]
+	},
+	"version":1
+}
