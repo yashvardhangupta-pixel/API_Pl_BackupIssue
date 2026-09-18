@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6917ee38b0057168c3e36477",
+	"createdTime":1763176216440,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"UpdateHMairDohNk/Xafsa/{name}",
+	"id":"6917ee645693d456448ab64b",
+	"lastModifiedBy":-1,
+	"lcName":"changesetqa2slbidvfd",
+	"modifiedTime":1763179183394,
+	"name":"changeSetQA2slbidVfD",
+	"ownerUserId":175325,
+	"path":"Xafsa/{name}",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6884666897cc242e3304490f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":3
+}
