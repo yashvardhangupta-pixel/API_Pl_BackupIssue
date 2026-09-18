@@ -1,0 +1,40 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6865621e2a417e65556a24d1",
+	"createdTime":1751474741500,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"planit-tactics-cdl/api/Tactica/ObtenerCDL",
+	"httpMethod":"POST",
+	"id":"686562351a50914c4a8c95a0",
+	"lastModifiedBy":46218,
+	"lcName":"planit tactics cdl api",
+	"modifiedTime":1751474857714,
+	"name":"Planit Tactics CDL API",
+	"ownerUserId":46218,
+	"path":"api/Tactica/ObtenerCDL",
+	"policyIds":[
+		"6865622b2a417e65556a24d2"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"http://internal-prd-alb-planit-157192820.us-east-1.elb.amazonaws.com"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}

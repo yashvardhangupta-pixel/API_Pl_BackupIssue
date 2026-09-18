@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6824a9b450a06355d2074e13",
+	"createdTime":1747233627249,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"Sales-force-api/salesforce-api",
+	"httpMethod":"GET",
+	"id":"6824ab5b50a06355d2074e23",
+	"lastModifiedBy":46218,
+	"lcName":"salesforce api",
+	"modifiedTime":1751467122773,
+	"name":"salesforce api",
+	"ownerUserId":46218,
+	"path":"salesforce-api",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"internal-alb-salesforce-qas-1586422701.us-east-1.elb.amazonaws.com/graphql"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
