@@ -1,0 +1,52 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"68ce28b813f14847248a3a2f",
+	"createdTime":1764877122012,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"testritik/v1/echo/{a}",
+	"id":"6931e34200bb580ea501a162",
+	"lastModifiedBy":161958,
+	"lcName":"echo api",
+	"modifiedTime":1765534333197,
+	"name":"echo api",
+	"ownerUserId":161958,
+	"path":"echo/{a}",
+	"policyIds":[
+		"692f1b73adcca5303443859b"
+	],
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"followRedirects":"NORMAL",
+		"forwardAllPaths":true,
+		"httpVersion":"HTTP_2",
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://ritiktest.free.beeceptor.com/{a}"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":16
+}
