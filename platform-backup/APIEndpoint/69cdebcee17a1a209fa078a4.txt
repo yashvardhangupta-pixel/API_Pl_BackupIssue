@@ -1,0 +1,46 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69cdebc0ec63204040973aee",
+	"createdTime":1775102926481,
+	"customizeTimeout":false,
+	"deleted":false,
+	"description":"Update",
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"changeSetQA2CSIKXNtJQoNlk/UpdateLAmkZESphs",
+	"id":"69cdebcee17a1a209fa078a4",
+	"lastModifiedBy":-1,
+	"lcName":"updateypwgforwox",
+	"modifiedTime":1775108839365,
+	"name":"UpdateyPWGfOrWoX",
+	"ownerUserId":175325,
+	"path":"UpdateLAmkZESphs",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"688469f697cc242e33045458"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":4
+}
