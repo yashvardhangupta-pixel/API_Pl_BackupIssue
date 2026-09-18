@@ -1,0 +1,37 @@
+{
+	"createdTime":1752672782369,
+	"defaultWorkflowWebhookCollection":false,
+	"deleted":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V",
+					"EXPORT"
+				],
+				"principalIds":[
+					"20249"
+				],
+				"principalType":"USER"
+			}
+		]
+	},
+	"id":"6877a8150f47c9b26d92e051",
+	"includeVersionInPath":false,
+	"lastModifiedBy":20249,
+	"lcName":"group to import",
+	"modifiedTime":1752672896083,
+	"name":"group to import",
+	"ownerUserId":37018,
+	"path":"group-to-import",
+	"standard":false,
+	"version":3
+}
