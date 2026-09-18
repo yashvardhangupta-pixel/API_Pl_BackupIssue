@@ -1,0 +1,44 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"690089ad8eca4c4b77fce262",
+	"createdTime":1762019564430,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"VirtusaCollections/emPowerBadgesSchedulerFN-EmployeesSyncEndpointHTTP",
+	"id":"690648ec71b6746a33812485",
+	"lastModifiedBy":308,
+	"lcName":"[empowerbadgesschedulerfn] employeessyncendpointhttp(multiple)",
+	"modifiedTime":1762020275928,
+	"name":"[emPowerBadgesSchedulerFN] EmployeesSyncEndpointHTTP(Multiple)",
+	"ownerUserId":308,
+	"path":"emPowerBadgesSchedulerFN-EmployeesSyncEndpointHTTP",
+	"resourceIds":[
+		"690648d51a17db58c40fd779"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET",
+		"PUT"
+	],
+	"version":2
+}
